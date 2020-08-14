@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% include 'head.njk' %}
+    <title>{{ title }}</title>
+</head>
+<body>
+    <div id="main">
+    {% include 'top-menu.njk' %}
+    <article class="page section-green webinar-index">
+        <ul>
+        {%- for webinar in collections.webinar -%}
+            <li>
+                <img src="https://i.ytimg.com/vi/{{ webinar.data.youtubeID }}/maxresdefault.jpg" class="webinar-preview">
+                <h3>{{ webinar.data.title }}</h3>
+                <p>{{ webinar.data.summary }}</p>
+                <p class="ending-link">
+                    <a href="{{ webinar.url | url }}">Vai al video</a>
+                </p>
+            </li>
+        {%- endfor -%}
+        </ul>
+    </article>
+    {% include 'footer.links.njk' %}
+    {% include 'footer.njk' %}
+    </div>
+</body>
+</html>

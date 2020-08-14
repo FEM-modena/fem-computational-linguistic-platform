@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% include 'head.njk' %}
+    <title>{{ title }}</title>
+</head>
+<body>
+    <div id="main">
+    {% include 'top-menu.njk' %}
+    <article class="page section-green">
+    {{ content | safe }}
+    </article>
+    {% include 'footer.links.njk' %}
+    {% include 'footer.njk' %}
+    </div>
+</body>
+</html>

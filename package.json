@@ -1,0 +1,20 @@
+{
+  "name": "fem-computational-linguistic-platform",
+  "version": "0.9.0",
+  "description": "Il sito web e piattaforma per le attività del team di Linguistica Computazionale di FEM - Future Education Modena",
+  "main": "index.js",
+  "scripts": {
+    "build": "eleventy",
+    "watch": "eleventy --watch",
+    "serve": "eleventy --serve",
+    "start": "eleventy --serve",
+    "debug": "DEBUG=* eleventy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.0",
+    "sharp": "^0.25.4"
+  }
+}

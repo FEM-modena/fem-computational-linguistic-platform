@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% include 'head.njk' %}
+    <title>{{ title }}</title>
+</head>
+<body>
+    <div id="main">
+        {% include 'top-menu.njk' %}
+        <section class="section-green">
+            <div id="hero">
+                <h1 class="main-hero">Come la lingua cambia le idee</h1>
+                <h1 class="sub-hero">Sfide di linguistica computazionale</h1>
+            </div>
+            <div id="frontpage">
+                <h2>{{ featuredMonth }}</h2>
+                <h1>{{ featuredTitle }}</h1>
+                <p>{{ featuredText }}</p>
+                <ul>
+                {%- for activity in collections.featuredActivity -%}
+                    <li>
+                        <h3>{{ activity.data.title }}</h3>
+                        <p>{{ activity.data.summary }}</p>
+                        <p class="ending-link">
+                            <a href="{{ activity.url | url }}">Scopri</a>
+                        </p>
+                    </li>
+                {%- endfor -%}
+                </ul>
+            </div>
+        </section>
+        <section class="section-red">
+            <div id="sidekick">
+                <i class="fas fa-map-signs"></i>
+            </div>
+            <div id="centerpage">
+                <h1 class="sub-hero">L'attività per la tua classe</h1>
+                <p>Segui le indicazioni fornite e scegli l’attività perfetta per la tua classe, grazie ad una serie di domande costruite per guidarti passo passo. Scarica poi i materiali e le indicazioni per portarla a termine.</p>
+                <p class="ending-link">
+                    <a href="/trova-attivita">Scopri il percorso</a>
+                </p>
+            </div>
+        </section>
+        <section class="multiline section-yellow">
+            <h2>Approfondimenti</h2>
+            <div class="bottompage">
+                <h1>Webinar</h1>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam molestiae rerum laudantium reiciendis! Ea quae autem quo molestiae quis. Earum animi voluptatum omnis temporibus alias itaque illum. Reprehenderit, neque expedita.</p>
+                <p class="ending-link">
+                    <a href="/webinar">Vedi tutti i webinar</a>
+                </p>
+            </div>
+            <div class="bottompage">
+                <h1>Materiale Extra</h1>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam molestiae rerum laudantium reiciendis! Ea quae autem quo molestiae quis. Earum animi voluptatum omnis temporibus alias itaque illum. Reprehenderit, neque expedita.</p>
+                <p class="ending-link">
+                    <a href="/materiale-extra">Consulta il materiale</a>
+                </p>
+            </div>
+        </section>
+        {% include 'footer.links.njk' %}
+        {% include 'footer.njk' %}
+    </div>
+</body>
+</html>

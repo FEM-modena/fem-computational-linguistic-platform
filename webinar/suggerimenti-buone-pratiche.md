@@ -1,0 +1,13 @@
+---
+title: "Linguistica, apprendimento e didattica digitale consigli, suggerimenti e buone pratiche"
+summary: "Che cos’è la linguistica e come può essere utilizzata per favorire l’apprendimento? Durante questa chiacchierata con i linguisti del FEM, Matteo Di Cristofaro, Giulia Berardinelli e Francesca Mangialardo, scopriremo come teorie, metodi e strumenti propri della linguistica (computazionale) possano risolvere problemi reali e fornire supporto in ambito didattico."
+youtubeID: xFZ56V3U4SQ
+date: 2020-04-01
+---
+Consequat mollit sunt dolor sunt adipisicing ad. Fugiat elit ex elit commodo laborum deserunt aliqua. Commodo laboris nulla laborum laboris excepteur amet fugiat excepteur eu ad est enim culpa ipsum. Reprehenderit irure dolor pariatur eiusmod minim eiusmod sit aute. Nostrud veniam sunt laborum ea deserunt do enim ad aliquip consectetur sit laboris dolor do. Consequat enim laboris fugiat aliquip culpa enim aliquip amet. Ipsum incididunt minim excepteur esse. Commodo cillum quis quis officia dolor velit mollit deserunt deserunt laboris fugiat duis eiusmod. Lorem do adipisicing qui minim exercitation quis id ipsum. Aliquip veniam exercitation sunt cupidatat nulla eiusmod aute esse magna aute nisi reprehenderit nulla. Aliqua sunt qui eiusmod labore ex esse aliqua laboris excepteur. Eu cillum commodo et veniam laborum dolore mollit quis ad officia aliquip. Commodo sunt velit ut aliqua exercitation eu enim ullamco labore est consectetur. Veniam tempor irure anim laboris excepteur sunt magna nisi sit elit minim voluptate ex. Magna quis cupidatat magna Lorem pariatur veniam culpa. Cupidatat dolor culpa excepteur tempor officia officia nostrud Lorem excepteur officia enim amet.
+
+Dolor do esse reprehenderit ea tempor et reprehenderit in esse officia esse. Eiusmod duis nostrud ipsum aliqua pariatur dolore commodo non. Aute ullamco labore eu magna fugiat deserunt et officia laboris culpa pariatur officia. Ipsum quis sit pariatur duis ipsum laboris est Lorem ad sunt. Ipsum dolore irure magna excepteur reprehenderit in do. Proident sunt cupidatat tempor enim.
+
+Quis mollit voluptate non Lorem laboris sit. Excepteur pariatur in deserunt incididunt cillum deserunt eiusmod officia qui voluptate enim mollit consequat. Veniam consequat enim aute minim culpa labore laboris veniam exercitation ex velit. Proident culpa consectetur in nulla sunt aliqua cillum nulla pariatur nulla.
+
+Et ullamco ea commodo sint do tempor eiusmod Lorem proident aliquip sunt tempor veniam. Qui eiusmod veniam laborum id qui esse officia. Do excepteur occaecat consequat eu. Non occaecat pariatur aliquip irure voluptate dolore aliqua commodo dolore officia. Id nostrud aliqua occaecat pariatur exercitation est et do exercitation ut excepteur ut aliqua.

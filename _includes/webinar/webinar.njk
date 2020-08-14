@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% include 'head.njk' %}
+    <title>{{ title }}</title>
+</head>
+<body>
+    <div id="main">
+    {% include 'top-menu.njk' %}
+
+    <section class="webinar-video">
+        <iframe src="https://www.youtube.com/embed/{{ youtubeID }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </section>
+    <article class="page section-yellow">
+        <p class="ending-link">
+            <a href="/webinar">Tutti i webinar</a>
+        </p>
+        <h1>{{ title }}</h1>
+        <p class="webinar-summary">{{ summary }}</p>
+        {{ content | safe }}
+    </article>
+    {% include 'footer.links.njk' %}
+    {% include 'footer.njk' %}
+    </div>
+</body>
+</html>
