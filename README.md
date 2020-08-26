@@ -74,6 +74,14 @@ Questo progetto segue i canoni generici dei pacchetti `node.js`. Come contribuir
 - **Commit**. Ogni volta che pensi di essere arrivato ad un punto fermo, come se fossi in un videogioco, salva questo stato dei documenti con una *consegna* (*commit* in italiano). Usa una descrizione che possa aiutare a capire le modifiche che hai appena fatto (prediligi il perché e non il cosa, es.: "Chiarito un passaggio del documento" invece che "Aggiunto un paragrafo".)
 - **Pull request**. Quando pensi che il tuo lavoro sia pronto per essere riunito al ramo di sviluppo principale, fai in modo che il repository su Github sia allineato a quello del tuo computer e infine chiedi che il lavoro che hai fatto (meglio se identificato da un ramo particolare, vedi *Branch*) venga riunito al ramo di sviluppo principale con un Pull Request.
 
+Cosa succede se il mio fork rimane indietro rispetto al repository principale? Non è difficile!
+- **Upstream**. Verifica (con `git remote -v`) che la tua copia di lavoro abbia due *remote*: `origin` sarà il tuo fork, `upstream` sarà il repository principale. Per aggiungere un *remote* usa il comando che segue.
+```
+$ git remote add upstream git@github.com:FEM-modena/fem-computational-linguistic-platform.git
+```
+- **Fetch**. Scarica le ultime modifiche dal repository principale: `git fetch upstream`.
+- **Merge**. Riunisci le modifiche che hai appena scaricato da `upstream` nel tuo branch: `git merge upstream/master`
+
 ### Sviluppo locale
 Dopo che avrai creato la tua copia del repository sul tuo computer, dovrai attivare gli strumenti per generare la versione di sviluppo del sito.
 
