@@ -1,9 +1,9 @@
 ---
 tags: featured202010
-title: "A donna alla finestra non far festa": Identità e genere nei testi letterari"
+title: tbd
 summary: "Attraverso questa attività sarà possibile leggere in chiave sociolinguistica l'opera I Malavoglia, con particolare attenzione al discorso di genere."
 ---
-# "A donna alla finestra non far festa": Identità e genere nei testi letterari
+# tbd
 
 ## Lo scenario (O meglio, perchè lavorare su questo scenario?)
 Quando parliamo di **analisi del discorso** ci riferiamo ad un approccio che si concentra sull’analisi degli **aspetti sociali della comunicazione** e mira a scoprire i meccanismi attraverso cui un certo contesto o gruppo sociale crea i significati linguistici. 
@@ -12,11 +12,10 @@ Negli ultimi anni è emersa in modo sempre più forte la necessità di adottare 
 Ma che cosa significa **comunicare in ottica di genere**? A partire dall’analisi di contenuti linguistici è possibile riflettere in maniera critica su fenomeni sociali quanto mai attuali e rilevanti.
 
 ## L'attività
-In questa attività si propone l’esplorazione dei Malavoglia (fonte <a href="https://it.wikisource.org/wiki/I_Malavoglia" target="_blank">Wikisource</a>) attraverso Voyant, con lo scopo di potenziare la tradizionale analisi del testo letterario riflettendo sul concetto di agency e sulle sue implicazioni rispetto alla comunicazione di genere.
+In questa attività annoteremo una raccolta di testi digitali, prevalentemente provenienti da testate giornalistiche, attraverso la piattagorma erbaluce (link istruzioni ecc). Impareremo a riconoscere all'interno di un testo gli elementi che veicolano informazioni sul genere e questo ci permetterà di leggere i fenomeni di attualità proposti dagli articoli in ottica critica, riflettendo sul concetto di agency e sulle sue implicazioni rispetto alla comunicazione di genere.
 
-## Perchè usare Voyant?
-Solitamente in classe non c’è tempo di approfondire le opere letterarie quanto si vorrebbe. In particolare per l’analisi dei personaggi, ci si affida spesso a estratti esemplificativi scelti ad hoc e a testi critici riportati nel manuale di riferimento che semplificano di fatto l’attività di interpretazione critica. 
-Tramite Voyant possiamo, in questo caso, andare a cercare i nomi dei singoli personaggi per leggere e confrontare facilmente tutte le porzioni di testo che in qualche modo parlano di loro. 
+## Perchè usare erbaluce?
+
 
 ## Perchè l’agentività?
 L’agentività (*human agency*) è la capacità umana di agire attivamente nel contesto sociale in cui si è inseriti e di esercitare la propria influenza sugli eventi. La linguistica ci offre un modo per osservare come essa venga espressa e codificata, in quanto qualsiasi atto linguistico ha il potenziale di generare un effetto su chiunque lo riceva, a prescindere dalle intenzioni del mittente. La lingua può quindi influire sulle azioni future, sul modo di interpretare il mondo e anche su come viene organizzata la conoscenza nella mente. Ma in che modo? 
@@ -32,6 +31,10 @@ L’attività contribuisce allo sviluppo della competenza alfabetica funzionale,
 
 ## Difficoltà
 Parola = complessità. Ma dobbiamo vedere come viene la rappresentazione. Indicazioni normali: il testo dev'essere leggibile con sintetizzatori vocali. Però voyant non prevede proprio la lettura, vediamo le bolle quanto sono decodificabili. 
+
+## Che cosa mi serve?
+- Tecnologie: Una stampante se si vuole fare l’attività in modalità analogica-cartacea
+- Tecnologie: GDocs o strumenti simili per fare l’attività online in modo collaborativo e Classroom per la restituzione
 
 ## Prerequisiti
 - *Come si spiega il concetto di genere?* <a href="https://www.who.int/health-topics/gender#tab=tab_1" target="_blank">WHO</a> definisce il genere come l’insieme di caratteristiche di donne, uomini, ragazze e ragazzi, che sono socialmente costruite. Include norme, comportamenti e ruoli associati con l’essere donna, uomo, ragazza o ragazzo, e anche le relazioni tra di loro. Come costrutto sociale, il gender varia da società a società e può cambiare nel corso del tempo. 
