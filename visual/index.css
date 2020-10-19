@@ -4,10 +4,10 @@ html, body {
     padding: 0;
     font-family: museo-sans, sans-serif;
 }
-ul {
+/* ul {
     list-style: None;
     padding: 0;
-}
+} */
 a, a:active, a:visited {
     color: #F7B132;
     text-decoration: none;
@@ -249,6 +249,25 @@ blockquote.document-quote {
     padding: 2rem;
     font-style: italic;
 }
+ /* accordion in activity pages */   
+ .accordion-header {
+    cursor: pointer;
+    }
+
+    .accordion-panel {
+    border: 1px solid  #E78CA7;
+    margin: 2px;
+    padding: 5px;
+    background-color: #fcf0f4;
+    }
+
+    .accordion-panel > .accordion-body {
+    display: none;
+    }
+
+    .accordion-panel.accordion-expanded > .accordion-body {
+    display: block;
+    }
 
 @media only screen
  and (min-device-width: 360px)
@@ -339,4 +358,5 @@ blockquote.document-quote {
         width: 100vw;
         height: calc(100vw * 0.5625);
     }
+
 }
