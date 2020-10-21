@@ -5,15 +5,18 @@ summary: "Attraverso questa attività sarà possibile leggere in chiave sociolin
 ---
 # "A donna alla finestra non far festa": Identità e genere nei testi letterari
 
+<table><thead><tr><th>Scenario</th><th>Caratteristica linguistica</th><th>Tema</th><th>Tipologia testuale</th><th>Tempo stimato</th><th>Destinatari</th><th>BES/Difficoltà</th></tr></thead><tbody><tr><td>Oltre il testo</td><td>Agentività</td><td>Linguaggi di genere</td><td>Testo narrativo</td><td>1h30-2h</td><td>Triennio SS2</td><td>🟡</td></tr></tbody></table>
+
 ## Presentazione dell'attività
 
 <div class="accordion">
 
 ### Lo scenario 
 Quando parliamo di **analisi del discorso** ci riferiamo ad un approccio che si concentra sull’analisi degli **aspetti sociali della comunicazione** e mira a scoprire i meccanismi attraverso cui un certo contesto o gruppo sociale crea i significati linguistici. 
+
 La lingua che utilizziamo dà forma alla nostra visione del mondo e della società, determinando se certi atteggiamenti, valori o credenze siano legittimi o meno. Solo considerando che la lingua è soprattutto un **prodotto sociale** oltre che un insieme di regole grammaticali, possiamo imparare a interpretare le parole con spirito critico e rispettoso dell’altro.  
-Negli ultimi anni è emersa in modo sempre più forte la necessità di adottare una comunicazione che rispetti la **specificità di ciascun genere** (uomini, donne e ogni soggettività LGBT) e dia voce alla pluralità di punti di vista abbattendo gli stereotipi. 
-Ma che cosa significa **comunicare in ottica di genere**? A partire dall’analisi di contenuti linguistici è possibile riflettere in maniera critica su fenomeni sociali quanto mai attuali e rilevanti.
+
+Negli ultimi anni è emersa in modo sempre più forte la necessità di adottare una comunicazione che rispetti la **specificità di ciascun genere** (uomini, donne e ogni soggettività LGBT) e dia voce alla pluralità di punti di vista abbattendo gli stereotipi. Ma che cosa significa **comunicare in ottica di genere**? A partire dall’analisi di contenuti linguistici è possibile riflettere in maniera critica su fenomeni sociali quanto mai attuali e rilevanti.
 
 ### L'attività
 In questa attività si propone l’esplorazione dei Malavoglia (fonte <a href="https://it.wikisource.org/wiki/I_Malavoglia" target="_blank">Wikisource</a>) attraverso Voyant, con lo scopo di potenziare la tradizionale analisi del testo letterario riflettendo sul concetto di agency e sulle sue implicazioni rispetto alla comunicazione di genere.
@@ -41,9 +44,11 @@ NB: Questa attività può essere svolta da sola ma è pensata per essere associa
 <h3 class="accordion-header">Obiettivi didattici e abilità linguistiche coinvolte</h3>
 <div class="accordion-body">
 
-Gli obiettivi didattici di tutte le nostre attività rispettano le normative nazionali ed europee in materia di didattica e apprendimento. 
-In questa ci si concentrerà sulle abilità di lettura e di approfondimento metalinguistico. 
+Gli obiettivi didattici di tutte le nostre attività rispettano le **normative nazionali ed europee** in materia di didattica e apprendimento. 
+
+In questa ci si concentrerà sulle **abilità di lettura** e di **approfondimento metalinguistico**. 
 Tenendo in considerazione i macro aspetti della comprensione del testo, si chiede allo studente di muoversi nel testo adottando diverse strategie di lettura, ritrovare informazioni, far emergere aspetti impliciti e farli dialogare con la propria soggettività. 
+
 L’attività contribuisce allo sviluppo della competenza alfabetica funzionale, soprattutto se considerata nella sua accezione più sociale e interazionale: “Un atteggiamento positivo nei confronti di tale competenza comporta la disponibilità al dialogo critico e costruttivo [...]. Implica la consapevolezza dell’impatto della lingua sugli altri e la necessità di capire e usare la lingua in modo positivo e socialmente responsabile.”
 </div>
 </div>

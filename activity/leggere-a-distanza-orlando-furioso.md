@@ -14,6 +14,7 @@ La lettura a distanza ha come oggetto la letteratura, vista da lontano grazie ag
 
 ### L'attività
 Al centro di questa attività è il poema cavalleresco di Ludovico Ariosto, oggetto di studio durante il secondo biennio della scuola secondaria di secondo grado. Difficilmente i tempi della didattica consentono le lettura integrale dell’opera. Grazie a questa attività è possibile accostarsi all’opera nella sua interezza, che può essere attraversata da percorsi infiniti, suggeriti dal docente e/o scoperti liberamente dallo studente. L’analisi di parole chiave, temi, personaggi, stile di narrazione… può essere realizzata per tutto il testo o per singoli canti o episodi.
+
 Dopo una breve presentazione dell’opera, dell’autore e del contesto da parte del docente, anche secondo le modalità della *flipped classroom*, il docente suggerisce degli spunti di ricerca, favorendo una lettura del testo il più possibile autonoma da parte dello studente. Gli spunti di ricerca possono essere svolti individualmente o in gruppo dagli studenti. Inoltre il docente può adattare la complessità degli spunti di ricerca alle competenze degli studenti. Infine il docente, dopo una breve introduzione, può lasciare liberi gli studenti di formulare delle piste di ricerca.
 
 <div class="accordion-panel">

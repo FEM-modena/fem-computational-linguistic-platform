@@ -152,9 +152,16 @@ article h2 {
 /* Tables in articles */
 article th,td {
   border-bottom: 1px solid #ddd;
+  padding: 1px 15px;
 }
 
 article tr:hover {background-color:#f5f5f5;}
+
+table {
+    width: 100%;
+    table-layout: fixed;
+    padding: 0px 15px;
+}
 
 /* Pages */
 blockquote.document-quote {
@@ -252,13 +259,14 @@ blockquote.document-quote {
  /* accordion in activity pages */   
  .accordion-header {
     cursor: pointer;
+    padding: 0px 20px;
+    color: #e5f7f1;
     }
 
     .accordion-panel {
-    border: 1px solid  #E78CA7;
+    border: 1px solid  #00AF7C;
     margin: 2px;
-    padding: 5px;
-    background-color: #fcf0f4;
+    background-color: #00AF7C;
     }
 
     .accordion-panel > .accordion-body {
@@ -267,6 +275,8 @@ blockquote.document-quote {
 
     .accordion-panel.accordion-expanded > .accordion-body {
     display: block;
+    padding: 5px 20px;
+    background-color: #e5f7f1;
     }
 
 @media only screen
