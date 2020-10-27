@@ -4,10 +4,10 @@ html, body {
     padding: 0;
     font-family: museo-sans, sans-serif;
 }
-ul {
+/* ul {
     list-style: None;
     padding: 0;
-}
+} */
 a, a:active, a:visited {
     color: #F7B132;
     text-decoration: none;
@@ -152,9 +152,16 @@ article h2 {
 /* Tables in articles */
 article th,td {
   border-bottom: 1px solid #ddd;
+  padding: 1px 15px;
 }
 
 article tr:hover {background-color:#f5f5f5;}
+
+table {
+    width: 100%;
+    table-layout: fixed;
+    padding: 0px 15px;
+}
 
 /* Pages */
 blockquote.document-quote {
@@ -249,6 +256,28 @@ blockquote.document-quote {
     padding: 2rem;
     font-style: italic;
 }
+ /* accordion in activity pages */   
+ .accordion-header {
+    cursor: pointer;
+    padding: 0px 20px;
+    color: #e5f7f1;
+    }
+
+    .accordion-panel {
+    border: 1px solid  #00AF7C;
+    margin: 2px;
+    background-color: #00AF7C;
+    }
+
+    .accordion-panel > .accordion-body {
+    display: none;
+    }
+
+    .accordion-panel.accordion-expanded > .accordion-body {
+    display: block;
+    padding: 5px 20px;
+    background-color: #e5f7f1;
+    }
 
 @media only screen
  and (min-device-width: 360px)
@@ -339,4 +368,5 @@ blockquote.document-quote {
         width: 100vw;
         height: calc(100vw * 0.5625);
     }
+
 }
