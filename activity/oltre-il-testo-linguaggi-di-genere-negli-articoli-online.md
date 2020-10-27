@@ -16,13 +16,13 @@ Negli ultimi anni è emersa in modo sempre più forte la necessità di adottare 
 Ma che cosa significa **comunicare in ottica di genere**? A partire dall’analisi di contenuti linguistici è possibile riflettere in maniera critica su fenomeni sociali quanto mai attuali e rilevanti.
 
 ### L'attività
-In questa attività si propone l’annotazione tramite lo strumento @@ erbaluce @@ di una selezione di testi argomentativi (articoli di giornale, paper scientifici, @@@ 
-NB: Questa attività può essere svolta da sola ma è pensata per essere associata alla parte 1 @@ inserire link @@ per massimizzare l’efficacia. 
+In questa attività si propone l’annotazione tramite lo strumento @@ erbaluce @@ di una selezione di testi argomentativi (articoli di giornali online) 
+NB: Questa attività può essere svolta da sola ma è pensata per essere associata a <a href="@@" target="_blank">"A donna alla finestra non far festa": Identità e genere nei testi letterari</a>!. 
 
 <div class="accordion-panel">
 <h3 class="accordion-header">Perchè usare erbaluce?</h3>
 <div class="accordion-body">
-@@@@@@@
+L'annotazioen
 </div>
 </div>
 
