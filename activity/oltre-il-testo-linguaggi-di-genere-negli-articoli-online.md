@@ -17,6 +17,7 @@ Ma che cosa significa **comunicare in ottica di genere**? A partire dall’anali
 
 ### L'attività
 In questa attività si propone l’annotazione tramite lo strumento @@ erbaluce @@ di una selezione di testi argomentativi (articoli di giornale, paper scientifici, @@@ 
+NB: Questa attività può essere svolta da sola ma è pensata per essere associata alla parte 1 @@ inserire link @@ per massimizzare l’efficacia. 
 
 <div class="accordion-panel">
 <h3 class="accordion-header">Perchè usare erbaluce?</h3>
@@ -31,8 +32,6 @@ In questa attività si propone l’annotazione tramite lo strumento @@ erbaluce 
 
 L’agentività (*human agency*) è la capacità umana di agire attivamente nel contesto sociale in cui si è inseriti e di esercitare la propria influenza sugli eventi. La linguistica ci offre un modo per osservare come essa venga espressa e codificata, in quanto qualsiasi atto linguistico ha il potenziale di generare un effetto su chiunque lo riceva, a prescindere dalle intenzioni del mittente. La lingua può quindi influire sulle azioni future, sul modo di interpretare il mondo e anche su come viene organizzata la conoscenza nella mente. Ma in che modo? 
 In questa attività sarà possibile osservare l’agency grazie ai verbi (che forniscono informazioni sulle azioni svolte o subite dal soggetto), i sostantivi e agli aggettivi (che connotano o meno in ottica di genere la loro esistenza). 
-    
-NB: Questa attività può essere svolta da sola ma è pensata per essere associata alla parte 1 @@ inserire link @@ per massimizzare l’efficacia. 
 </div>
 </div>
 
