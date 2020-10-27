@@ -32,8 +32,6 @@ Tramite Voyant possiamo, in questo caso, andare a cercare i nomi dei singoli per
 <div class="accordion-panel">
 <h3 class="accordion-header">Perchè l’agentività?</h3>
 <div class="accordion-body">
-
-=======
 L’agentività (*human agency*) è la capacità umana di agire attivamente nel contesto sociale in cui si è inseriti e di esercitare la propria influenza sugli eventi. La linguistica ci offre un modo per osservare come essa venga espressa e codificata, in quanto qualsiasi atto linguistico ha il potenziale di generare un effetto su chiunque lo riceva, a prescindere dalle intenzioni del mittente. La lingua può quindi influire sulle azioni future, sul modo di interpretare il mondo e anche su come viene organizzata la conoscenza nella mente. Ma in che modo? 
 In questa attività sarà possibile osservare l’agency grazie ai verbi (che forniscono informazioni sulle azioni svolte o subite dal soggetto), ai discorsi diretti dei personaggi (che ci danno l’idea delle interazioni reali che hanno nell’opera) e agli aggettivi (che connotano o meno in ottica di genere la loro esistenza. 
     
@@ -66,8 +64,6 @@ Fornire un pc per ciascuno studente o gruppo di studenti
 <div class="accordion-panel">
 <h3 class="accordion-header">Conoscenze</h3>
 <div class="accordion-body">
-
-=======
 - *Come si spiega il concetto di genere?* <a href="https://www.who.int/health-topics/gender#tab=tab_1" target="_blank">WHO</a> definisce il genere come l’insieme di caratteristiche di donne, uomini, ragazze e ragazzi, che sono socialmente costruite. Include norme, comportamenti e ruoli associati con l’essere donna, uomo, ragazza o ragazzo, e anche le relazioni tra di loro. Come costrutto sociale, il gender varia da società a società e può cambiare nel corso del tempo. 
 
 - *Che cosa sono gli stereotipi di genere?* <a href="https://eige.europa.eu/thesaurus/terms/1222" target="_blank">EIGE</a> li definisce come quelle idee preconcette in cui a uomini e donne vengono assegnate arbitrariamente delle caratteristiche e dei ruoli determinati e limitati al loro genere.
@@ -133,38 +129,6 @@ NB: Ti consigliamo di organizzare l’attività in gruppi, assegnando un persona
 ### Esempio 
 
 <a href="https://voyant-tools.org/?corpus=cd04628b21b65568d5a462fea9e58720&stopList=keywords-84cb956a2dfe65680cdf2ff5429350d8&query=maruzza&view=Contexts" target="_blank">Maruzza</a>
-=======
-
-# Domande di ricerca e indicazioni per lo svolgimento
-Questo è un elenco di domande di ricerca incrementali (dalle più semplici alle più complesse) che consigliamo di svolgere una dopo l’altra.
-
-## Introduzione: Quanto testo?
-*L’autore dedica lo stesso spazio nel testo a personaggi maschili e personaggi femminili?*
-1. Identifica insieme alla classe i personaggi dell’opera (Maruzza, Mena, Padron ‘Ntoni ecc.)
-2. Chiedi a ciascun* student* di aprire il corpus di Voyant a questo <a href="https://voyant-tools.org/?corpus=cd04628b21b65568d5a462fea9e58720&stopList=keywords-84cb956a2dfe65680cdf2ff5429350d8&panels=cirrus,reader,trends,bubblelines,contexts" target="_blank">link</a>. Prendetevi del tempo per familiarizzare con lo strumento (trovi una guida rapida @@ qui @@)
-3. Chiedi di inserire nella casella di testo di Bubblelines i nomi dei personaggi uno alla volta e selezionate la casella “Righe diverse per ogni parola”. Otterrete una rappresentazione simile (consultabile a questo <a href="https://voyant-tools.org/?corpus=cd04628b21b65568d5a462fea9e58720&view=Bubblelines&stopList=keywords-84cb956a2dfe65680cdf2ff5429350d8&query=bastianazzo&query=maruzza&query=luca&query=alessi&query=lia&query=li&query=mena&query=ntoni&query=%22padron%20%27ntoni%22&docId=4b7b8afc251ef99a6397bc3d8a534b1e" target="_blank">link</a>): 
-
-<img src="/visual/oltre-il-testo-i-malavoglia/oltre-il-testo-i-malavoglia-1.png" alt="drawing" width="100%"/>
-
-4. Provate a leggere insieme questa visualizzazione. Ciascuna riga ha un colore diverso e rappresenta un personaggio; la quantità e la grandezza delle bolle rappresentano la sua presenza nel testo. I numeri a lato di ciascuna riga indicano le occorrenze dei nomi dei personaggi all’interno dell’opera.
-5. Interpretate i dati: 
-    - Sommando le occorrenze, quanto spazio hanno i personaggi maschili e quanto quelli femminili?
-    - Se c’è differenza, secondo voi per quale motivo? Ad esempio, maggiore spazio corrisponde ai protagonisti? 
-    - È giusto generalizzare delle conclusioni basandoci solo su questi dati?
-
-## Processi
-*I personaggi maschili e i personaggi femminili partecipano allo stesso numero di processi nell’opera? Processi di che tipo? In che luoghi?*
-
-1. Brainstorming: Identifica insieme alla classe dei personaggi di interesse e chiedi di immaginare, singolarmente o in gruppi, quali e quante azioni i personaggi svolgono all’interno del romanzo. Confrontatevi tra di voi per scoprire analogie e differenze nelle vostre previsioni.
-2. Chiedi a ciascun* student* di prendere la tabella da compilare con i nomi dei personaggi (@@ link al file @@)
-3. Chiedi a ciascun* student* di aprire il corpus di Voyant a questo <a href="https://voyant-tools.org/?corpus=cd04628b21b65568d5a462fea9e58720&stopList=keywords-84cb956a2dfe65680cdf2ff5429350d8&panels=cirrus,reader,trends,bubblelines,contexts" target="_blank">link</a>. Prendetevi del tempo per familiarizzare con lo strumento (trovi una guida rapida @@qui@@) 
-4. Chiedi a ciascun* student* di cercare il nome di un personaggio del romanzo nella casella di testo dello strumento Contesti. 
-NB: Ti consigliamo di organizzare l’attività in gruppi, assegnando un personaggio a ciascun gruppo!
-5. Fai scaricare la tabella da compilare (@@LINK@@): ciascun gruppo inserirà in alto il nome del proprio personaggio e leggerà le categorie che si chiede di assegnare a ciascun verbo: processo materiale, comportamentale, mentale, verbale, relazionale, esistenziale (non è obbligatorio utilizzare tutte le categorie)
-6. Scorrendo i risultati di *Contesti*, chiedi di identificare e segnare nella tabella a disposizione NUMERO@@@ azioni in cui il personaggio ha qualche ruolo. A volte basterà segnare un verbo, altre volte il predicato sarà più articolato. Per ciascuna azione, inserire categoria, porzione di testo e luogo in cui si svolge, cercando anche di motivare perchè luogo sia proprio quello indicato. Ecco un esempio di come compilare la tabella:
-
-### <a href="https://voyant-tools.org/?corpus=cd04628b21b65568d5a462fea9e58720&stopList=keywords-84cb956a2dfe65680cdf2ff5429350d8&query=maruzza&view=Contexts" target="_blank">Maruzza</a>
-
 <table>
 <tbody>
 <tr>
