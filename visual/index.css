@@ -4,10 +4,6 @@ html, body {
     padding: 0;
     font-family: museo-sans, sans-serif;
 }
-/* ul {
-    list-style: None;
-    padding: 0;
-} */
 a, a:active, a:visited {
     color: #F7B132;
     text-decoration: none;
@@ -56,6 +52,10 @@ section.multiline {
     width: 100%;
     max-width: 1200px;
     margin: 0 auto;
+}
+#main ul {
+    list-style: None;
+    padding: 0;
 }
 /* Top Menu */
 #top-menu {
