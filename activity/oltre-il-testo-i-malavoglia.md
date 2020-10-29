@@ -129,7 +129,7 @@ NB: Ti consigliamo di organizzare l’attività in gruppi, assegnando un persona
 ### Esempio 
 
 <a href="https://voyant-tools.org/?corpus=cd04628b21b65568d5a462fea9e58720&stopList=keywords-84cb956a2dfe65680cdf2ff5429350d8&query=maruzza&view=Contexts" target="_blank">Maruzza</a>
-<table>
+<table class="zebra">
 <tbody>
 <tr>
 <td>
