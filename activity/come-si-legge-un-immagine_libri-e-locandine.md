@@ -1,4 +1,8 @@
-# TITOLO
+---
+title: "Come si legge un'immagine: libri e locandine"
+summary: "PROFESSIONE CENERENTOLA"
+---
+# Come si legge un'immagine: libri e locandine
 
 ## Descrizione scenario ed attività
 Leggere un’immagine vuol dire cogliere il significato ideativo del linguaggio in generale e del linguaggio visuale. Da un’analisi linguistica multimodale iniziale si giunge ad un’attività di annotazione sull’immagine fino ad una possibile rielaborazione scritta legata all’interpretazione personale. Il docente può scegliere di partire da una copertina di un libro o dalla locandina della versione cinematografica della storia per proporre l’analisi agli studenti che saranno guidati con l’ausilio di una scheda e potranno consegnare l’attività anche in versione digitale, utilizzando alcune applicazioni.

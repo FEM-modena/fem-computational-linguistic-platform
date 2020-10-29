@@ -3,6 +3,11 @@ module.exports = function(eleventyConfig) {
   // https://www.11ty.dev/docs/copy/#manual-passthrough-file-copy-(faster)
   eleventyConfig.addPassthroughCopy("visual");
 
+  // This will use something like lodash.mergewith to combine Arrays and deep merge Objects,
+  // rather than a simple top-level merge using Object.assign.
+  // https://www.11ty.dev/docs/data-deep-merge/
+  eleventyConfig.setDataDeepMerge(true);
+
   // Questa collezione custom prende i documenti che hanno il tag 
   // relativo al mese corrente (es.: `featured202008`) e ne tiene 
   // solo i primi 3.
