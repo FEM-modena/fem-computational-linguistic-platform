@@ -46,6 +46,13 @@ section.multiline {
 .section-pink {
     border-bottom: 1px solid #E78CA7;
 }
+a.button {
+    padding: .75em 1.5em;
+    background-color: #F7B132;
+    color: #FFF;
+    text-transform: uppercase;
+    border-radius: 5px;
+}
 /* ****************** */
 /* Components */
 #main {
