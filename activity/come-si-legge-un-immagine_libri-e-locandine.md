@@ -14,7 +14,7 @@ L’attività può essere svolta, per esempio, a completamento di un percorso di
 
 ## Domande di ricerca
 
-> Questa sezione è un adattamento dei materiali e attività contenute in O’Halloran (2008).
+> Questa sezione è un adattamento dei materiali e attività contenute in O’Halloran (2008)[^1]
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -94,4 +94,4 @@ Di seguito è riportata l'annotazione sulle immagini di **Dracula** tratte dalla
 | Ricerca e organizzazione delle risorse Web    | Sa esplorare le risorse fornite, ricercarne di ulteriori in modo autonomo citando le fonti e organizzare coerentemente le informazioni\.                                                         | Sa esplorare le risorse fornite, guidato riesce a ricercarne di ulteriori citando le fonti, e organizzare le informazioni\.                                                                 | Guidato riesce ad esplorare bene le risorse fornite e a ricercarne ulteriori citando le fonti, e organizzare, anche se in maniera confusionaria, le informazioni\.               | Solo guidato riesce ad esplorare le risorse fornite e a ricercarne ulteriori\.                                                                                               |
 
 ### Riferimenti
-O’Halloran, Kay L . 2008. ‘Systemic Functional-Multimodal Discourse Analysis (SF-MDA): Constructing Ideational Meaning Using Language and Visual Imagery’. *Visual Communication* 7 (4): 443–75.
+[^1]: O’Halloran, Kay L . 2008. ‘Systemic Functional-Multimodal Discourse Analysis (SF-MDA): Constructing Ideational Meaning Using Language and Visual Imagery’. *Visual Communication* 7 (4): 443–75.
