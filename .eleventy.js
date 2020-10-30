@@ -27,4 +27,13 @@ module.exports = function(eleventyConfig) {
   // http://dirtystylus.com/2020/06/15/eleventy-markdown-and-footnotes/
   // https://www.11ty.dev/docs/languages/markdown/#optional-set-your-own-library-instance
   eleventyConfig.setLibrary("md", md);
+
+  // 
+  eleventyConfig.addFilter("toLocalDate", function(value) {
+    if (value instanceof Date) {
+      return value.toLocaleString();
+    } else {
+      return new Date(value).toLocaleString();
+    }
+  });
 };

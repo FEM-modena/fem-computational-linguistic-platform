@@ -254,7 +254,7 @@ blockquote.document-quote {
 .webinar-index img.webinar-preview {
     width: 120px;
     float: left;
-    margin: 1rem;
+    margin: 0 1rem 1rem 0;
 }
 .webinar-video {
     padding: 2rem;
