@@ -1,5 +1,5 @@
 ---
-tags: featured202010
+tags: featured
 title: "A donna alla finestra non far festa"\: Identità e genere nei testi letterari"
 summary: "Attraverso questa attività sarà possibile leggere in chiave sociolinguistica l'opera I Malavoglia, con particolare attenzione al discorso di genere."
 ---

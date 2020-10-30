@@ -17,7 +17,7 @@
                 <h1>{{ featuredTitle }}</h1>
                 <p>{{ featuredText }}</p>
                 <ul>
-                {%- for activity in collections.featuredActivity -%}
+                {%- for activity in collections.featured -%}
                     <li>
                         <h3>{{ activity.data.title }}</h3>
                         <p>{{ activity.data.summary }}</p>
