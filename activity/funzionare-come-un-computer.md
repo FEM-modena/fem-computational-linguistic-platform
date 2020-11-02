@@ -1,5 +1,7 @@
 ---
-tags: featured
+tags: 
+- featured
+- figureconnotazioni
 title: "Funzionare come un computer"
 summary: "Attività incentrata sull'analisi di metafore in testi argomentativi e letterari a tema fantascienza e Intelligenza Artificiale"
 ---

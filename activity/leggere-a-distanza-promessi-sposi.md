@@ -2,7 +2,7 @@
 tags: 
  - featured202008
  - leggeredistanza
-title: "Leggere a distanza | I Promessi Sposi"
+title: "I Promessi Sposi"
 summary: "Al centro di questa attività è il romanzo di Alessandro Manzoni, oggetto di studio durante il primo biennio della scuola secondaria di secondo grado. Attraverso l'approccio quantitativo proposto (distant reading) è possibile scoprire aspetti nuovi rispetto a quelli consentiti dalla lettura ravvicinata o tradizionale."
 ---
 # Leggere a distanza... I Promessi Sposi
