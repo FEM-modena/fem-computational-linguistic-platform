@@ -53,6 +53,18 @@ a.button {
     text-transform: uppercase;
     border-radius: 5px;
 }
+a.wide_button {
+    padding: .75em 1.5em;
+    background-color: #F7B132;
+    color: #FFF;
+    text-transform: uppercase;
+    border-radius: 5px;
+    font-size: 24px;
+}
+div.wide_button{
+    padding: 3% 0%;
+
+}
 /* ****************** */
 /* Components */
 #main {
@@ -159,7 +171,8 @@ article h2 {
 /* Tables in articles */
 article th,td {
   border-bottom: 1px solid #ddd;
-  padding: 1px 15px;
+  padding: 10px 15px;
+  text-align: left;
 }
 
 article tr:hover td {
