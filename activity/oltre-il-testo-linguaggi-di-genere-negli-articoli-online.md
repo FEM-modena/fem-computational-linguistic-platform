@@ -22,7 +22,7 @@ NB: Questa attività può essere svolta da sola ma è pensata per essere associa
 <div class="accordion-panel">
 <h3 class="accordion-header">Perchè usare erbaluce?</h3>
 <div class="accordion-body">
-L'annotazioen
+L'annotazione...
 </div>
 </div>
 
