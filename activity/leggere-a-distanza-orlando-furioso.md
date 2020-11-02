@@ -1,5 +1,7 @@
 ---
-tags: featured202008
+tags: 
+ - featured202008
+ - leggeredistanza
 title: "Leggere a distanza | L'Orlando Furioso"
 summary: "Al centro di questa attività è il poema cavalleresco di Ludovico Ariosto, oggetto di studio durante il secondo biennio della scuola secondaria di secondo grado. Attraverso l'approccio quantitativo proposto (distant reading) è possibile scoprire aspetti nuovi rispetto a quelli consentiti dalla lettura ravvicinata o tradizionale."
 ---

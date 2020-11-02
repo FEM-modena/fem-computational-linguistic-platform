@@ -41,13 +41,18 @@ Tendenzialmente ogni documento dovrebbe avere gli attributi di `layout`, `title`
 Questo sito gestirà come "collezioni" le attività e i webinar; per semplicità i documenti di queste collezioni sono raggruppati nelle relative sottocartelle in cui si trovano dei file JSON con gli attributi da applicare di default a ogni documento.
 
 ## Attività
-Per aggiungere una attività si dovrà creare un file nella cartella activity, seguendo l'esempio di `activity/costruire-immagine.md`. Nella parte iniziale aggiungere il tag che consentirà di mostrare questa attività tra quelle "featured" di un certo mese:
+Per aggiungere una attività si dovrà creare un file nella cartella activity, seguendo l'esempio di `activity/costruire-immagine.md`. Nella parte iniziale aggiungere il tag che consentirà di mostrare questa attività tra quelle "featured" in home page e un tag per lo scenario didattico di appartenenza:
 ```yaml
-tag: featured202010
+tags: 
+ - featured
+ - scenariodidattico1
 ```
-Questa attività comparirà nel mese di ottobre 2020: il tag ha questo formato `featuredYYYYMM`. 
+Questa attività comparirà nel carosello dell'home page e appartiene allo scenario didattico "scenariodidattico1".
 
-Nota di attenzione: il mese corrente è calcolato dinamicamente ma *solo nel momento in cui il sito viene costruito*. Questo significa che all'inizio di ogni mese si dovrà generare una nuova build per consentire la "rotazione" delle attività nella prima pagina.
+Nota di attenzione: la selezione delle attività in home page è calcolata *solo nel momento in cui il sito viene costruito*. Questo significa che si dovrà lanciare una nuova build per consentire la "rotazione" delle attività nella prima pagina.
+
+## Scnari didattici
+Work in progress! Nella pagina vengono dettagliati tutti gli scenari didattici e per ciascuno ci sarà l'elenco delle attività relative, selezionate tramite tag.
 
 ## Webinar
 La gestione dei webinar è molto simile a quella già descritta per le attività, ma il *front matter* aggiunge alcuni dettagli in più.

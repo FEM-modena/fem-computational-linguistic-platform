@@ -8,14 +8,16 @@
     <div id="main">
     {% include 'top-menu.njk' %}
     <article class="page section-green webinar-index">
+        <h1>Tutti i webinar trasmessi</h1>
         <ul>
-        {%- for webinar in collections.webinar -%}
+        {%- for webinar in youtubevideos -%}
             <li>
-                <img src="https://i.ytimg.com/vi/{{ webinar.data.youtubeID }}/maxresdefault.jpg" class="webinar-preview">
-                <h3>{{ webinar.data.title }}</h3>
-                <p>{{ webinar.data.summary }}</p>
+                <img src="{{ webinar.snippet.thumbnails.default.url }}" class="webinar-preview">
+                <h3>{{ webinar.snippet.title }}</h3>
+                <small>{{ webinar.snippet.publishedAt | toLocalDate }}</small>
+                <p>{{ webinar.snippet.description }}</p>
                 <p class="ending-link">
-                    <a href="{{ webinar.url | url }}">Vai al video</a>
+                    <a href="https://www.youtube.com/watch?v={{ webinar.snippet.resourceId.videoId }}">Vai al video</a>
                 </p>
             </li>
         {%- endfor -%}

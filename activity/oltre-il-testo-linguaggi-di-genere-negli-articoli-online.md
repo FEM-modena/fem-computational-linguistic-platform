@@ -1,5 +1,5 @@
 ---
-tags: featured202010
+tags: featured
 title: Linguaggi di genere negli articoli online
 summary: "Attraverso questa attività sarà possibile leggere in chiave sociolinguistica alcuni articoli di giornali online con particolare attenzione al discorso di genere."
 ---
@@ -17,7 +17,7 @@ Ma che cosa significa **comunicare in ottica di genere**? A partire dall’anali
 
 ### L'attività
 In questa attività si propone l’annotazione tramite lo strumento @@ erbaluce @@ di una selezione di testi argomentativi (articoli di giornali online) 
-NB: Questa attività può essere svolta da sola ma è pensata per essere associata a <a href="@@" target="_blank">"A donna alla finestra non far festa": Identità e genere nei testi letterari</a>!. 
+NB: Questa attività può essere svolta da sola ma è pensata per essere associata a <a href="activity/oltre-il-testo-i-malavoglia" target="_blank">"A donna alla finestra non far festa": Identità e genere nei testi letterari</a>!. 
 
 <div class="accordion-panel">
 <h3 class="accordion-header">Perchè usare erbaluce?</h3>
