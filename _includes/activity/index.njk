@@ -1,0 +1,12 @@
+---
+layout: page.njk 
+---
+{{ content | safe }}
+{%- for activity in collections.activity -%}
+    <h3>{{ activity.data.title }}</h3>
+    <p>{{ activity.data.summary }}</p>
+    <p class="ending-link">
+        <a href="{{ activity.url | url }}">Scopri</a>
+    </p>
+    
+{%- endfor -%}

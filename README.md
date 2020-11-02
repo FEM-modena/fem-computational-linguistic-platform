@@ -41,13 +41,18 @@ Tendenzialmente ogni documento dovrebbe avere gli attributi di `layout`, `title`
 Questo sito gestirà come "collezioni" le attività e i webinar; per semplicità i documenti di queste collezioni sono raggruppati nelle relative sottocartelle in cui si trovano dei file JSON con gli attributi da applicare di default a ogni documento.
 
 ## Attività
-Per aggiungere una attività si dovrà creare un file nella cartella activity, seguendo l'esempio di `activity/costruire-immagine.md`. Nella parte iniziale aggiungere il tag che consentirà di mostrare questa attività tra quelle "featured" di un certo mese:
+Per aggiungere una attività si dovrà creare un file nella cartella activity, seguendo l'esempio di `activity/costruire-immagine.md`. Nella parte iniziale aggiungere il tag che consentirà di mostrare questa attività tra quelle "featured" in home page e un tag per lo scenario didattico di appartenenza:
 ```yaml
-tag: featured202010
+tags: 
+ - featured
+ - scenariodidattico1
 ```
-Questa attività comparirà nel mese di ottobre 2020: il tag ha questo formato `featuredYYYYMM`. 
+Questa attività comparirà nel carosello dell'home page e appartiene allo scenario didattico "scenariodidattico1".
 
-Nota di attenzione: il mese corrente è calcolato dinamicamente ma *solo nel momento in cui il sito viene costruito*. Questo significa che all'inizio di ogni mese si dovrà generare una nuova build per consentire la "rotazione" delle attività nella prima pagina.
+Nota di attenzione: la selezione delle attività in home page è calcolata *solo nel momento in cui il sito viene costruito*. Questo significa che si dovrà lanciare una nuova build per consentire la "rotazione" delle attività nella prima pagina.
+
+## Scnari didattici
+Work in progress! Nella pagina vengono dettagliati tutti gli scenari didattici e per ciascuno ci sarà l'elenco delle attività relative, selezionate tramite tag.
 
 ## Webinar
 La gestione dei webinar è molto simile a quella già descritta per le attività, ma il *front matter* aggiunge alcuni dettagli in più.
@@ -73,6 +78,14 @@ Questo progetto segue i canoni generici dei pacchetti `node.js`. Come contribuir
 - **Sviluppo**. Inizializza gli strumenti a supporto del progetto. Per questo segui la prossima parte della guida per poter svolgere l'effettivo lavoro!
 - **Commit**. Ogni volta che pensi di essere arrivato ad un punto fermo, come se fossi in un videogioco, salva questo stato dei documenti con una *consegna* (*commit* in italiano). Usa una descrizione che possa aiutare a capire le modifiche che hai appena fatto (prediligi il perché e non il cosa, es.: "Chiarito un passaggio del documento" invece che "Aggiunto un paragrafo".)
 - **Pull request**. Quando pensi che il tuo lavoro sia pronto per essere riunito al ramo di sviluppo principale, fai in modo che il repository su Github sia allineato a quello del tuo computer e infine chiedi che il lavoro che hai fatto (meglio se identificato da un ramo particolare, vedi *Branch*) venga riunito al ramo di sviluppo principale con un Pull Request.
+
+Cosa succede se il mio fork rimane indietro rispetto al repository principale? Non è difficile!
+- **Upstream**. Verifica (con `git remote -v`) che la tua copia di lavoro abbia due *remote*: `origin` sarà il tuo fork, `upstream` sarà il repository principale. Per aggiungere un *remote* usa il comando che segue.
+```
+$ git remote add upstream git@github.com:FEM-modena/fem-computational-linguistic-platform.git
+```
+- **Fetch**. Scarica le ultime modifiche dal repository principale: `git fetch upstream`.
+- **Merge**. Riunisci le modifiche che hai appena scaricato da `upstream` nel tuo branch: `git merge upstream/master`
 
 ### Sviluppo locale
 Dopo che avrai creato la tua copia del repository sul tuo computer, dovrai attivare gli strumenti per generare la versione di sviluppo del sito.
