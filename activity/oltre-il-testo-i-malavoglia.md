@@ -10,6 +10,7 @@ summary: "Attraverso questa attività sarà possibile leggere in chiave sociolin
 
 ## Presentazione dell'attività
 
+
 <div class="accordion">
 
 ### Lo scenario 
@@ -37,7 +38,7 @@ Tramite Voyant possiamo, in questo caso, andare a cercare i nomi dei singoli per
 L’agentività (*human agency*) è la capacità umana di agire attivamente nel contesto sociale in cui si è inseriti e di esercitare la propria influenza sugli eventi. La linguistica ci offre un modo per osservare come essa venga espressa e codificata, in quanto qualsiasi atto linguistico ha il potenziale di generare un effetto su chiunque lo riceva, a prescindere dalle intenzioni del mittente. La lingua può quindi influire sulle azioni future, sul modo di interpretare il mondo e anche su come viene organizzata la conoscenza nella mente. Ma in che modo? 
 In questa attività sarà possibile osservare l’agency grazie ai verbi (che forniscono informazioni sulle azioni svolte o subite dal soggetto), ai discorsi diretti dei personaggi (che ci danno l’idea delle interazioni reali che hanno nell’opera) e agli aggettivi (che connotano o meno in ottica di genere la loro esistenza. 
     
-NB: Questa attività può essere svolta da sola ma è pensata per essere associata alla parte 2 @@ inserire link @@ per massimizzare l’efficacia. 
+NB: Questa attività può essere svolta da sola ma è pensata per essere associata all'attività <a href="https://linda.education/activity/oltre-il-testo-linguaggi-di-genere-negli-articoli-online/" target="_blank">Linguaggi di genere negli articoli online</a> per massimizzare l’efficacia. 
 </div>
 </div>
 
@@ -88,7 +89,7 @@ Di seguito sono fornite 4 proposte con esempi pratici per affrontare le tematich
 
 1. Poni la domanda di ricerca alla classe: *l’autore dedica lo stesso spazio nel testo a personaggi maschili e personaggi femminili?* Come si può rispondere?
 2. Identifica insieme alla classe i personaggi dell’opera (Maruzza, Mena, Padron ‘Ntoni ecc.)
-3. Chiedi a ciascun* student* di aprire il corpus di Voyant a questo <a href="https://voyant-tools.org/?corpus=cd04628b21b65568d5a462fea9e58720&stopList=keywords-84cb956a2dfe65680cdf2ff5429350d8&panels=cirrus,reader,trends,bubblelines,contexts" target="_blank">link</a>. Prendetevi del tempo per familiarizzare con lo strumento (trovi una guida rapida @@ qui @@)
+3. Chiedi a ciascun* student* di aprire il corpus di Voyant a questo <a href="https://voyant-tools.org/?corpus=cd04628b21b65568d5a462fea9e58720&stopList=keywords-84cb956a2dfe65680cdf2ff5429350d8&panels=cirrus,reader,trends,bubblelines,contexts" target="_blank">link</a>. Prendetevi del tempo per familiarizzare con lo strumento (<a href="https://linda.education/strumenti/#voyant" target="_blank">qui</a> la guida completa)
 4. Chiedi di inserire nella casella di testo di Bubblelines i nomi dei personaggi uno alla volta e selezionate la casella “Righe diverse per ogni parola”. 
 5. Provate a leggere insieme la visualizzazione. Ciascuna riga ha un colore diverso e rappresenta un personaggio; la quantità e la grandezza delle bolle rappresentano la sua presenza nel testo. I numeri a lato di ciascuna riga indicano le occorrenze dei nomi dei personaggi all’interno dell’opera.
 
@@ -121,12 +122,11 @@ Ciascun* student* o gruppo è riuscito a...
 
 1. Poni la domanda di ricerca alla classe: *I personaggi maschili e i personaggi femminili partecipano allo stesso numero di processi nell’opera? Processi di che tipo? In che luoghi?*
 2. Brainstorming: Identifica insieme alla classe dei personaggi di interesse e chiedi di immaginare, singolarmente o in gruppi, quali e quante azioni i personaggi svolgono all’interno del romanzo. Confrontatevi tra di voi per scoprire analogie e differenze nelle vostre previsioni.
-3. Chiedi a ciascun* student* di prendere la tabella da compilare con i nomi dei personaggi (@@ link al file @@)
-4. Chiedi a ciascun* student* di aprire il corpus di Voyant a questo <a href="https://voyant-tools.org/?corpus=cd04628b21b65568d5a462fea9e58720&stopList=keywords-84cb956a2dfe65680cdf2ff5429350d8&panels=cirrus,reader,trends,bubblelines,contexts" target="_blank">link</a>. Prendetevi del tempo per familiarizzare con lo strumento (trovi una guida rapida @@qui@@) 
-5. Chiedi a ciascun* student* di cercare il nome di un personaggio del romanzo nella casella di testo dello strumento Contesti. 
+3. Chiedi a ciascun* student* di aprire il corpus di Voyant a questo <a href="https://voyant-tools.org/?corpus=cd04628b21b65568d5a462fea9e58720&stopList=keywords-84cb956a2dfe65680cdf2ff5429350d8&panels=cirrus,reader,trends,bubblelines,contexts" target="_blank">link</a>. Prendetevi del tempo per familiarizzare con lo strumento (<a href="https://linda.education/strumenti/#voyant" target="_blank">qui</a> la guida completa) 
+4. Chiedi a ciascun* student* di cercare il nome di un personaggio del romanzo nella casella di testo dello strumento Contesti. 
 NB: Ti consigliamo di organizzare l’attività in gruppi, assegnando un personaggio a ciascun gruppo!
-6. Fai scaricare la tabella da compilare (@@LINK@@): ciascun gruppo inserirà in alto il nome del proprio personaggio e leggerà le categorie che si chiede di assegnare a ciascun verbo: processo materiale, comportamentale, mentale, verbale, relazionale, esistenziale (non è obbligatorio utilizzare tutte le categorie)
-7. Scorrendo i risultati di *Contesti*, chiedi di identificare e segnare nella tabella a disposizione NUMERO@@@ azioni in cui il personaggio ha qualche ruolo. A volte basterà segnare un verbo, altre volte il predicato sarà più articolato. Per ciascuna azione, inserire categoria, porzione di testo e luogo in cui si svolge, cercando anche di motivare perchè luogo sia proprio quello indicato. Ecco un esempio di come compilare la tabella:
+6. Fai creare una copia della tabella da compilare da <a href="https://docs.google.com/document/d/1RPXCitAQqqXI5r1b1KVMcxOoTbiLmYuMR8r2LP2WXtI/edit?usp=sharing" target="_blank">questo documento</a>: ciascun gruppo inserirà in alto il nome del proprio personaggio e leggerà le categorie che si chiede di assegnare a ciascun verbo: processo materiale, comportamentale, mentale, verbale, relazionale, esistenziale (non è obbligatorio utilizzare tutte le categorie)
+7. Scorrendo i risultati di *Contesti*, chiedi di identificare e segnare nella tabella a disposizione le azioni in cui il personaggio ha qualche ruolo. A volte basterà segnare un verbo, altre volte il predicato sarà più articolato. Per ciascuna azione, inserire categoria, porzione di testo e luogo in cui si svolge, cercando anche di motivare perchè luogo sia proprio quello indicato. Ecco un esempio di come compilare la tabella:
 
 ### Esempio 
 
@@ -357,10 +357,10 @@ Ciascun* student* o gruppo è riuscito a...
 
 ### Pratica
 1. Poni la domanda di ricerca alla classe: *Come si esprimono i personaggi? I discorsi diretti identificano degli stereotipi di genere?*
-2. Aprite il corpus di Voyant a questo link. Prendetevi del tempo per familiarizzare con lo strumento (trovi una guida rapida @@qui@@) 
+2. Aprite il corpus di Voyant a <a href="https://voyant-tools.org/?corpus=cd04628b21b65568d5a462fea9e58720&stopList=keywords-84cb956a2dfe65680cdf2ff5429350d8&panels=cirrus,reader,trends,bubblelines,contexts" target="_blank">questo link</a>. Prendetevi del tempo per familiarizzare con lo strumento (<a href="https://linda.education/strumenti/#voyant" target="_blank">qui</a> la guida completa)
 3. Chiedi a ciascun* student* di cercare il nome di un personaggio del romanzo nella casella di testo dello strumento Contesti. 
 NB: Ti consigliamo di organizzare l’attività in gruppi, assegnando un personaggio a ciascun gruppo!
-4. Riportate nella tabella i discorsi diretti dei personaggi.
+4. Riportate nella tabella (che trovate in <a href="https://docs.google.com/document/d/1RPXCitAQqqXI5r1b1KVMcxOoTbiLmYuMR8r2LP2WXtI/edit?usp=sharing" target="_blank">questo documento</a>) i discorsi diretti dei personaggi.
 
 ### Esempio
 <a href="https://voyant-tools.org/?corpus=cd04628b21b65568d5a462fea9e58720&stopList=keywords-84cb956a2dfe65680cdf2ff5429350d8&query=maruzza&view=Contexts" target="_blank">Maruzza</a>  
@@ -526,10 +526,10 @@ Ciascun* student* o gruppo è riuscito a...
 
 1. *Quali sono le caratteristiche fisiche e psicologiche dei personaggi? Rispecchiano i comuni stereotipi di genere?*
 2. Dopo aver identificato i personaggi principali dell’opera, provate a raccontarvi/scrivere quali caratteristiche vi aspettate che abbiano. 
-3. Chiedi a ciascun* student* di aprire il corpus di Voyant a questo link. Prendetevi del tempo per familiarizzare con lo strumento (trovi una guida rapida @@qui@@) 
+3. Chiedi a ciascun* student* di aprire il corpus di Voyant a questo link. Prendetevi del tempo per familiarizzare con lo strumento (<a href="https://linda.education/strumenti/#voyant" target="_blank">qui</a> la guida completa) 
 4. Chiedi a ciascun* student* di cercare il nome di un personaggio del romanzo nella casella di testo dello strumento Contesti. 
 NB: Ti consigliamo di organizzare l’attività in gruppi, assegnando un personaggio a ciascun gruppo!
-5. Scrivete nella tabella le caratteristiche, fisiche o psicologiche, che riuscite a trovare nel contesto del personaggio. Fate riferimento all’esempio in tabella ma sentitevi liberi di aggiungere qualsiasi cosa vi sembri rilevante: ogni personaggio è diverso, ogni testo è diverso!
+5. Scrivete nella tabella (la trovate in <a href="https://docs.google.com/document/d/1RPXCitAQqqXI5r1b1KVMcxOoTbiLmYuMR8r2LP2WXtI/edit?usp=sharing" target="_blank">questo documento</a>) le caratteristiche, fisiche o psicologiche, che riuscite a trovare nel contesto del personaggio. Fate riferimento all’esempio in tabella ma sentitevi liberi di aggiungere qualsiasi cosa vi sembri rilevante: ogni personaggio è diverso, ogni testo è diverso!
 
 ### Esempio
 <a href="https://voyant-tools.org/?corpus=cd04628b21b65568d5a462fea9e58720&stopList=keywords-84cb956a2dfe65680cdf2ff5429350d8&query=maruzza&view=Contexts" target="_blank">Maruzza</a>

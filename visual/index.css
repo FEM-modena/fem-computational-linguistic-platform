@@ -53,13 +53,21 @@ a.button {
     text-transform: uppercase;
     border-radius: 5px;
 }
+a.scenario_button {
+    padding: .75em 1.5em;
+    background-color: #F7B132;
+    color: #FFF;
+    text-transform: uppercase;
+    border-radius: 5px;
+    display:inline-block;
+}
 a.wide_button {
     padding: .75em 1.5em;
     background-color: #F7B132;
     color: #FFF;
     text-transform: uppercase;
     border-radius: 5px;
-    font-size: 24px;
+    font-size: 22px;
 }
 div.wide_button{
     padding: 3% 0%;
@@ -309,7 +317,7 @@ blockquote.document-quote {
 
     .accordion-panel.accordion-expanded > .accordion-body {
     display: block;
-    padding: 5px 20px;
+    padding: 15px 20px;
     background-color: #e5f7f1;
     }
 
