@@ -80,7 +80,7 @@ Fornire un pc per ciascuno studente o gruppo di studenti
 4. Potete utilizzare <a href="https://docs.google.com/document/d/1R03yRxuTRuCEA5HJDTSHdmlPP5OtNi0aIRtqrWlaF5w/edit?usp=sharing" target="_blank">questo documento</a> (File-> Crea una copia) se volete far scrivere qualcosa alla classe.
 
 ### Esempio
-<img src="/visual/leggere-a-distanza/promessi-sposi-1.png" alt="drawing" width="100%"/>
+<img src="/visual/leggere-a-distanza/promessi-sposi-1.PNG" alt="drawing" width="100%"/>
 Il grafico visualizza con chiarezza che nella macrosequenza (1-8) Renzo e Lucia vivono insieme le loro avventure, per poi separarsi al capitolo IX. Renzo quasi sparisce nei capitoli 9-10, per poi essere l’unico protagonista dei capitoli successivi (il cosiddetto romanzo di formazione) e di quelli finali (la conclusione della sua formazione). Le avventure di Lucia sono narrate nei capitoli XX e seguenti. E così via. Inserendo opportunamente altre parole chiave (es. peste, Cristoforo), il grafico si aggiorna rivelando i contenuti omogenei ed esclusivi di alcuni capitoli (IV, XXXI-XXXII).
 
 ### Restituzione/riflessione guidata
@@ -103,7 +103,7 @@ Hai osservato attentamente il grafico? Hai tenuto conto delle conoscenze pregres
 4. Potete utilizzare <a href="https://docs.google.com/document/d/1R03yRxuTRuCEA5HJDTSHdmlPP5OtNi0aIRtqrWlaF5w/edit?usp=sharing" target="_blank">questo documento</a> (File-> Crea una copia) se volete far scrivere qualcosa alla classe.
 
 ### Esempio
-<img src="/visual/leggere-a-distanza/promessi-sposi-2.png" alt="drawing" width="100%"/>
+<img src="/visual/leggere-a-distanza/promessi-sposi-2.PNG" alt="drawing" width="100%"/>
 
 ### Restituzione/riflessione guidata
 Fate una prima breve discussione di gruppo guidata dall'insegnante. Poi leggete (in gruppo o in plenaria) e analizzate l’Introduzione. Confrontate con le osservazioni emerse in precedenza. Acquisizione dell’espediente del manoscritto e del patto narrativo. 
@@ -149,7 +149,7 @@ Avete tenuto conto di tutte le parole che circondano la parola chiave (destra e 
 5. Potete utilizzare <a href="https://docs.google.com/document/d/1R03yRxuTRuCEA5HJDTSHdmlPP5OtNi0aIRtqrWlaF5w/edit?usp=sharing" target="_blank">questo documento</a> (File-> Crea una copia) se volete far scrivere qualcosa alla classe.
 
 ### Esempio
-<img src="/visual/leggere-a-distanza/promessi-sposi-3.png" alt="drawing" width="100%"/>
+<img src="/visual/leggere-a-distanza/promessi-sposi-3.PNG" alt="drawing" width="100%"/>
 
 
 ### Restituzione/riflessione guidata
