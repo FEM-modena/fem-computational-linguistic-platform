@@ -9,7 +9,7 @@
         {% include 'top-menu.njk' %}
         <section class="section-green">
             <div id="hero">
-                <h1 class="main-hero">Come la lingua cambia le idee</h1>
+                <h1 class="main-hero">Linguistica per la Didattica e l'Apprendimento</h1>
                 <h1 class="sub-hero">Sfide di linguistica computazionale</h1>
             </div>
             <div id="frontpage">
@@ -17,7 +17,7 @@
                 <h1>{{ featuredTitle }}</h1>
                 <p>{{ featuredText }}</p>
                 <ul>
-                {%- for activity in collections.featuredActivity -%}
+                {%- for activity in collections.featured -%}
                     <li>
                         <h3>{{ activity.data.title }}</h3>
                         <p>{{ activity.data.summary }}</p>
@@ -29,7 +29,7 @@
                 </ul>
             </div>
         </section>
-        <section class="section-red">
+        {# <section class="section-red">
             <div id="sidekick">
                 <i class="fas fa-map-signs"></i>
             </div>
@@ -40,21 +40,21 @@
                     <a href="/trova-attivita">Scopri il percorso</a>
                 </p>
             </div>
-        </section>
+        </section> #}
         <section class="multiline section-yellow">
             <h2>Approfondimenti</h2>
             <div class="bottompage">
                 <h1>Webinar</h1>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam molestiae rerum laudantium reiciendis! Ea quae autem quo molestiae quis. Earum animi voluptatum omnis temporibus alias itaque illum. Reprehenderit, neque expedita.</p>
+                <p>#2 Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam molestiae rerum laudantium reiciendis! Ea quae autem quo molestiae quis. Earum animi voluptatum omnis temporibus alias itaque illum. Reprehenderit, neque expedita.</p>
                 <p class="ending-link">
                     <a href="/webinar">Vedi tutti i webinar</a>
                 </p>
             </div>
             <div class="bottompage">
-                <h1>Materiale Extra</h1>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam molestiae rerum laudantium reiciendis! Ea quae autem quo molestiae quis. Earum animi voluptatum omnis temporibus alias itaque illum. Reprehenderit, neque expedita.</p>
+                <h1>Documenti teorici</h1>
+                <p>#3 Ad laboris laboris voluptate aliqua proident. Do irure qui velit Lorem labore minim deserunt elit nisi est. Esse esse nisi enim Lorem ipsum aliqua ullamco nisi elit consectetur magna labore. Irure non pariatur est laboris sint adipisicing sit occaecat quis sunt. Deserunt enim irure eu amet ea consectetur duis dolore. Quis laborum consequat non cupidatat quis anim adipisicing et. Dolor pariatur sunt aute aute occaecat voluptate nostrud duis qui quis.</p>
                 <p class="ending-link">
-                    <a href="/materiale-extra">Consulta il materiale</a>
+                    <a href="/documenti-teorici">Consulta i contenuti</a>
                 </p>
             </div>
         </section>

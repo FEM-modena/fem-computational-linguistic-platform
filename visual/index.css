@@ -4,10 +4,6 @@ html, body {
     padding: 0;
     font-family: museo-sans, sans-serif;
 }
-/* ul {
-    list-style: None;
-    padding: 0;
-} */
 a, a:active, a:visited {
     color: #F7B132;
     text-decoration: none;
@@ -50,6 +46,33 @@ section.multiline {
 .section-pink {
     border-bottom: 1px solid #E78CA7;
 }
+a.button {
+    padding: .75em 1.5em;
+    background-color: #F7B132;
+    color: #FFF;
+    text-transform: uppercase;
+    border-radius: 5px;
+}
+a.wide_button {
+    padding: .75em 1.5em;
+    background-color: #F7B132;
+    color: #FFF;
+    text-transform: uppercase;
+    border-radius: 5px;
+    font-size: 24px;
+}
+div.wide_button{
+    padding: 3% 0%;
+
+}
+div.scenari_div{
+    border: 1px solid  #00AF7C;
+    display: block;
+    padding: 5px 20px;
+    background-color: #e5f7f1;
+    margin: 10px;
+
+}
 /* ****************** */
 /* Components */
 #main {
@@ -57,14 +80,18 @@ section.multiline {
     max-width: 1200px;
     margin: 0 auto;
 }
+#main ul {
+    list-style: None;
+    padding: 0;
+}
 /* Top Menu */
 #top-menu {
     align-items: center;
     font-family: "Open sans", sans-serif;
 }
 #top-menu img {
-    width: 55px;
-    padding: 2rem;
+    width: 200px;
+    padding: 0 1rem;
 }
 #top-menu ul {
     display: flex;
@@ -121,7 +148,7 @@ h1.sub-hero {
 #frontpage p {
     font-family: "Open Sans", sans-serif;
     font-weight: 100;
-    font-size: 12px;
+    font-size: 14px;
     margin-top: -1em;
 }
 #frontpage ul {
@@ -152,15 +179,22 @@ article h2 {
 /* Tables in articles */
 article th,td {
   border-bottom: 1px solid #ddd;
-  padding: 1px 15px;
+  padding: 10px 15px;
+  text-align: left;
 }
 
-article tr:hover {background-color:#f5f5f5;}
+article tr:hover td {
+    background-color:rgba(250,250,250, .5);
+}
 
 table {
     width: 100%;
     table-layout: fixed;
     padding: 0px 15px;
+}
+
+table.zebra tr:nth-child(2n) {
+    background-color:rgba(245, 245, 245, .5);
 }
 
 /* Pages */
@@ -241,7 +275,7 @@ blockquote.document-quote {
 .webinar-index img.webinar-preview {
     width: 120px;
     float: left;
-    margin: 1rem;
+    margin: 0 1rem 1rem 0;
 }
 .webinar-video {
     padding: 2rem;

@@ -15,3 +15,4 @@ layout: page.njk
 [**Francesca Mangialardo**](https://www.linkedin.com/in/francescamangialardo/) | ([FEM](https://www.fem.digital) Linguista
 
 [**Matilde Maresca**](http://www.linkedin.com/company/futureducationmodena/) | Docente
+

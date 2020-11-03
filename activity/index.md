@@ -1,6 +1,7 @@
 ---
-tags: 
+eleventyExcludeFromCollections: true
 layout: activity/index.njk
 ---
-# Tutte le attività
-In questa pagina troverete tutte le attività.
+<div class="scenario1">AAA</div>
+
+<div class="scenario2">BBB</div>

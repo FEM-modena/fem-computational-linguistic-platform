@@ -1,5 +1,6 @@
 ---
-tags: featured202010
+tags: 
+- oltreiltesto
 title: "A donna alla finestra non far festa"\: Identità e genere nei testi letterari"
 summary: "Attraverso questa attività sarà possibile leggere in chiave sociolinguistica l'opera I Malavoglia, con particolare attenzione al discorso di genere."
 ---
@@ -32,6 +33,7 @@ Tramite Voyant possiamo, in questo caso, andare a cercare i nomi dei singoli per
 <div class="accordion-panel">
 <h3 class="accordion-header">Perchè l’agentività?</h3>
 <div class="accordion-body">
+
 L’agentività (*human agency*) è la capacità umana di agire attivamente nel contesto sociale in cui si è inseriti e di esercitare la propria influenza sugli eventi. La linguistica ci offre un modo per osservare come essa venga espressa e codificata, in quanto qualsiasi atto linguistico ha il potenziale di generare un effetto su chiunque lo riceva, a prescindere dalle intenzioni del mittente. La lingua può quindi influire sulle azioni future, sul modo di interpretare il mondo e anche su come viene organizzata la conoscenza nella mente. Ma in che modo? 
 In questa attività sarà possibile osservare l’agency grazie ai verbi (che forniscono informazioni sulle azioni svolte o subite dal soggetto), ai discorsi diretti dei personaggi (che ci danno l’idea delle interazioni reali che hanno nell’opera) e agli aggettivi (che connotano o meno in ottica di genere la loro esistenza. 
     
@@ -129,7 +131,7 @@ NB: Ti consigliamo di organizzare l’attività in gruppi, assegnando un persona
 ### Esempio 
 
 <a href="https://voyant-tools.org/?corpus=cd04628b21b65568d5a462fea9e58720&stopList=keywords-84cb956a2dfe65680cdf2ff5429350d8&query=maruzza&view=Contexts" target="_blank">Maruzza</a>
-<table>
+<table class="zebra">
 <tbody>
 <tr>
 <td>

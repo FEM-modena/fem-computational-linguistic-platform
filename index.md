@@ -1,7 +1,7 @@
 ---
 title: "Come la lingua cambia le idee"
-featuredMonth: Agosto 2020
-featuredTitle: Evidenzialità
-featuredText: "L’insieme dei mezzi linguistici che i parlanti hanno a disposizione per segnalare la fonte di informazione di una loro asserzione. L’insieme dei mezzi linguistici che i parlanti hanno a disposizione per segnalare la fonte di informazione di una loro asserzione. L’insieme dei mezzi linguistici che i parlanti hanno a disposizione per segnalare la fonte di informazione di una loro asserzione."
+featuredMonth: Proposte
+featuredTitle: Le attività per la tua classe
+featuredText: "#1 Excepteur in qui commodo exercitation sunt. Ea proident elit sint qui. Culpa duis enim eu enim ut irure velit id mollit ea sunt sit exercitation. Et enim aute esse reprehenderit velit velit labore eu dolore aliqua."
 layout: index.njk
 ---

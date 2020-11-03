@@ -1,0 +1,58 @@
+---
+layout: page.njk 
+---
+<div class="scenari_div">
+<h1>Leggere a distanza</h1>
+Lettura a distanza di un testo con strumenti quantitativi digitali, per individuare e comprendere le caratteristiche linguistiche salienti. 
+
+{%- for activity in collections.leggeredistanza -%}
+    <h3>{{ activity.data.title }}</h3>
+    <p>{{ activity.data.summary }}</p>
+    <p class="ending-link">
+        <a href="{{ activity.url | url }}" class="button">Scopri</a>
+    </p>
+    
+{%- endfor -%}
+</div>
+
+<div class="scenari_div">
+<h1>Figure e connotazioni del linguaggio</h1>
+Individuare e comprendere il linguaggio figurato per migliorare la comprensione del testo
+
+{%- for activity in collections.figureconnotazioni -%}
+    <h3>{{ activity.data.title }}</h3>
+    <p>{{ activity.data.summary }}</p>
+    <p class="ending-link">
+        <a href="{{ activity.url | url }}" class="button">Scopri</a>
+    </p>
+    
+{%- endfor -%}
+</div>
+
+<div class="scenari_div">
+<h1>Oltre il testo</h1>
+Comprendere il discorso, che ruota attorno a temi di attualità (e.g. ambiente, questioni di genere)
+
+{%- for activity in collections.oltreiltesto -%}
+    <h3>{{ activity.data.title }}</h3>
+    <p>{{ activity.data.summary }}</p>
+    <p class="ending-link">
+        <a href="{{ activity.url | url }}" class="button">Scopri</a>
+    </p>
+    
+{%- endfor -%}
+</div>
+
+<div class="scenari_div">
+<h1>Stile O_Stile</h1>
+Riconoscere e mitigare la violenza verbale nel mondo digitale, per creare consapevolezza e disinnescare situazioni future. 
+
+TBD
+</div>
+
+<div class="scenari_div">
+<h1>Come si legge un'immagine</h1>
+Analizzare e comprendere la grammatica dei contenuti visuali, per migliorare la comprensione e il legame con i fenomeni sociali.
+
+TBD
+</div>

@@ -1,9 +1,11 @@
 ---
-tags: featured202008
-title: "Leggere a distanza | I Promessi Sposi"
+tags: 
+ - featured202008
+ - leggeredistanza
+title: "I Promessi Sposi"
 summary: "Al centro di questa attività è il romanzo di Alessandro Manzoni, oggetto di studio durante il primo biennio della scuola secondaria di secondo grado. Attraverso l'approccio quantitativo proposto (distant reading) è possibile scoprire aspetti nuovi rispetto a quelli consentiti dalla lettura ravvicinata o tradizionale."
 ---
-
+# Leggere a distanza... I Promessi Sposi
 ## Presentazione dell'attività
 
 <div class="accordion">
@@ -19,14 +21,14 @@ Dopo una breve presentazione dell’opera, dell’autore e del contesto da parte
 <div class="accordion-panel">
 <h3 class="accordion-header">Perchè usare Voyant?</h3>
 <div class="accordion-body">
-@@@@@@@
+Affiancando e supportando la lettura tradizionale dei testi (<em>close reading</em>), la lettura a distanza (<em>distant reading</em>) permette allo studente di allargare il proprio campo di indagine, aiutandolo a ricercare collegamenti e interconnessioni tra testi o parti di un testo. Voyant permette di visualizzare e quindi analizzare facilmente frequenze delle parole, relazioni tra personaggi, e molto altro. Questi elementi, strutturati in reti e grafi, permettono di scoprire dettagli non altrimenti identificabili. Il distant reading si rivela così uno strumento efficace nelle fasi di scoperta ma anche in quelle di rielaborazione e ripasso dei contenuti affrontati e studiati in classe sotto la guida del docente.
 </div>
 </div>
 
 <div class="accordion-panel">
 <h3 class="accordion-header">Perchè l'esplorazione?</h3>
 <div class="accordion-body">
-@@@
+La lettura integrale di un testo spesso non è compatibile con i tempi della didattica. L’esplorazione, guidata dal docente, attraverso strumenti digitali ad hoc consente in tempi brevi un accesso diretto al testo da parte dello studente, che non solo sarà protagonista attivo del processo di apprendimento, ma raggiungerà subito dei risultati in termini di conoscenze. L’esplorazione stimola nel lettore la curiosità di conoscere il testo, motivando lo studente a proseguire nella lettura autonoma di porzioni man mano più significative del testo, applicando strategie diverse di lettura. Infine attraverso l’esplorazione lo studente può formulare ipotesi personali sul testo da verificare successivamente con lo studio e con l’aiuto del docente.
 </div>
 </div>
 
@@ -70,7 +72,7 @@ Fornire un pc per ciascuno studente o gruppo di studenti
 <div class="accordion-body">
 
 ### Pratica
-1. Aprite il <a href="" target="_blank">corpus Voyant</a>
+1. Aprite il <a href="https://voyant-tools.org/?corpus=811d1b5a517bd18eace80ce5e4aa6034&panels=corpuscollocates,reader,trends,phrases,dreamscape" target="_blank">corpus Voyant</a>
 2. Ingrandite lo strumento <a href="https://voyant-tools.org/?corpus=811d1b5a517bd18eace80ce5e4aa6034&view=Trends&query=renzo*&query=lucia*" target="_blank">Andamenti</a>
 3. Osservate le curve relative ai due protagonisti: sono sempre presenti sulla scena? in quali capitoli sono assenti? sono presenti sempre insieme? in quali capitoli sono separati?
 
@@ -93,7 +95,7 @@ Discussione in plenaria. Con l’aiuto delle sintesi proposte dai libri di testo
 <div class="accordion-body">
 
 ### Pratica
-1. Aprite il <a href="" target="_blank">corpus Voyant</a>
+1. Aprite il <a href="https://voyant-tools.org/?corpus=811d1b5a517bd18eace80ce5e4aa6034&panels=corpuscollocates,reader,trends,phrases,dreamscape" target="_blank">corpus Voyant</a>
 2. Ingrandite lo strumento <a href="https://voyant-tools.org/?corpus=811d1b5a517bd18eace80ce5e4aa6034&query=lettor*&panels=corpuscollocates,reader,trends,phrases,dreamscape&view=Trends" target="_blank">Andamenti</a>
 3. Provate a rispondere alle seguenti domande: Osservate la frequenza relativa della parola ‘lettor*’. In che modo si distribuisce lungo i capitoli? Notate dei picchi? In corrispondenza di quali capitoli? A quale tecnica narrativa rimanda? Quale immagine del narratore viene fuori dal grafico? Quale immagine dell’autore e dei suoi valori? A quale pubblico si rivolge Manzoni?
 
@@ -114,13 +116,14 @@ Hai osservato attentamente il grafico? Hai tenuto conto delle conoscenze pregres
 <div class="accordion-body">
 
 ### Pratica
-1. Aprite il <a href="" target="_blank">corpus Voyant</a>
+1. Aprite il <a href="https://voyant-tools.org/?corpus=811d1b5a517bd18eace80ce5e4aa6034&panels=corpuscollocates,reader,trends,phrases,dreamscape" target="_blank">corpus Voyant</a>
 2. Ingrandite lo strumento <a href="https://voyant-tools.org/?corpus=811d1b5a517bd18eace80ce5e4aa6034&query=lettor*&expand=5&panels=corpuscollocates,reader,trends,phrases,dreamscape&view=Contexts" target="_blank">Contesti</a>
 3. Provate a rispondere alle seguenti domande: Con quali verbi e/o espressioni si accompagna la parola lettor*? Quali azioni compie? Quali sono le sue caratteristiche?
 
 ### Esempio
 Raccogliete le vostre osservazioni nella tabella seguente. Riorganizzate i predicati in modo che lettore sia soggetto.
 <table><thead><tr><th>testo</th><th>azione</th><th>caratteristiche</th></tr></thead><tbody><tr><td>il lettore se n’è avveduto</td><td>accorgersi</td><td></td></tr><tr><td>informare il lettore</td><td></td><td>essere informato</td></tr><tr><td>...</td><td></td><td></td></tr></tbody></table>
+Narratore e lettore hanno una relazione stretta. Manzoni vuole un lettore informato, avveduto, lo coinvolge per favorire l’emergere dell’opinione personale.   
 
 ### Restituzione/riflessione guidata
 Alla luce dei dati raccolti, analizzate la relazione narratore-lettore e il ruolo del lettore nel romanzo. Restituzione di gruppo. L’insegnante guida la discussione. L’insegnante conclude integrando eventuali aspetti significativi non emersi dalle osservazioni degli studenti. 
@@ -136,9 +139,9 @@ Avete tenuto conto di tutte le parole che circondano la parola chiave (destra e 
 <div class="accordion-body">
 
 ### Pratica
-1. Aprite il <a href="" target="_blank">corpus Voyant</a>
+1. Aprite il <a href="https://voyant-tools.org/?corpus=811d1b5a517bd18eace80ce5e4aa6034&panels=corpuscollocates,reader,trends,phrases,dreamscape" target="_blank">corpus Voyant</a>
 2. In passato i Promessi sposi sono stati definiti l’epopea o il romanzo della Provvidenza (da Momigliano, poi Sapegno). E’ veramente così? 
-3. Cercate la parola tramite lo strumento <a href="" target="_blank">Microsearch</a>
+3. Cercate la parola tramite lo strumento <a href="https://voyant-tools.org/?corpus=811d1b5a517bd18eace80ce5e4aa6034&view=MicroSearch&query=provvidenza*" target="_blank">Microsearch</a>
 4. Provate a rispondere alle seguenti domande: la parola è presente in tutto il corpus? In quali capitoli si concentra?
 5. La ricerca può proseguire con Contesti, per scoprire a quali personaggi è collegata e qual è il suo ruolo. La ricerca può proseguire indagando sulla parola male e sulle parole collegate.
 
