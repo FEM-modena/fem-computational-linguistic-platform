@@ -23,14 +23,14 @@ Dopo una breve presentazione dell’opera, dell’autore e del contesto da parte
 <div class="accordion-panel">
 <h3 class="accordion-header">Perchè usare Voyant?</h3>
 <div class="accordion-body">
-@@@@@@@
+Affiancando e supportando la lettura tradizionale dei testi (<em>close reading</em>), la lettura a distanza (<em>distant reading</em>) permette allo studente di allargare il proprio campo di indagine, aiutandolo a ricercare collegamenti e interconnessioni tra testi o parti di un testo. Voyant permette di visualizzare e quindi analizzare facilmente frequenze delle parole, relazioni tra personaggi, e molto altro. Questi elementi, strutturati in reti e grafi, permettono di scoprire dettagli non altrimenti identificabili. Il distant reading si rivela così uno strumento efficace nelle fasi di scoperta ma anche in quelle di rielaborazione e ripasso dei contenuti affrontati e studiati in classe sotto la guida del docente.
 </div>
 </div>
 
 <div class="accordion-panel">
 <h3 class="accordion-header">Perchè l'esplorazione?</h3>
 <div class="accordion-body">
-@@@
+La lettura integrale di un testo spesso non è compatibile con i tempi della didattica. L’esplorazione, guidata dal docente, attraverso strumenti digitali ad hoc consente in tempi brevi un accesso diretto al testo da parte dello studente, che non solo sarà protagonista attivo del processo di apprendimento, ma raggiungerà subito dei risultati in termini di conoscenze. L’esplorazione stimola nel lettore la curiosità di conoscere il testo, motivando lo studente a proseguire nella lettura autonoma di porzioni man mano più significative del testo, applicando strategie diverse di lettura. Infine attraverso l’esplorazione lo studente può formulare ipotesi personali sul testo da verificare successivamente con lo studio e con l’aiuto del docente. 
 </div>
 </div>
 
@@ -75,62 +75,17 @@ Fornire un pc per ciascuno studente o gruppo di studenti
 <div class="accordion-body">
 
 ### Pratica
-1. Aprite il <a href="" target="_blank">corpus Voyant</a>
+1. Aprite il <a href="https://voyant-tools.org/?corpus=fbea33ff7b5ab2276593fcd3d9fc2ec1&visible=25&panels=corpuscollocates,reader,trends,phrases,dreamscape" target="_blank">corpus Voyant</a>
 2. Ingrandite lo strumento <a href="https://voyant-tools.org/?corpus=fbea33ff7b5ab2276593fcd3d9fc2ec1&visible=25&panels=corpuscollocates,reader,trends,phrases,dreamscape&view=Cirrus" target="_blank">Cirrus</a>
 3. Provate a rispondere alle seguenti domande: Quali parole vi colpiscono? Quali parole vi sareste aspettati? Il grafico rispecchia il titolo? Come vi sembra la lingua: lontana o vicina a quella attuale? Quali sono le principali differenze tra l’italiano attuale e la lingua dell’opera? A quali categorie grammaticali appartengono le parole? Quali ruoli potrebbero svolgere le parole? Alla luce delle prime osservazioni, quale potrebbe essere il contenuto dell’opera? quali potrebbero essere gli aspetti specifici dell’opera? ...
 4. Raccogliete le vostre ipotesi in base alla fonte (titolo o nuvola), indicando esplicitamente i termini significativi. @@@@ link a una tabella??@@@
 
 
 ### Esempio
+<img src="/visual/leggere-a-distanza/orlando-furioso-1.png" alt="drawing" width="100%"/>
+
 Si chiede di raccogliere le proprie ipotesi in una tabella come questa:
-<table>
-<thead>
-  <tr>
-    <th></th>
-    <th>Titolo</th>
-    <th>Nuvola</th>
-    <th>Proemio</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>argomento</td>
-    <td>vicende cavalleresche (Orlando); follia (furioso) </td>
-    <td>vicende amorose e politiche/guerre (re, donna)</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>protagonista/i</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>tempo</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>destinatari</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>stile</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>...</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</tbody>
-</table>
+<table><thead><tr><th></th><th>Titolo</th><th>Nuvola</th><th>Proemio</th></tr></thead><tbody><tr><td>argomento</td><td>vicende cavalleresche (Orlando); follia (furioso) </td><td>vicende amorose e politiche/guerre (re, donna)</td><td></td></tr><tr><td>protagonista/i</td><td>Orlando</td><td>Ruggiero, donne, re </td><td></td></tr><tr><td>tempo</td><td>lontano </td><td>lontano (avea)</td><td></td></tr><tr><td>destinatari</td><td>corti</td><td>corti (re, donne)</td><td></td></tr><tr><td>stile</td><td>narrazione ampia (genere epico)</td><td>abbondanza di nessi → narrazione ampia (poi, quando, così...) </td><td></td></tr><tr><td>canti</td><td>1, 2, 3, 4 ..., 11 ... 20, ... 33 ... 43</td><td>topos distribuito lungo tutto il poema, <br>particolarmente significativo nel canto I</td><td></td></tr></tbody></table>
 
 ### Restituzione/riflessione guidata
 Fate una prima restituzione di gruppo dopo aver compilato la tabella, in cui l’insegnante guida la discussione aiutando -eventualmente- gli studenti a definire meglio le ipotesi. Prevedete eventuali aggiustamenti della tabella confrontando le vostre ipotesi con il proemio del poema (I, 1-4). Quali sono le principali differenze e analogie tra il grafico e il testo? tra il titolo e il testo? Compilate la terza colonna della tabella e confrontatevi di nuovo.
@@ -146,7 +101,7 @@ Avete tenuto conto di tutte le parole della nuvola? Avete analizzato correttamen
 <div class="accordion-body">
 
 ### Pratica
-1. Aprite il <a href="" target="_blank">corpus Voyant</a>
+1. Aprite il <a href="https://voyant-tools.org/?corpus=fbea33ff7b5ab2276593fcd3d9fc2ec1&visible=25&panels=corpuscollocates,reader,trends,phrases,dreamscape" target="_blank">corpus Voyant</a>
 2. Ingrandite lo strumento <a href="https://voyant-tools.org/?corpus=fbea33ff7b5ab2276593fcd3d9fc2ec1&query=selva&panels=corpuscollocates,reader,trends,phrases,dreamscape&view=Contexts" target="_blank">Contesti</a>
 3. Provate a rispondere alle seguenti domande: Come si caratterizza la selva? Quali sono le espressioni di luogo ricorrenti? Quali azioni accadono? Chi si muove nella selva? La selva è presente in tutto il poema o solo in alcuni canti? Ci sono riferimenti geografici precisi? Vi vengono in mente collegamenti con le selve di altri testi?
 4. Raccogliete le vostre ipotesi nella tabella @@@@ link a una tabella??@@@. 
@@ -154,55 +109,9 @@ Avete tenuto conto di tutte le parole della nuvola? Avete analizzato correttamen
 
 
 ### Esempio
+<img src="/visual/leggere-a-distanza/orlando-furioso-2.png" alt="drawing" width="100%"/>
 Si chiede di raccogliere le proprie ipotesi in una tabella come questa:
-<table>
-<thead>
-  <tr>
-    <th></th>
-    <th>Titolo</th>
-    <th>Nuvola</th>
-    <th>Proemio</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>argomento</td>
-    <td>vicende cavalleresche (Orlando); follia (furioso) </td>
-    <td>vicende amorose e politiche/guerre (re, donna)</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>protagonista/i</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>tempo</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>destinatari</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>stile</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>...</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</tbody>
-</table>
+<table><thead><tr><th></th><th></th><th>intepretazione</th><th>collegamenti</th></tr></thead><tbody><tr><td>aggettivi e/o espressioni<br>(qualità fisiche o morali?)</td><td>alta, folta, spessa di ombrose piante, intricata, frondosa<br>gran, immensa<br>che li cinge intorno<br>oscura, negra, scura<br>ria<br>aspra<br>romita<br>antica</td><td>luogo negativo, misterioso, di smarrimento<br>valenza morale delle qualità fisiche</td><td>selva di Dante,<br>di Petrarca,<br>...</td></tr><tr><td>preposizioni/<br>locuzioni<br>(con espansione)</td><td>in, per<br>(di sù, di giù)</td><td>luogo che avvolge/circonda i personaggi, luogo che si attraversa<br>(luogo senza punti di riferimento, centrifugo)</td><td></td></tr><tr><td>riferimenti geografici</td><td>assenti, <br>ad eccezione di Caledonia,<br>d’Ardenna</td><td>spazio generico, vago topos letterario<br>Scozia<br>Ardenne (Francia)<br>(luoghi canonici ciclo carolingio e arturiano)</td><td></td></tr><tr><td>azioni</td><td>fuggire<br>correre <br>cercare<br>...</td><td>luogo pericoloso, che rappresenta una minaccia, in cui non ci si ferma  <br>luogo della ricerca</td><td></td></tr><tr><td>personaggi<br>(con espansione)</td><td>Angelica, Ruggiero, Orlando, Rinaldo <br>...</td><td>impegna e caratterizza i personaggi</td><td></td></tr><tr><td>canti</td><td>1, 2, 3, 4 ..., 11 ... 20, ... 33 ... 43</td><td>topos distribuito lungo tutto il poema, <br>particolarmente significativo nel canto I</td><td></td></tr></tbody></table>
 
 
 ### Restituzione/riflessione guidata
@@ -219,15 +128,16 @@ Avete tenuto conto di tutte le parole che circondano la parola chiave (destra e 
 <div class="accordion-body">
 
 ### Pratica
-1. Aprite il <a href="" target="_blank">corpus Voyant</a>
+1. Aprite il <a href="https://voyant-tools.org/?corpus=fbea33ff7b5ab2276593fcd3d9fc2ec1&visible=25&panels=corpuscollocates,reader,trends,phrases,dreamscape" target="_blank">corpus Voyant</a>
 2. Ingrandite lo strumento <a href="https://voyant-tools.org/?corpus=fbea33ff7b5ab2276593fcd3d9fc2ec1&query=fortuna&query=amore&view=Trends" target="_blank">Andamenti</a>
 3. Provate a rispondere alle seguenti domande: Quale tra le due forze è dominante nel poema? Come sono distribuite nel poema? Quali potrebbero essere le interpretazioni?
 4. Appuntate le vostre osservazioni su un foglio @@@@ link @@@. 
-5. Proseguite l’analisi scoprendo le accezioni dei due concetti usando lo strumento Contesti. Confrontate le vostre ipotesi con un canto o un passo a scelta.
+5. Proseguite l’analisi scoprendo le accezioni dei due concetti usando lo strumento <a href="https://voyant-tools.org/?corpus=fbea33ff7b5ab2276593fcd3d9fc2ec1&query=amore&panels=corpuscollocates,reader,trends,phrases,dreamscape&view=Contexts" target="_blank">Contesti</a>. Confrontate le vostre ipotesi con un canto o un passo a scelta.
 
 
 ### Esempio
-@@@
+<img src="/visual/leggere-a-distanza/orlando-furioso-3.png" alt="drawing" width="100%"/>
+I due temi sono distribuiti lungo tutto il poema, testimonianza della centralità di entrambi nell’opera. Tuttavia si nota che la fortuna è prevalente, come si vede dall’altezza delle curve. Da qui si può dedurre una visione del mondo dove non è più dominante una forza che guida le azioni dell’uomo verso il bene e l’uomo è più libero di agire. Si nota che i picchi di una parola corrispondono ai cali dell’altra, particolarmente evidenti nei canti I, V, XXX. Si potrebbe ipotizzare che l’amore sia una forza antagonista della fortuna?
 
 
 ### Restituzione/riflessione guidata
@@ -240,61 +150,8 @@ Avete osservato attentamente i picchi e le discese? Avete compreso correttamente
 </div>
 
 ## Risorse extra
+<a href="http://galassiaariosto.sns.it/" target="_blank">Galassia Ariosto</a> è un progetto creato da CTL Scuola Normale Superiore di Pisa che raccoglie gli apparati iconografici delle principali edizioni cinquecentesche illustrate del Furioso, permettendo di navigare il testo attraverso le immagini. Sono inoltre presenti dei percorsi, attraverso i quali il gruppo di ricerca ha voluto mettere in luce le potenzialità interpretative che la consultazione di Galassia Ariosto è in grado di suscitare.
 
-### Nuove domande di ricerca
-<table>
-<thead>
-  <tr>
-    <th></th>
-    <th>Titolo</th>
-    <th>Nuvola</th>
-    <th>Proemio</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>argomento</td>
-    <td>vicende cavalleresche (Orlando); follia (furioso) </td>
-    <td>vicende amorose e politiche/guerre (re, donna)</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>protagonista/i</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>tempo</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>destinatari</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>stile</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>...</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</tbody>
-</table>
-
-### Letture consigliate sul tema
-- La lingua e il femminile nella lessicografia italiana: tra stereotipi e (in)visibilità di Fabiana Fusco
-- Linguaggio giuridico e lingua di genere: una simbiosi possibile di Stefania Cavagnoli 
-- Teorie di genere. Femminismi e semiotica di Cristina Demaria, Aura Tiralongo
-- Il sessismo nella lingua italiana. Trent'anni dopo Alma Sabatini di Anna Lisa Somma, Gabriele Maestri
+L’<a href="http://www.furiosoatlas.com/atlas.html" target="_blank">Orlando Furioso Atlas</a> è un progetto in lingua inglese sviluppato dal Prof. Daniel Leisawitz (Muhlenberg College) con lo scopo di tradurre e rappresentare in modo digitale e interattivo la cartografia del mondo costruito da Ludovico Ariosto nell’Orlando Furioso, conosciuto in inglese come The Frenzy of Orlando.
 </div>
 
