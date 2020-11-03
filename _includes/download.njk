@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% include 'head.njk' %}
+    <title>{{ title }}</title>
+    <script>
+    document.addEventListener('DOMContentLoaded', () => {
+        let elm = document.querySelector('a[data-main-download]');
+        if (elm) {
+            setTimeout(() => {
+                document.location.replace(elm.getAttribute('href'))
+            }, 4000)
+        }
+    });
+    </script>
+</head>
+<body>
+    <div id="main">
+    {% include 'top-menu.njk' %}
+    <article class="page section-green">
+        <h2>Ti stiamo portando al documento richiesto</h2>
+        <p>
+        {% if content %}
+            {{content | safe}}
+        {% else %}
+            Grazie per la tua partecipazione alle attività di Linguistica per la Didattica e l'Apprendimento.
+        {% endif %}
+        </p>
+        <small>Se rimani in questa pagina, <a href="{{download_url}}" target="_new" data-main-download>fai click qui</a>.</small>
+    </article>
+    {% include 'footer.links.njk' %}
+    {% include 'footer.njk' %}
+    </div>
+</body>
+</html>
