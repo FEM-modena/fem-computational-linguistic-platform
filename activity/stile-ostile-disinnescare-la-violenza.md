@@ -23,7 +23,8 @@ In questa attività si propone l’annotazione tramite lo strumento LINDA - Anno
 <div class="accordion-panel">
 <h3 class="accordion-header">Perchè annotare?</h3>
 <div class="accordion-body">
-L'annotazioen
+Attraverso l’annotazione il testo viene arricchito di informazioni (sottoforma di etichette) che permettono di mappare la presenza delle caratteristiche ritrovate attraverso l’emersione, rendendo così l’analisi svolta pronta per essere affrontata attraverso un’ulteriore fase di esplorazione. L’annotazione di porzioni di testo, metodo già ampiamente consolidato nella didattica in classe, aiuta lo studente a riorganizzare in forma più chiara le caratteristiche linguistiche emerse durante l'attività, evidenziandone la presenza all’interno del testo. 
+
 </div>
 </div>
 
