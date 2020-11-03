@@ -98,8 +98,8 @@ div.scenari_div{
     font-family: "Open sans", sans-serif;
 }
 #top-menu img {
-    width: 55px;
-    padding: 2rem;
+    width: 200px;
+    padding: 0 1rem;
 }
 #top-menu ul {
     display: flex;
