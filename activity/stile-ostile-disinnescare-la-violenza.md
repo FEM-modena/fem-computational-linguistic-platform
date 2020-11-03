@@ -31,10 +31,9 @@ Attraverso l’annotazione il testo viene arricchito di informazioni (sottoforma
 <div class="accordion-panel">
 <h3 class="accordion-header">Violenza verbale: le caratteristiche</h3>
 <div class="accordion-body">
-
 La linguistica ci insegna che ogni atto linguistico ha il potenziale di generare un effetto su chi lo riceve, anche a prescindere dalle intenzioni del mittente. La lingua può quindi influire sulle azioni future, sul modo di interpretare il mondo e anche su come viene organizzata la conoscenza nella mente. Ma in che modo?
 
-L’attività è pensata per introdurre alcune caratteristiche proprie della violenza verbale, secondo un modello di analisi derivato dalle ricerche scientifiche in ambito linguistico. Di seguito sono elencati le tre tipologie di caratteristiche che compongono il sistema di annotazione, complete di esempi esplicativi. È inoltre incluso uno schema, in formato di “diagramma di flusso”, che riassume i passaggi necessari per la valutazione e l’annotazione della violenza verbale.
+L’attività è pensata per introdurre alcune caratteristiche proprie della violenza verbale, secondo un modello di analisi derivato dalle ricerche scientifiche in ambito linguistico. Di seguito sono elencati le tre tipologie di caratteristiche che compongono il sistema di annotazione, complete di esempi esplicativi. È inoltre incluso uno schema, in formato di *diagramma di flusso*, che riassume i passaggi necessari per la valutazione e l’annotazione della violenza verbale.
 
 ## Lessico
 
@@ -48,7 +47,7 @@ L’attività è pensata per introdurre alcune caratteristiche proprie della vio
 | *Abilismo*                  | Forma di discriminazione delle persone diversamente abili                |
 
 ## Implicito ed esplicito
-La violenza verbale può assumere diverse forme, e **non sempre si presenta con l’uso di “parolacce”**: una frase come
+La violenza verbale può assumere diverse forme, e **non sempre si presenta con l’uso di "parolacce"**: una frase come
 
 > "Non è più intelligente di uno con la quinta elementare!"
 
@@ -93,47 +92,40 @@ Fornire un pc per ciascuno studente o gruppo di studenti.
 </div>
 </div>
 
-<div class="accordion-panel">
-<h3 class="accordion-header">Conoscenze</h3>
-<div class="accordion-body">
-
-- *Come si spiega il concetto di genere?* <a href="https://www.who.int/health-topics/gender#tab=tab_1" target="_blank">WHO</a> definisce il genere come l’insieme di caratteristiche di donne, uomini, ragazze e ragazzi, che sono socialmente costruite. Include norme, comportamenti e ruoli associati con l’essere donna, uomo, ragazza o ragazzo, e anche le relazioni tra di loro. Come costrutto sociale, il gender varia da società a società e può cambiare nel corso del tempo. 
-
-- *Che cosa sono gli stereotipi di genere?* <a href="https://eige.europa.eu/thesaurus/terms/1222" target="_blank">EIGE</a> li definisce come quelle idee preconcette in cui a uomini e donne vengono assegnate arbitrariamente delle caratteristiche e dei ruoli determinati e limitati al loro genere.
-
-- *Che cos’è l’uguaglianza di genere?* Secondo <a href="https://eige.europa.eu/thesaurus/terms/1168" target="_blank">EIGE</a>, raggiungeremo l’uguaglianza di genere quando diritti, responsabilità e opportunità degli esseri umani non dipenderanno più dal fatto che siano nati maschi o femmine. L’uguaglianza di genere implica che gli interessi, i bisogni e le priorità sia delle donne sia degli uomini vengano presi in considerazione, riconoscendo quindi anche la diversità di diversi gruppi di donne e uomini. Uguaglianza di genere dovrebbe interessare tutti: è un diritto umano, condizione necessaria per uno sviluppo della società sostenibile e che abbia al centro l’essere umano.
-</div>
-</div>
-
 
 ## La lezione
 
 <div class="accordion-panel">
-<h3 class="accordion-header">Gli elementi dei generi</h3>
+<h3 class="accordion-header">Violenza verbale: riconoscerla, valutarla, disinnescarla</h3>
 <div class="accordion-body">
 
 ### Pratica
 1. Introducete alla classe la domanda di ricerca: *che cos'è la violenza verbale, e come si presenta?* Proviamo a utilizzare un approccio che già conosciamo, cioè l’analisi grammaticale, per riconoscere non solo i ruoli **linguistici** che le parole hanno in una frase ma anche quelli **sociali**. 
 2. Aprite lo strumento di annotazione
-3. Loggatevi sul progetto ""
-4. Assegnate un testo a ciascuno (o se preferite lavorate in gruppi). 
+3. Loggatevi sul progetto "Stile O_Stile | Disinnescare la violenza verbale nel mondo digitale"
+4. Assegnate a ciascuno una selezione di testi (o se preferite lavorate in gruppi), ad esempio "dal messaggio 1 al messaggio 20". 
 5. Adesso provate ad annotare le seguenti categorie: 
 - **Lessico**: a quale area tematica appartiene la violenza verbale - se presente - nel testo?
 - **Implicito/esplicito**: la violenza è esplicita o implicita?
 - **Offensività**: il messaggio è offensivo?
 
 ### Esempio
-Prendiamo ad esempio il seguente estratto da un articolo online: 
-@@@ inserire immagine da erbaluce! @@@ 
-«Gli esports hanno avuto una rinascita e va chiarito che non è assolutamente un mondo solo maschile», sottolinea **Grazia Murtarelli**, **ricercatrice** presso l’Università Iulm, dove **svolge** attività didattica in comunicazione e relazioni pubbliche, e **delegata** del rettore per lo sport. Tra **gli appassionati** di esport c’è quasi parità tra **uomini e donne** come numeri e, anzi, è un mondo «che ha stimolato la parità di genere», perché il gaming online non è solo calcio. «**Le donne amano** i giochi di ruolo e ci sono esports che non richiedono la semplice competenza sportiva ma entrano in campo altre caratteristiche, strategia, pianificazione. Così le differenze che in altri sport portano a una selezione anche di genere, in questo campo si riducono», indica **Murtarelli** che vede nella diffusione degli esports durante il lockdown una tendenza destinata a durare nel tempo. 
+Prendiamo ad esempio il seguente tweet estratto dal dataset: 
 
+> Gli islamici non sopportano manco Peppa Pig. Manco io,ma per altri motivi. Gli islamici, francamente, avrebbero anche rotto i coglioni
+
+È evidente la presenza di discriminazione nei confronti di un gruppo religioso: annotiamo quindi la presenza di **Discriminazione religiosa**. La presenza di *rotto i coglioni* ci permette poi di stabilire che il messaggio è **offensivo**, e questa offensività è **esplicita**; questo nonostante l'inizio del messaggio  lasciasse presagire un'offensività implicita ("Gli islamici non sopportano manco Peppa Pig", che suona quasi ironico).
+
+Prendiamo ora un altro tweet che esemplifica caratteristiche diverse:
+
+> Gli elettori del m5s si riconoscono dai 47 cromosomi e dal fatto che quando gli altri parlano di fatti tirano fuori solo offese dato il quoziente intellettivo pari a quello di una medusa spiaggiata
+
+In questo caso possiamo immaginare ("dato il quoziente intellettivo pari a quello di una medusa spiaggiata") che l'intento dell'autore/autrice sia offensivo; il messaggio infatti attacca le capacità intellettive del(la) ricevente: annotiamo dunque la presenza di **abilismo** usato a scopi **offensivi**. In questo caso però si tratta di offensività **esplicita**, segnalata da due elementi: il già citato "quoziente intellettivo pari a quello di una medusa spiaggiata", che paragona il/la ricevente ad un animale il cui quoziente intellettivo è comunemente riconosciuto come molto basso; e la menzione dei *47 cromosomi*, probabile riferimento alla sindrome di Down, caratterizzata appunto dalla presenza di 47 cromosomi.
 
 ### Restituzione/riflessione guidata
-Tramite l’annotazione dei testi abbiamo fatto emergere da testi @@@.
-- *Di chi parla il testo?* Come ci si riferisce a uomini e donne? Perchè? Osserviamo i meccanismi morfologici attraverso cui si può veicolare l'informazione di genere nei sostantivi che si riferiscono a entità umane (es. suffissi -a/-o, -essa, parole ambigenere ecc.). A volte l’informazione grammaticale non rispecchia quella “reale”! Ci sono parole intrinsecamente gender specific in cui i referenti possono essere solo M/F. Si chiede di riflettere sulla nostra percezione di ciò che è m/f e anche di ciò che è “grammaticale” o meno (es. Io preferisco avvocato anche riferito a una donna perchè non mi suona “avvocatessa”)
-- *Come si caratterizzano gli attori del testo?* Osserviamo gli aggettivi che si riferiscono alle entità umane precedentemente identificate, annotando se riguardano la sfera fisica o quella psicologico-cognitiva. Sono emersi aggettivi che sono *gendered*? Quanto spesso vengono utilizzati diminutivi e vezzeggiativi? Quali sfere di significato sono più associate a referenti maschili e quali a femminili? Gli aggettivi individuati hanno lo stesso significato se cambi la marca di genere? 
-- *Quali azioni vengono svolte?* Osserviamo i verbi riferiti alle entità umane precedentemente identificate, annotando se esprimono delle azioni attive o passive. Ti sembra che alcuni personaggi dei testi avessero maggiori possibilità di agire attivamente nel contesto sociale di cui fanno parte? Nei rispettivi contesti, quali avevano dei ruoli attivi e quali passivi? Perchè? 
-
+Tramite l’annotazione dei testi abbiamo fatto emergere le caratteristiche linguistiche che compongono la violenza verbale. Ora proviamo ad utilizzare quanto appreso per mitigarla!
+- *Se fossi Twitter*? Riguardando i messaggi annotati, ogni studente/gruppo deve immaginare di essere nei panni dei revisori contenuti e decidere quali messaggi eliminare perché offensivi e lesivi della persona in questione. Quali messaggi verrebbero tenuti e quali eliminati?
+- *E se fossi tu il soggetto del messaggio?* Dopo aver assegnato ad ogni studente/gruppo un tweet annotato come offensivo, lo studente/gruppo deve immaginare cosa risponderebbe al tweet cercando di evitare una *escalation* di violenza.
 
 ### Valutazione/feedback
 Ciascun* student* o gruppo è riuscito a...
