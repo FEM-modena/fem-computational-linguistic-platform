@@ -35,7 +35,7 @@ Gli obiettivi didattici di tutte le nostre attività rispettano le normative naz
 <h3 class="accordion-header">Come svolgere l'attività in piattaforma</h3>
 <div class="accordion-body">
 
-Potete visualizzare qui @@@ la nostra guida all'utilizzo della piattaforma di annotazione per svolgere l'attività online.
+Potete visualizzare qui <a href= "https://linda.education/strumenti/#lindannotazione" target= "_blank">qui</a> la nostra guida all'utilizzo della piattaforma di annotazione per svolgere l'attività online.
 
 </div>
 </div>
