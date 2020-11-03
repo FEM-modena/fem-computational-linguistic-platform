@@ -1,5 +1,6 @@
 ---
-tags: featured202010
+tags: 
+- oltreiltesto
 title: "Lingua e ambiente: Climate Fiction e nuovi scenari distopici"
 summary: "Attività di analisi del discorso applicata a testi che affrontano la tematica ambientale in chiave distopica"
 ---

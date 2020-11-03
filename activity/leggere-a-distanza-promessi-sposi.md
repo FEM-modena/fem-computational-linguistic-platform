@@ -1,6 +1,5 @@
 ---
 tags: 
- - featured202008
  - leggeredistanza
 title: "I Promessi Sposi"
 summary: "Al centro di questa attività è il romanzo di Alessandro Manzoni, oggetto di studio durante il primo biennio della scuola secondaria di secondo grado. Grazie a questa attività è possibile favorire un approccio diretto al testo nella sua interezza, che può essere attraversato da percorsi infiniti, suggeriti dal docente e/o scoperti liberamente dallo studente."

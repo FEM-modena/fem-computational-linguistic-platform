@@ -1,5 +1,5 @@
 ---
-tags: featured202008
+tags: 
 title: "Come si costruisce un'immagine"
 summary: "Insieme alla filmaker Cinzia Ascari, vedremo quali sono gli aspetti fondamentali da tenere in considerazione quando si produce un’immagine. Ci concentreremo in particolare sulla composizione, il formato e l’uso del colore in fotografia. Così come scrivere un buon testo implica attenersi a regole ben precise, anche creare un’immagine comporta seguire delle regole compositive e strutturali."
 ---
