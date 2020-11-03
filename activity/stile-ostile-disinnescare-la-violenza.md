@@ -1,5 +1,4 @@
 ---
-a
 tags: 
 - featured
 - stileostile
