@@ -1,6 +1,5 @@
 ---
 tags: 
-- featured
 - oltreiltesto
 title: Linguaggi di genere negli articoli online
 summary: "Attraverso questa attività sarà possibile leggere in chiave sociolinguistica alcuni articoli di giornali online con particolare attenzione al discorso di genere."
@@ -26,7 +25,7 @@ NB: Questa attività può essere svolta da sola ma è pensata per essere associa
 <div class="accordion-panel">
 <h3 class="accordion-header">Perchè usare LINDA - Annotazione?</h3>
 <div class="accordion-body">
-L'annotazione...
+Attraverso l’annotazione il testo viene arricchito di informazioni (sottoforma di etichette) che permettono di mappare la presenza delle caratteristiche ritrovate attraverso l’emersione, rendendo così l’analisi svolta pronta per essere affrontata attraverso un’ulteriore fase di esplorazione. L’annotazione di porzioni di testo, metodo già ampiamente consolidato nella didattica in classe, aiuta lo studente a riorganizzare in forma più chiara le caratteristiche linguistiche emerse durante l'attività, evidenziandone la presenza all’interno del testo. 
 </div>
 </div>
 

@@ -1,5 +1,7 @@
 ---
-tags: featured202008
+tags: 
+- featured
+- figureconnotazioni
 title: "Metafore concettuali: Le nuove voci dell'attivismo ambientale"
 summary: "Attività incentrata sull'analisi di metafore in testi prodotti da attivisti ambientali"
 ---

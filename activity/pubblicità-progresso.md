@@ -1,5 +1,5 @@
 ---
-tags: featured202008
+tags: 
 title: "Come si legge un'immagine: Pubblicità progresso ieri e oggi"
 summary: "Attività di analisi linguistica e multimodale di pubblicità progresso"
 ---
