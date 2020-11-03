@@ -3,9 +3,12 @@ tags:
  - featured202008
  - leggeredistanza
 title: "I Promessi Sposi"
-summary: "Al centro di questa attività è il romanzo di Alessandro Manzoni, oggetto di studio durante il primo biennio della scuola secondaria di secondo grado. Attraverso l'approccio quantitativo proposto (distant reading) è possibile scoprire aspetti nuovi rispetto a quelli consentiti dalla lettura ravvicinata o tradizionale."
+summary: "Al centro di questa attività è il romanzo di Alessandro Manzoni, oggetto di studio durante il primo biennio della scuola secondaria di secondo grado. Grazie a questa attività è possibile favorire un approccio diretto al testo nella sua interezza, che può essere attraversato da percorsi infiniti, suggeriti dal docente e/o scoperti liberamente dallo studente."
 ---
 # Leggere a distanza... I Promessi Sposi
+
+<table><thead><tr><th>Scenario</th><th>Caratteristica linguistica</th><th>Tema</th><th>Tipologia testuale</th><th>Tempo stimato</th><th>Destinatari</th><th>BES/Difficoltà</th></tr></thead><tbody><tr><td>Leggere a distanza</td><td>Analisi quantitativa, esplorazione</td><td>Letteratura</td><td>Testo narrativo</td><td>1h30-2h</td><td>Triennio SS2</td><td>🟡</td></tr></tbody></table>
+
 ## Presentazione dell'attività
 
 <div class="accordion">
@@ -75,17 +78,17 @@ Fornire un pc per ciascuno studente o gruppo di studenti
 1. Aprite il <a href="https://voyant-tools.org/?corpus=811d1b5a517bd18eace80ce5e4aa6034&panels=corpuscollocates,reader,trends,phrases,dreamscape" target="_blank">corpus Voyant</a>
 2. Ingrandite lo strumento <a href="https://voyant-tools.org/?corpus=811d1b5a517bd18eace80ce5e4aa6034&view=Trends&query=renzo*&query=lucia*" target="_blank">Andamenti</a>
 3. Osservate le curve relative ai due protagonisti: sono sempre presenti sulla scena? in quali capitoli sono assenti? sono presenti sempre insieme? in quali capitoli sono separati?
+4. Potete utilizzare <a href="https://docs.google.com/document/d/1R03yRxuTRuCEA5HJDTSHdmlPP5OtNi0aIRtqrWlaF5w/edit?usp=sharing" target="_blank">questo documento</a> (File-> Crea una copia) se volete far scrivere qualcosa alla classe.
 
 ### Esempio
 <img src="/visual/leggere-a-distanza/promessi-sposi-1.png" alt="drawing" width="100%"/>
 Il grafico visualizza con chiarezza che nella macrosequenza (1-8) Renzo e Lucia vivono insieme le loro avventure, per poi separarsi al capitolo IX. Renzo quasi sparisce nei capitoli 9-10, per poi essere l’unico protagonista dei capitoli successivi (il cosiddetto romanzo di formazione) e di quelli finali (la conclusione della sua formazione). Le avventure di Lucia sono narrate nei capitoli XX e seguenti. E così via. Inserendo opportunamente altre parole chiave (es. peste, Cristoforo), il grafico si aggiorna rivelando i contenuti omogenei ed esclusivi di alcuni capitoli (IV, XXXI-XXXII).
 
 ### Restituzione/riflessione guidata
-Discussione in plenaria. Con l’aiuto delle sintesi proposte dai libri di testo, gli studenti scoprono la struttura del romanzo, comprendono che cos’è una digressione, scoprono il romanzo di formazione di Renzo.
-
+Discussione in plenaria. Con l’aiuto delle sintesi proposte dai libri di testo, gli studenti scoprono la struttura del romanzo, comprendono che cos’è una digressione, scoprono il romanzo di formazione di Renzo. 
 
 ### Valutazione/feedback
-@@@ 
+Hai osservato attentamente il grafico? Hai tenuto conto delle conoscenze pregresse? Hai compreso e analizzato il testo? 
 
 </div>
 </div>
@@ -98,12 +101,13 @@ Discussione in plenaria. Con l’aiuto delle sintesi proposte dai libri di testo
 1. Aprite il <a href="https://voyant-tools.org/?corpus=811d1b5a517bd18eace80ce5e4aa6034&panels=corpuscollocates,reader,trends,phrases,dreamscape" target="_blank">corpus Voyant</a>
 2. Ingrandite lo strumento <a href="https://voyant-tools.org/?corpus=811d1b5a517bd18eace80ce5e4aa6034&query=lettor*&panels=corpuscollocates,reader,trends,phrases,dreamscape&view=Trends" target="_blank">Andamenti</a>
 3. Provate a rispondere alle seguenti domande: Osservate la frequenza relativa della parola ‘lettor*’. In che modo si distribuisce lungo i capitoli? Notate dei picchi? In corrispondenza di quali capitoli? A quale tecnica narrativa rimanda? Quale immagine del narratore viene fuori dal grafico? Quale immagine dell’autore e dei suoi valori? A quale pubblico si rivolge Manzoni?
+4. Potete utilizzare <a href="https://docs.google.com/document/d/1R03yRxuTRuCEA5HJDTSHdmlPP5OtNi0aIRtqrWlaF5w/edit?usp=sharing" target="_blank">questo documento</a> (File-> Crea una copia) se volete far scrivere qualcosa alla classe.
 
 ### Esempio
 <img src="/visual/leggere-a-distanza/promessi-sposi-2.png" alt="drawing" width="100%"/>
 
 ### Restituzione/riflessione guidata
-Fate una prima breve discussione di gruppo guidata dall'insegnante. Poi leggete (in gruppo o in plenaria) e analizzate l’Introduzione. Confrontate con le osservazioni emerse in precedenza. Acquisizione dell’espediente del manoscritto e del patto narrativo.
+Fate una prima breve discussione di gruppo guidata dall'insegnante. Poi leggete (in gruppo o in plenaria) e analizzate l’Introduzione. Confrontate con le osservazioni emerse in precedenza. Acquisizione dell’espediente del manoscritto e del patto narrativo. 
 
 ### Valutazione/feedback
 Hai osservato attentamente il grafico? Hai tenuto conto delle conoscenze pregresse? Hai compreso e analizzato il testo? 
@@ -121,7 +125,7 @@ Hai osservato attentamente il grafico? Hai tenuto conto delle conoscenze pregres
 3. Provate a rispondere alle seguenti domande: Con quali verbi e/o espressioni si accompagna la parola lettor*? Quali azioni compie? Quali sono le sue caratteristiche?
 
 ### Esempio
-Raccogliete le vostre osservazioni nella tabella seguente. Riorganizzate i predicati in modo che lettore sia soggetto.
+Raccogliete le vostre osservazioni nella tabella che trovate <a href="https://docs.google.com/document/d/1R03yRxuTRuCEA5HJDTSHdmlPP5OtNi0aIRtqrWlaF5w/edit?usp=sharing" target="_blank">qui</a> (File->Crea una copia). Riorganizzate i predicati in modo che lettore sia soggetto.
 <table><thead><tr><th>testo</th><th>azione</th><th>caratteristiche</th></tr></thead><tbody><tr><td>il lettore se n’è avveduto</td><td>accorgersi</td><td></td></tr><tr><td>informare il lettore</td><td></td><td>essere informato</td></tr><tr><td>...</td><td></td><td></td></tr></tbody></table>
 Narratore e lettore hanno una relazione stretta. Manzoni vuole un lettore informato, avveduto, lo coinvolge per favorire l’emergere dell’opinione personale.   
 
@@ -143,22 +147,18 @@ Avete tenuto conto di tutte le parole che circondano la parola chiave (destra e 
 2. In passato i Promessi sposi sono stati definiti l’epopea o il romanzo della Provvidenza (da Momigliano, poi Sapegno). E’ veramente così? 
 3. Cercate la parola tramite lo strumento <a href="https://voyant-tools.org/?corpus=811d1b5a517bd18eace80ce5e4aa6034&view=MicroSearch&query=provvidenza*" target="_blank">Microsearch</a>
 4. Provate a rispondere alle seguenti domande: la parola è presente in tutto il corpus? In quali capitoli si concentra?
-5. La ricerca può proseguire con Contesti, per scoprire a quali personaggi è collegata e qual è il suo ruolo. La ricerca può proseguire indagando sulla parola male e sulle parole collegate.
+5. Potete utilizzare <a href="https://docs.google.com/document/d/1R03yRxuTRuCEA5HJDTSHdmlPP5OtNi0aIRtqrWlaF5w/edit?usp=sharing" target="_blank">questo documento</a> (File-> Crea una copia) se volete far scrivere qualcosa alla classe.
 
 ### Esempio
 <img src="/visual/leggere-a-distanza/promessi-sposi-3.png" alt="drawing" width="100%"/>
 
 
 ### Restituzione/riflessione guidata
-@@@
+La ricerca può proseguire con <a href="https://voyant-tools.org/?corpus=811d1b5a517bd18eace80ce5e4aa6034&view=Contexts&query=provvidenza*" target="_blank">Contesti</a>, per scoprire a quali personaggi è collegata e qual è il suo ruolo. La ricerca può proseguire indagando sulla parola <em>male</em> e sulle parole collegate.
 
 ### Valutazione/feedback
-@@@ 
+Hai osservato attentamente il grafico? Hai tenuto conto delle conoscenze pregresse? Hai compreso e analizzato il testo?
 
 </div>
 </div>
-
-## Risorse extra
-
-@@@
 

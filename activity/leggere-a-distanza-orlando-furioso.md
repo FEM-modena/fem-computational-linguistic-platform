@@ -7,7 +7,9 @@ summary: "Al centro di questa attività è il poema cavalleresco di Ludovico Ari
 
 ---
 
-# L'Orlando Furioso
+# Leggere a distanza... l'Orlando Furioso
+
+<table><thead><tr><th>Scenario</th><th>Caratteristica linguistica</th><th>Tema</th><th>Tipologia testuale</th><th>Tempo stimato</th><th>Destinatari</th><th>BES/Difficoltà</th></tr></thead><tbody><tr><td>Leggere a distanza</td><td>Analisi quantitativa, esplorazione</td><td>Letteratura</td><td>Testo narrativo</td><td>1h30-2h</td><td>Triennio SS2</td><td>🟡</td></tr></tbody></table>
 
 ## Presentazione dell'attività
 
@@ -79,13 +81,13 @@ Fornire un pc per ciascuno studente o gruppo di studenti
 1. Aprite il <a href="https://voyant-tools.org/?corpus=fbea33ff7b5ab2276593fcd3d9fc2ec1&visible=25&panels=corpuscollocates,reader,trends,phrases,dreamscape" target="_blank">corpus Voyant</a>
 2. Ingrandite lo strumento <a href="https://voyant-tools.org/?corpus=fbea33ff7b5ab2276593fcd3d9fc2ec1&visible=25&panels=corpuscollocates,reader,trends,phrases,dreamscape&view=Cirrus" target="_blank">Cirrus</a>
 3. Provate a rispondere alle seguenti domande: Quali parole vi colpiscono? Quali parole vi sareste aspettati? Il grafico rispecchia il titolo? Come vi sembra la lingua: lontana o vicina a quella attuale? Quali sono le principali differenze tra l’italiano attuale e la lingua dell’opera? A quali categorie grammaticali appartengono le parole? Quali ruoli potrebbero svolgere le parole? Alla luce delle prime osservazioni, quale potrebbe essere il contenuto dell’opera? quali potrebbero essere gli aspetti specifici dell’opera? ...
-4. Raccogliete le vostre ipotesi in base alla fonte (titolo o nuvola), indicando esplicitamente i termini significativi. @@@@ link a una tabella??@@@
+4. Raccogliete le vostre ipotesi in base alla fonte (titolo o nuvola), indicando esplicitamente i termini significativi. Potete farlo in <a href="https://docs.google.com/document/d/1xCWjIojpPLKI9ivN9s2ya13OXpZIT5ViktUz9C25E6g/edit?usp=sharing" target="_blank">questo documento</a>.
 
 
 ### Esempio
 <img src="/visual/leggere-a-distanza/orlando-furioso-1.png" alt="drawing" width="100%"/>
 
-Si chiede di raccogliere le proprie ipotesi in una tabella come questa:
+Si chiede di raccogliere le proprie ipotesi in una tabella come questa (la trovate a <a href="https://docs.google.com/document/d/1xCWjIojpPLKI9ivN9s2ya13OXpZIT5ViktUz9C25E6g/edit?usp=sharing" target="_blank">questo link</a>):
 <table><thead><tr><th></th><th>Titolo</th><th>Nuvola</th><th>Proemio</th></tr></thead><tbody><tr><td>argomento</td><td>vicende cavalleresche (Orlando); follia (furioso) </td><td>vicende amorose e politiche/guerre (re, donna)</td><td></td></tr><tr><td>protagonista/i</td><td>Orlando</td><td>Ruggiero, donne, re </td><td></td></tr><tr><td>tempo</td><td>lontano </td><td>lontano (avea)</td><td></td></tr><tr><td>destinatari</td><td>corti</td><td>corti (re, donne)</td><td></td></tr><tr><td>stile</td><td>narrazione ampia (genere epico)</td><td>abbondanza di nessi → narrazione ampia (poi, quando, così...) </td><td></td></tr><tr><td>canti</td><td>1, 2, 3, 4 ..., 11 ... 20, ... 33 ... 43</td><td>topos distribuito lungo tutto il poema, <br>particolarmente significativo nel canto I</td><td></td></tr></tbody></table>
 
 ### Restituzione/riflessione guidata
@@ -105,13 +107,13 @@ Avete tenuto conto di tutte le parole della nuvola? Avete analizzato correttamen
 1. Aprite il <a href="https://voyant-tools.org/?corpus=fbea33ff7b5ab2276593fcd3d9fc2ec1&visible=25&panels=corpuscollocates,reader,trends,phrases,dreamscape" target="_blank">corpus Voyant</a>
 2. Ingrandite lo strumento <a href="https://voyant-tools.org/?corpus=fbea33ff7b5ab2276593fcd3d9fc2ec1&query=selva&panels=corpuscollocates,reader,trends,phrases,dreamscape&view=Contexts" target="_blank">Contesti</a>
 3. Provate a rispondere alle seguenti domande: Come si caratterizza la selva? Quali sono le espressioni di luogo ricorrenti? Quali azioni accadono? Chi si muove nella selva? La selva è presente in tutto il poema o solo in alcuni canti? Ci sono riferimenti geografici precisi? Vi vengono in mente collegamenti con le selve di altri testi?
-4. Raccogliete le vostre ipotesi nella tabella @@@@ link a una tabella??@@@. 
+4. Raccogliete le vostre ipotesi nella tabella che trovate in <a href="https://docs.google.com/document/d/1xCWjIojpPLKI9ivN9s2ya13OXpZIT5ViktUz9C25E6g/edit?usp=sharing" target="_blank">questo documento</a> 
 5. Alla luce degli indizi raccolti, formulate un’ipotesi di interpretazione del significato e ruolo della selva nel poema. 
 
 
 ### Esempio
 <img src="/visual/leggere-a-distanza/orlando-furioso-2.png" alt="drawing" width="100%"/>
-Si chiede di raccogliere le proprie ipotesi in una tabella come questa:
+Si chiede di raccogliere le proprie ipotesi in una tabella come questa (la trovate <a href="https://docs.google.com/document/d/1xCWjIojpPLKI9ivN9s2ya13OXpZIT5ViktUz9C25E6g/edit?usp=sharing" target="_blank">qui</a>):
 <table><thead><tr><th></th><th></th><th>intepretazione</th><th>collegamenti</th></tr></thead><tbody><tr><td>aggettivi e/o espressioni<br>(qualità fisiche o morali?)</td><td>alta, folta, spessa di ombrose piante, intricata, frondosa<br>gran, immensa<br>che li cinge intorno<br>oscura, negra, scura<br>ria<br>aspra<br>romita<br>antica</td><td>luogo negativo, misterioso, di smarrimento<br>valenza morale delle qualità fisiche</td><td>selva di Dante,<br>di Petrarca,<br>...</td></tr><tr><td>preposizioni/<br>locuzioni<br>(con espansione)</td><td>in, per<br>(di sù, di giù)</td><td>luogo che avvolge/circonda i personaggi, luogo che si attraversa<br>(luogo senza punti di riferimento, centrifugo)</td><td></td></tr><tr><td>riferimenti geografici</td><td>assenti, <br>ad eccezione di Caledonia,<br>d’Ardenna</td><td>spazio generico, vago topos letterario<br>Scozia<br>Ardenne (Francia)<br>(luoghi canonici ciclo carolingio e arturiano)</td><td></td></tr><tr><td>azioni</td><td>fuggire<br>correre <br>cercare<br>...</td><td>luogo pericoloso, che rappresenta una minaccia, in cui non ci si ferma  <br>luogo della ricerca</td><td></td></tr><tr><td>personaggi<br>(con espansione)</td><td>Angelica, Ruggiero, Orlando, Rinaldo <br>...</td><td>impegna e caratterizza i personaggi</td><td></td></tr><tr><td>canti</td><td>1, 2, 3, 4 ..., 11 ... 20, ... 33 ... 43</td><td>topos distribuito lungo tutto il poema, <br>particolarmente significativo nel canto I</td><td></td></tr></tbody></table>
 
 
@@ -132,7 +134,7 @@ Avete tenuto conto di tutte le parole che circondano la parola chiave (destra e 
 1. Aprite il <a href="https://voyant-tools.org/?corpus=fbea33ff7b5ab2276593fcd3d9fc2ec1&visible=25&panels=corpuscollocates,reader,trends,phrases,dreamscape" target="_blank">corpus Voyant</a>
 2. Ingrandite lo strumento <a href="https://voyant-tools.org/?corpus=fbea33ff7b5ab2276593fcd3d9fc2ec1&query=fortuna&query=amore&view=Trends" target="_blank">Andamenti</a>
 3. Provate a rispondere alle seguenti domande: Quale tra le due forze è dominante nel poema? Come sono distribuite nel poema? Quali potrebbero essere le interpretazioni?
-4. Appuntate le vostre osservazioni su un foglio @@@@ link @@@. 
+4. Appuntate le vostre osservazioni su <a href="https://docs.google.com/document/d/1xCWjIojpPLKI9ivN9s2ya13OXpZIT5ViktUz9C25E6g/edit?usp=sharing" target="_blank">questo documento</a>. 
 5. Proseguite l’analisi scoprendo le accezioni dei due concetti usando lo strumento <a href="https://voyant-tools.org/?corpus=fbea33ff7b5ab2276593fcd3d9fc2ec1&query=amore&panels=corpuscollocates,reader,trends,phrases,dreamscape&view=Contexts" target="_blank">Contesti</a>. Confrontate le vostre ipotesi con un canto o un passo a scelta.
 
 

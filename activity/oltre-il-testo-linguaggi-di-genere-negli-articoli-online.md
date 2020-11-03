@@ -7,6 +7,8 @@ summary: "Attraverso questa attività sarà possibile leggere in chiave sociolin
 ---
 # Linguaggi di genere negli articoli online
 
+<table><thead><tr><th>Scenario</th><th>Caratteristica linguistica</th><th>Tema</th><th>Tipologia testuale</th><th>Tempo stimato</th><th>Destinatari</th><th>BES/Difficoltà</th></tr></thead><tbody><tr><td>Oltre il testo</td><td>Agentività</td><td>Linguaggi di genere</td><td>Testo narrativo</td><td>1h30-2h</td><td>Biennio/Triennio SS2</td><td>🟢</td></tr></tbody></table>
+
 ## Presentazione dell'attività
 
 <div class="accordion">
@@ -18,11 +20,11 @@ Negli ultimi anni è emersa in modo sempre più forte la necessità di adottare 
 Ma che cosa significa **comunicare in ottica di genere**? A partire dall’analisi di contenuti linguistici è possibile riflettere in maniera critica su fenomeni sociali quanto mai attuali e rilevanti.
 
 ### L'attività
-In questa attività si propone l’annotazione tramite lo strumento @@ erbaluce @@ di una selezione di testi argomentativi (articoli di giornali online) 
+In questa attività si propone l’annotazione tramite lo strumento LINDA - Annotazione di una selezione di testi argomentativi (articoli di giornali online) 
 NB: Questa attività può essere svolta da sola ma è pensata per essere associata a <a href="activity/oltre-il-testo-i-malavoglia" target="_blank">"A donna alla finestra non far festa": Identità e genere nei testi letterari</a>!. 
 
 <div class="accordion-panel">
-<h3 class="accordion-header">Perchè usare erbaluce?</h3>
+<h3 class="accordion-header">Perchè usare LINDA - Annotazione?</h3>
 <div class="accordion-body">
 L'annotazione...
 </div>
@@ -78,19 +80,15 @@ Fornire un pc per ciascuno studente o gruppo di studenti
 
 ### Pratica
 1. Introducete alla classe la domanda di ricerca: *quali parole in un testo ci forniscono informazioni sul genere?* Proviamo a utilizzare un approccio che già conosciamo, cioè l’analisi grammaticale, per riconoscere non solo i ruoli **linguistici** che le parole hanno in una frase ma anche quelli **sociali**. 
-2. Aprite erbaluce
-3. Loggatevi sul progetto "@@@"
-4. Assegnate un testo a ciascuno (o se preferite lavorate in gruppi). 
-5. Adesso provate ad annotare le seguenti categorie: 
+2. Seguite le istruzioni a <a href="https://linda.education/strumenti/#lindannotazione" target="_blank">questo link</a> per ottenere l'accesso al progetto.
+3. Assegnate un testo a ciascuno (o se preferite lavorate in gruppi). 
+4. Adesso provate ad annotare le seguenti categorie: 
 - **Sostantivi**: nome | cognome | nome e cognome | altro
 - **Aggettivi**: tratto caratteriale | tratto fisico
 - **Verbi**: attivi | passivi
 
 ### Esempio
-Prendiamo ad esempio il seguente estratto da un articolo online: 
-@@@ inserire immagine da erbaluce! @@@ 
-«Gli esports hanno avuto una rinascita e va chiarito che non è assolutamente un mondo solo maschile», sottolinea **Grazia Murtarelli**, **ricercatrice** presso l’Università Iulm, dove **svolge** attività didattica in comunicazione e relazioni pubbliche, e **delegata** del rettore per lo sport. Tra **gli appassionati** di esport c’è quasi parità tra **uomini e donne** come numeri e, anzi, è un mondo «che ha stimolato la parità di genere», perché il gaming online non è solo calcio. «**Le donne amano** i giochi di ruolo e ci sono esports che non richiedono la semplice competenza sportiva ma entrano in campo altre caratteristiche, strategia, pianificazione. Così le differenze che in altri sport portano a una selezione anche di genere, in questo campo si riducono», indica **Murtarelli** che vede nella diffusione degli esports durante il lockdown una tendenza destinata a durare nel tempo. 
-
+<img src="/visual/leggere-a-distanza/genere-online-1.png" alt="drawing" width="100%"/>
 
 ### Restituzione/riflessione guidata
 Tramite l’annotazione dei testi abbiamo fatto emergere da testi della nostra quotidianità delle informazioni nascoste, non visibili in superficie, sul genere e sull’agentività.
