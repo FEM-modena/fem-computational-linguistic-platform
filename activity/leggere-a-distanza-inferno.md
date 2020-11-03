@@ -3,7 +3,7 @@ tags:
  - featured
  - leggeredistanza
 title: "L'Inferno di Dante"
-summary: "L’attività è pensata per introdurre o per ripasso e consolidamento l’Inferno. L’insegnante che si approccia alla spiegazione della Commedia deve solitamente fare una selezione dei canti da affrontare in classe in modo approfondito per far emergere la varietà dei contenuti e la preziosità della lingua di Dante. Abbiamo quindi pensato di inserirci nel percorso che ciascun* docent* costruisce per la propria classe creando un’occasione per ampliare le riflessioni sull’opera, riflettendo sulla complessità e sull'interconnessione di caratteristiche linguistiche e tematiche osservabili solo se il testo è considerato nella sua interezza."
+summary: "L’attività è pensata per l'introduzione oppure per il ripasso e il consolidamento l’Inferno, creando un’occasione per ampliare le riflessioni sull’opera attraverso l'approccio quantitativo proposto (distant reading)."
 ---
 
 # Leggere a distanza... l'Inferno dantesco
