@@ -65,6 +65,14 @@ div.wide_button{
     padding: 3% 0%;
 
 }
+div.scenari_div{
+    border: 1px solid  #00AF7C;
+    display: block;
+    padding: 5px 20px;
+    background-color: #e5f7f1;
+    margin: 10px;
+
+}
 /* ****************** */
 /* Components */
 #main {

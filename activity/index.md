@@ -2,6 +2,6 @@
 eleventyExcludeFromCollections: true
 layout: activity/index.njk
 ---
-# Tutte le attività
-Scenario didattico
-Attività 
+<div class="scenario1">AAA</div>
+
+<div class="scenario2">BBB</div>

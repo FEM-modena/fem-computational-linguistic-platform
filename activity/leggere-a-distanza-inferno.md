@@ -2,7 +2,7 @@
 tags: 
  - featured202008
  - leggeredistanza
-title: "Leggere a distanza | L'Inferno di Dante"
+title: "L'Inferno di Dante"
 summary: "Al centro di questa attività è la prima cantica della Commedia. Attraverso l'approccio quantitativo proposto (distant reading) è possibile scoprire aspetti nuovi rispetto a quelli consentiti dalla lettura ravvicinata o tradizionale."
 ---
 
