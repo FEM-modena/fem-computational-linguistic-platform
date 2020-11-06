@@ -8,7 +8,36 @@ summary: "Al centro di questa attività è il poema cavalleresco di Ludovico Ari
 
 # Leggere a distanza... l'Orlando Furioso
 
-<table><thead><tr><th>Scenario</th><th>Caratteristica linguistica</th><th>Tema</th><th>Tipologia testuale</th><th>Tempo stimato</th><th>Destinatari</th><th>BES/Difficoltà</th></tr></thead><tbody><tr><td>Leggere a distanza</td><td>Analisi quantitativa, esplorazione</td><td>Letteratura</td><td>Testo narrativo</td><td>1h30-2h</td><td>Triennio SS2</td><td>🟡</td></tr></tbody></table>
+<div class="columns is-vcentered is-1 activity-feature">
+    <div class="column">
+        <h4>Scenario</h4>
+        <span>Leggere a distanza</span>
+    </div>
+    <div class="column">
+        <h4>Caratteristica linguistica</h4>
+        <span>Analisi quantitativa, esplorazione</span>
+    </div>
+    <div class="column">
+        <h4>Tema</h4>
+        <span>Letteratura</span>
+    </div>
+    <div class="column">
+        <h4>Tipologia testuale</h4>
+        <span>Testo narrativo</span>
+    </div>
+    <div class="column">
+        <h4>Tempo stimato</h4>
+        <span>1h30-2h</span>
+    </div>
+    <div class="column">
+        <h4>Destinatari</h4>
+        <span>Triennio SS2</span>
+    </div>
+    <div class="column">
+        <h4>BES/Difficoltà</h4>
+        <span>🟡</span>
+    </div>
+</div>
 
 ## Presentazione dell'attività
 

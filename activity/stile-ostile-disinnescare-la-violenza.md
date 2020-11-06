@@ -8,9 +8,38 @@ summary: "Attraverso questa attività sarà possibile leggere in chiave sociolin
 ---
 # Stile O_Stile | Disinnescare la violenza verbale nel mondo digitale
 
-<table><thead><tr><th>Scenario</th><th>Caratteristica linguistica</th><th>Tema</th><th>Tipologia testuale</th><th>Tempo stimato</th><th>Destinatari</th><th>BES/Difficoltà</th></tr></thead><tbody><tr><td>Stile O_Stile</td><td>Hate speech</td><td>Violenza verbale</td><td>Contenuti da social network</td><td>1h30-2h</td><td>Triennio SS2</td><td>🟢</td></tr></tbody></table>
-<div class="accordion">
+<div class="columns is-vcentered is-1 activity-feature">    
+    <div class="column">
+        <h4>Scenario</h4>
+        <span>Stile O_Stile</span>
+    </div>
+    <div class="column">
+        <h4>Caratteristica linguistica</h4>
+        <span>Hate speech</span>
+    </div>
+    <div class="column">
+        <h4>Tema</h4>
+        <span>Violenza verbale</span>
+    </div>
+    <div class="column">
+        <h4>Tipologia testuale</h4>
+        <span>Contenuti da social network</span>
+    </div>
+    <div class="column">
+        <h4>Tempo stimato</h4>
+        <span>1h30-2h</span>
+    </div>
+    <div class="column">
+        <h4>Destinatari</h4>
+        <span>Triennio SS2</span>
+    </div>
+    <div class="column">
+        <h4>BES/Difficoltà</h4>
+        <span>🟢</span>
+    </div>
+</div>
 
+<div class="accordion">
 ### Lo scenario 
 Quando parliamo di **violenza verbale** (o **hate speech**) ci riferiamo ad un fenomeno linguistico e sociale ogni giorno sempre più pervasivo, anche all’interno di discorsi pubblici ufficiali. L'impatto che questo fenomeno ha sulla società è sempre maggiore (e in crescita [durante l'attuale pandemia mondiale](https://www.un.org/en/genocideprevention/documents/Guidance%20on%20COVID-19%20related%20Hate%20Speech.pdf)), tanto che sia **UNESCO** sia il **Consiglio d'Europa** hanno individuato la **necessità di favorire una comunicazione rispettosa delle altre persone** per **contrastare** efficacemente **discorsi e fenomeni d’odio** e **promuovere narrazioni corrette e accurate**. Le attività di Stile O_Stile muovono da queste indicazioni e propongono **attività pratiche per lo sviluppo di quella sensibilità linguistica e sociale** necessaria per valutare criticamente la violenza verbale e fornire quegli strumenti necessari per sviluppare un dialogo rispettoso delle altre persone.
 

@@ -6,7 +6,36 @@ summary: "Attraverso questa attività sarà possibile leggere in chiave sociolin
 ---
 # Linguaggi di genere negli articoli online
 
-<table><thead><tr><th>Scenario</th><th>Caratteristica linguistica</th><th>Tema</th><th>Tipologia testuale</th><th>Tempo stimato</th><th>Destinatari</th><th>BES/Difficoltà</th></tr></thead><tbody><tr><td>Oltre il testo</td><td>Agentività</td><td>Linguaggi di genere</td><td>Testo narrativo</td><td>1h30-2h</td><td>Biennio/Triennio SS2</td><td>🟢</td></tr></tbody></table>
+<div class="columns is-vcentered is-1 activity-feature">
+    <div class="column">
+        <h4>Scenario</h4>
+        <span>Oltre il testo</span>
+    </div>
+    <div class="column">
+        <h4>Caratteristica linguistica</h4>
+        <span>Agentività</span>
+    </div>
+    <div class="column">
+        <h4>Tema</h4>
+        <span>Linguaggi di genere</span>
+    </div>
+    <div class="column">
+        <h4>Tipologia testuale</h4>
+        <span>Testo narrativo</span>
+    </div>
+    <div class="column">
+        <h4>Tempo stimato</h4>
+        <span>1h30-2h</span>
+    </div>
+    <div class="column">
+        <h4>Destinatari</h4>
+        <span>Biennio/Triennio SS2</span>
+    </div>
+    <div class="column">
+        <h4>BES/Difficoltà</h4>
+        <span>🟢</span>
+    </div>
+</div>
 
 ## Presentazione dell'attività
 

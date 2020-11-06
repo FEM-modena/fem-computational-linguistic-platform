@@ -164,7 +164,9 @@ article div, article p {
   text-align: justify;
 }
 /* Activity features */
-
+.activity-feature h4 {
+    border-bottom: 1px solid #646464;
+}
 /* Tables in articles */
 article th,td {
   border-bottom: 1px solid #ddd;

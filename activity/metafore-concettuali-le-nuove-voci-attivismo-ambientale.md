@@ -7,7 +7,36 @@ summary: "Attività incentrata sull'analisi di metafore in testi prodotti da att
 ---
 # Le nuove voci dell'attivismo ambientale
 
-<table><thead><tr><th>Scenario</th><th>Caratteristica linguistica</th><th>Tema</th><th>Tipologia testuale</th><th>Tempo stimato</th><th>Destinatari</th><th>BES/Difficoltà</th></tr></thead><tbody><tr><td>Le figure e le connotazioni del linguaggio</td><td>Metafore concettuali</td><td>Ambiente</td><td>Testi argomentativi</td><td>1h30-2h</td><td>Triennio SS2</td><td>🟡</td></tr></tbody></table>
+<div class="columns is-vcentered is-1 activity-feature">
+    <div class="column">
+        <h4>Scenario</h4>
+        <span>Le figure e le connotazioni del linguaggio</span>
+    </div>
+    <div class="column">
+        <h4>Caratteristica linguistica</h4>
+        <span>Metafore concettuali</span>
+    </div>
+    <div class="column">
+        <h4>Tema</h4>
+        <span>Ambiente</span>
+    </div>
+    <div class="column">
+        <h4>Tipologia testuale</h4>
+        <span>Testi argomentativi</span>
+    </div>
+    <div class="column">
+        <h4>Tempo stimato</h4>
+        <span>1h30-2h</span>
+    </div>
+    <div class="column">
+        <h4>Destinatari</h4>
+        <span>Triennio SS2</span>
+    </div>
+    <div class="column">
+        <h4>BES/Difficoltà</h4>
+        <span>🟡</span>
+    </div>
+</div>
 
 ## Presentazione dell'attività
 
