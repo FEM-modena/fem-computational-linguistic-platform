@@ -5,61 +5,91 @@
     <title>{{ title }}</title>
 </head>
 <body>
-    <div id="main">
-        {% include 'top-menu.njk' %}
-        <section class="section-green">
-            <div id="hero">
-                <h1 class="main-hero">Linguistica per la Didattica e l'Apprendimento</h1>
-                <h1 class="sub-hero">Sfide di linguistica computazionale</h1>
+    <main class="container">
+        <div class="columns is-multiline is-centered">
+            <div class="column is-11">
+                {% include 'top-menu.njk' %}
             </div>
-            <div id="frontpage">
-                <h2>{{ featuredMonth }}</h2>
-                <h1>{{ featuredTitle }}</h1>
-                <p>{{ featuredText }}</p>
-                <ul>
-                {%- for activity in collections.featured -%}
-                    <li>
-                        <h3>{{ activity.data.title }}</h3>
-                        <p>{{ activity.data.summary }}</p>
+            <div class="column is-11">
+                <section id="hero" class="columns is-vcentered section-yellow px-2">
+                    <div class="column is-half py-6">
+                        <h1 class="main-hero">Linguistica per la Didattica e l'Apprendimento</h1>
+                        <h1 class="sub-hero">Sfide di linguistica computazionale</h1>
+                    </div>
+                    <div class="column is-half" id="frontpage">
+                        <h4 class="subtitle is-3">{{ featuredMonth }}</h4>
+                        <h4 class="title is-3 mb-1">{{ featuredTitle }}</h4>
+                        <p>{{ featuredText }}</p>
+                        <ul class="columns is-multiline mt-2">
+                        {%- for activity in collections.featured -%}
+                            <li class="column is-half p-3">
+                                <h5 class="title is-5 mb-1">{{ activity.data.title }}</h5>
+                                <p>{{ activity.data.summary }}</p>
+                                <p class="ending-link">
+                                    <a href="{{ activity.url | url }}">Scopri</a>
+                                </p>
+                            </li>
+                        {%- endfor -%}
+                        </ul>
+                    </div>
+                </section>
+            </div>
+            {# <section class="section-red">
+                <div id="sidekick">
+                    <i class="fas fa-map-signs"></i>
+                </div>
+                <div id="centerpage">
+                    <h1 class="sub-hero">L'attività per la tua classe</h1>
+                    <p>Segui le indicazioni fornite e scegli l’attività perfetta per la tua classe, grazie ad una serie di domande costruite per guidarti passo passo. Scarica poi i materiali e le indicazioni per portarla a termine.</p>
+                    <p class="ending-link">
+                        <a href="/trova-attivita">Scopri il percorso</a>
+                    </p>
+                </div>
+            </section> #}
+            <div class="column is-11">
+                <section class="columns is-multiline section-pink pt-4 pb-6 px-2">
+                    <div class="column is-full">
+                        <h5 class="subtitle is-3">Approfondimenti</h2>
+                    </div>
+                    <div class="column is-half bottompage">
+                        <h3 class="title is-3 mb-1 py-2">Webinar</h3>
+                        <p>In questa pagina sono raccolte le registrazioni di tutti i webinar di linguistica che abbiamo tenuto negli ultimi mesi. Troverete video-pillole, presentazioni delle attività, tutorial degli strumenti, incontri con ospiti speciali e molti altri materiali per voi e per la vostra classe!</p>
                         <p class="ending-link">
-                            <a href="{{ activity.url | url }}">Scopri</a>
+                            <a href="/webinar">Vedi tutti i webinar</a>
                         </p>
-                    </li>
-                {%- endfor -%}
-                </ul>
+                    </div>
+                    <div class="column is-half bottompage">
+                        <h3 class="title is-3 mb-1 py-2">Documenti teorici</h3>
+                        <p>In questa sezione potrai trovare testi originali e riferimenti scientifici a supporto delle attività proposte.</p>
+                        <p class="ending-link">
+                            <a href="/documenti-teorici">Consulta i contenuti</a>
+                        </p>
+                    </div>
+                </section>
             </div>
-        </section>
-        {# <section class="section-red">
-            <div id="sidekick">
-                <i class="fas fa-map-signs"></i>
+            <div class="column is-11">
+                <section class="columns section-green py-6 px-2">
+                    <div class="column footer-links">
+                        <ul>
+                            <li><a href="/documenti-teorici">documenti teorici</a></li>
+                            <li><a href="/activity">tutte le attività</a></li>
+                            {# <li><a href="/community">community</a></li> #}
+                            <li><a href="/strumenti">strumenti</a></li>
+                            <li><a href="/webinar">webinar</a></li>
+                            {# <li><a href="/materiale-extra">materiale extra</a></li> #}
+                        </ul>
+                    </div>
+                    <div class="column footer-links">
+                        <ul>
+                            <li><a href="/chi-siamo">chi siamo</a></li>
+                            <li><a href="https://www.fem.digital">future education modena</a></li>
+                            <li><a href="https://github.com/FEM-modena">open source</a></li>
+                        </ul>
+                    </div>
+                </section>
             </div>
-            <div id="centerpage">
-                <h1 class="sub-hero">L'attività per la tua classe</h1>
-                <p>Segui le indicazioni fornite e scegli l’attività perfetta per la tua classe, grazie ad una serie di domande costruite per guidarti passo passo. Scarica poi i materiali e le indicazioni per portarla a termine.</p>
-                <p class="ending-link">
-                    <a href="/trova-attivita">Scopri il percorso</a>
-                </p>
-            </div>
-        </section> #}
-        <section class="multiline section-yellow">
-            <h2>Approfondimenti</h2>
-            <div class="bottompage">
-                <h1>Webinar</h1>
-                <p>In questa pagina sono raccolte le registrazioni di tutti i webinar di linguistica che abbiamo tenuto negli ultimi mesi. Troverete video-pillole, presentazioni delle attività, tutorial degli strumenti, incontri con ospiti speciali e molti altri materiali per voi e per la vostra classe!</p>
-                <p class="ending-link">
-                    <a href="/webinar">Vedi tutti i webinar</a>
-                </p>
-            </div>
-            <div class="bottompage">
-                <h1>Documenti teorici</h1>
-                <p>In questa sezione potrai trovare testi originali e riferimenti scientifici a supporto delle attività proposte.</p>
-                <p class="ending-link">
-                    <a href="/documenti-teorici">Consulta i contenuti</a>
-                </p>
-            </div>
-        </section>
-        {% include 'footer.links.njk' %}
-        {% include 'footer.njk' %}
-    </div>
+            {% include 'footer.njk' %}
+        </div>
+    </main>
 </body>
 </html>

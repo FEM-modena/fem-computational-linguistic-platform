@@ -24,14 +24,12 @@
     </script>
 </head>
 <body>
-    <div id="main">
+    <main class="container">
     {% include 'top-menu.njk' %}
-    <article class="activity">
+    <article class="px-2">
     {{ content | safe }}
     </article>
     {% include 'footer.njk' %}
-    </div>
-
+    </main>
 </body>
-
 </html>

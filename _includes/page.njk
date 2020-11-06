@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     {% include 'head.njk' %}
-        <title>{{ title }}</title>
+    <title>{{ title }}</title>
     <script type='text/javascript'>
     document.addEventListener("DOMContentLoaded", () => {
       const accordions = document.querySelectorAll(".accordion");
@@ -25,13 +25,15 @@
     <title>{{ title }}</title>
 </head>
 <body>
-    <div id="main">
+    <main class="container">
+      
     {% include 'top-menu.njk' %}
-    <article class="page section-green">
+    <article class="section-green px-4">
     {{ content | safe }}
     </article>
     {% include 'footer.links.njk' %}
     {% include 'footer.njk' %}
-    </div>
+    
+    </main>
 </body>
 </html>
