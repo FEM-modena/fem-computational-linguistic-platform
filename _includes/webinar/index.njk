@@ -5,27 +5,28 @@
     <title>{{ title }}</title>
 </head>
 <body>
-    <div id="main">
-    {% include 'top-menu.njk' %}
-    <article class="page section-green webinar-index">
-        <p> In questa pagina sono raccolte le registrazioni di tutti i webinar di linguistica che abbiamo tenuto negli ultimi mesi. Troverete video-pillole, presentazioni delle attività, tutorial degli strumenti, incontri con ospiti speciali e molti altri materiali per voi e per la vostra classe!</p>
-        <h1>Tutti i webinar trasmessi</h1>
-        <ul>
-        {%- for webinar in youtubevideos -%}
-            <li>
-                <img src="{{ webinar.snippet.thumbnails.default.url }}" class="webinar-preview">
-                <h3>{{ webinar.snippet.title }}</h3>
-                <small>{{ webinar.snippet.publishedAt | toLocalDate }}</small>
-                <p>{{ webinar.snippet.description }}</p>
-                <p class="ending-link">
-                    <a href="https://www.youtube.com/watch?v={{ webinar.snippet.resourceId.videoId }}">Vai al video</a>
-                </p>
-            </li>
-        {%- endfor -%}
-        </ul>
-    </article>
-    {% include 'footer.links.njk' %}
-    {% include 'footer.njk' %}
-    </div>
+    <main class="container webinar-index">     
+        {% include 'top-menu.njk' %}
+        <article class="px-2">
+            <p>{{content | safe }}</p>
+            <h1>Tutti i webinar trasmessi</h1>
+            <ul class="columns is-multiline is-centered">
+            {%- for webinar in youtubevideos -%}
+                <li class="column is-one-third">
+                    <img src="{{ webinar.snippet.thumbnails.default.url }}" class="webinar-preview">
+                    <h3 class="my-0">{{ webinar.snippet.title }}</h3>
+                    <small>{{ webinar.snippet.publishedAt | toLocalDate }}</small>
+                    <p>{{ webinar.snippet.description }}</p>
+                    <p class="ending-link">
+                        <a href="https://www.youtube.com/watch?v={{ webinar.snippet.resourceId.videoId }}">Vai al video</a>
+                    </p>
+                </li>
+            {%- endfor -%}
+            </ul>
+        </article>
+        {% include 'footer.links.njk' %}
+        {% include 'footer.njk' %}
+    </main>
+
 </body>
 </html>
