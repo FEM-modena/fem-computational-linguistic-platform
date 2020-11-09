@@ -4,10 +4,12 @@ tags:
 - figureconnotazioni
 title: "Funzionare come un computer"
 summary: "Attività incentrata sull'analisi di metafore in testi argomentativi e letterari a tema fantascienza e Intelligenza Artificiale"
+tool: "LINDA - Annotazione"
+toolurl: "https://app.linda.education/"
 ---
 # Funzionare *come* un computer
 
-<table><thead><tr><th>Scenario</th><th>Caratteristica linguistica</th><th>Tema</th><th>Tipologia testuale</th><th>Tempo stimato</th><th>Destinatari</th><th>BES/Difficoltà</th></tr></thead><tbody><tr><td>Le figure e le connotazioni del linguaggio</td><td>Metafore concettuali</td><td>Intelligenza Artificiale</td><td>Testi argomentativi</td><td>1h30-2h</td><td>Triennio SS2</td><td>🟡</td></tr></tbody></table>
+<table><thead><tr><th>Scenario</th><th>Strumento</th><th>Caratteristica linguistica</th><th>Tema</th><th>Tipologia testuale</th><th>Tempo stimato</th><th>Destinatari</th><th>BES/Difficoltà</th></tr></thead><tbody><tr><td>Le figure e le connotazioni del linguaggio</td><td>LINDA - Annotazione</td><td>Metafore concettuali</td><td>Intelligenza Artificiale</td><td>Testi argomentativi</td><td>1h30-2h</td><td>Triennio SS2</td><td>🟡</td></tr></tbody></table>
 
 ## Presentazione dell'attività
 
@@ -414,3 +416,4 @@ Le osservazioni emerse in questa fase di esplorazione *quantitativa* riflettono,
 
 </div>
 </div>
+<a href="https://forms.gle/DVAP21xb4D9Jc4ud7" class="form_button" target="_blank">Vuoi fare l'attività? Clicca qui per richiederla!</a>

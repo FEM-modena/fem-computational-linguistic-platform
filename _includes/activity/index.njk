@@ -6,7 +6,11 @@ layout: page.njk
 Lettura a distanza di un testo con strumenti quantitativi digitali, per individuare e comprendere le caratteristiche linguistiche salienti. 
 
 {%- for activity in collections.leggeredistanza -%}
-    <h2>{{ activity.data.title }}</h2>
+    <h2>{{ activity.data.title }} 
+    <a href="{{ activity.data.toolurl | url }}" target="_blank" class="tool_button">{{ activity.data.tool }}
+    </a>
+    </h2>
+   
     <p>{{ activity.data.summary }}</p>
     <p class="ending-link">
         <a href="{{ activity.url | url }}" class="scenario_button">Scopri</a>
@@ -20,7 +24,10 @@ Lettura a distanza di un testo con strumenti quantitativi digitali, per individu
 Individuare e comprendere il linguaggio figurato per migliorare la comprensione del testo
 
 {%- for activity in collections.figureconnotazioni -%}
-    <h2>{{ activity.data.title }}</h2>
+    <h2>{{ activity.data.title }} 
+    <a href="{{ activity.data.toolurl | url }}" target="_blank" class="tool_button">{{ activity.data.tool }}
+    </a>
+    </h2>
     <p>{{ activity.data.summary }}</p>
     <p class="ending-link">
         <a href="{{ activity.url | url }}" class="scenario_button">Scopri</a>
@@ -34,7 +41,10 @@ Individuare e comprendere il linguaggio figurato per migliorare la comprensione 
 Comprendere il discorso, che ruota attorno a temi di attualità (e.g. ambiente, questioni di genere)
 
 {%- for activity in collections.oltreiltesto -%}
-    <h2>{{ activity.data.title }}</h2>
+    <h2>{{ activity.data.title }} 
+    <a href="{{ activity.data.toolurl | url }}" target="_blank" class="tool_button">{{ activity.data.tool }}
+    </a>
+    </h2>
     <p>{{ activity.data.summary }}</p>
     <p class="ending-link">
         <a href="{{ activity.url | url }}" class="scenario_button">Scopri</a>
@@ -48,7 +58,10 @@ Comprendere il discorso, che ruota attorno a temi di attualità (e.g. ambiente, 
 Affrontare la violenza verbale. 
 
 {%- for activity in collections.stileostile -%}
-    <h2>{{ activity.data.title }}</h2>
+    <h2>{{ activity.data.title }} 
+    <a href="{{ activity.data.toolurl | url }}" target="_blank" class="tool_button">{{ activity.data.tool }}
+    </a>
+    </h2>
     <p>{{ activity.data.summary }}</p>
     <p class="ending-link">
         <a href="{{ activity.url | url }}" class="scenario_button">Scopri</a>

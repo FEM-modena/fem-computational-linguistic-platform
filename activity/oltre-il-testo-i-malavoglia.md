@@ -3,10 +3,12 @@ tags:
 - oltreiltesto
 title: "A donna alla finestra non far festa"\: Identità e genere nei testi letterari"
 summary: "Attraverso questa attività sarà possibile leggere in chiave sociolinguistica l'opera I Malavoglia, con particolare attenzione al discorso di genere."
+tool: "Voyant"
+toolurl: "https://voyant-tools.org/?corpus=cd04628b21b65568d5a462fea9e58720&stopList=keywords-84cb956a2dfe65680cdf2ff5429350d8&panels=cirrus,reader,trends,bubblelines,contexts"
 ---
 # "A donna alla finestra non far festa": Identità e genere nei testi letterari
 
-<table><thead><tr><th>Scenario</th><th>Caratteristica linguistica</th><th>Tema</th><th>Tipologia testuale</th><th>Tempo stimato</th><th>Destinatari</th><th>BES/Difficoltà</th></tr></thead><tbody><tr><td>Oltre il testo</td><td>Agentività</td><td>Linguaggi di genere</td><td>Testo narrativo</td><td>1h30-2h</td><td>Triennio SS2</td><td>🟡</td></tr></tbody></table>
+<table><thead><tr><th>Scenario</th><th>Strumento</th><th>Caratteristica linguistica</th><th>Tema</th><th>Tipologia testuale</th><th>Tempo stimato</th><th>Destinatari</th><th>BES/Difficoltà</th></tr></thead><tbody><tr><td>Oltre il testo</td><td>Voyant</td><td>Agentività</td><td>Linguaggi di genere</td><td>Testo narrativo</td><td>1h30-2h</td><td>Triennio SS2</td><td>🟡</td></tr></tbody></table>
 
 ## Presentazione dell'attività
 
@@ -22,6 +24,8 @@ Negli ultimi anni è emersa in modo sempre più forte la necessità di adottare 
 
 ### L'attività
 In questa attività si propone l’esplorazione dei Malavoglia (fonte <a href="https://it.wikisource.org/wiki/I_Malavoglia" target="_blank">Wikisource</a>) attraverso Voyant, con lo scopo di potenziare la tradizionale analisi del testo letterario riflettendo sul concetto di agency e sulle sue implicazioni rispetto alla comunicazione di genere.
+
+Il testo utilizzato è stato scaricato da <a href="https://www.liberliber.it/mediateca/libri/v/verga/i_malavoglia/pdf/verga_i_malavoglia.pdf" target="_blank">Liber Liber</a> e non è più protetto dal diritto d'autore (70 anni dalla morte dell'autore). 
 
 <div class="accordion-panel">
 <h3 class="accordion-header">Perchè usare Voyant?</h3>
@@ -77,7 +81,7 @@ Fornire un pc per ciascuno studente o gruppo di studenti
 </div>
 
 
-## La lezione
+## Schede didattiche
 
 Di seguito sono fornite 4 proposte con esempi pratici per affrontare le tematiche di questa attività. A seconda dell'interesse degli studenti e del tempo a disposizione, potete scegliere di lavorare su tutte o solo alcune, magari anche in momenti diversi!
 
@@ -657,6 +661,8 @@ Si consiglia di tenere ampiamente in considerazione il momento di restituzione c
 - Linguaggio giuridico e lingua di genere: una simbiosi possibile di Stefania Cavagnoli 
 - Teorie di genere. Femminismi e semiotica di Cristina Demaria, Aura Tiralongo
 - Il sessismo nella lingua italiana. Trent'anni dopo Alma Sabatini di Anna Lisa Somma, Gabriele Maestri
+
+
 
 </div>
 
