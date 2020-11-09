@@ -3,10 +3,12 @@ tags:
 - oltreiltesto
 title: Linguaggi di genere negli articoli online
 summary: "Attraverso questa attività sarà possibile leggere in chiave sociolinguistica alcuni articoli di giornali online con particolare attenzione al discorso di genere."
+tool: "LINDA - Annotazione"
+toolurl: "https://app.linda.education/"
 ---
 # Linguaggi di genere negli articoli online
 
-<table><thead><tr><th>Scenario</th><th>Caratteristica linguistica</th><th>Tema</th><th>Tipologia testuale</th><th>Tempo stimato</th><th>Destinatari</th><th>BES/Difficoltà</th></tr></thead><tbody><tr><td>Oltre il testo</td><td>Agentività</td><td>Linguaggi di genere</td><td>Testo narrativo</td><td>1h30-2h</td><td>Biennio/Triennio SS2</td><td>🟢</td></tr></tbody></table>
+<table><thead><tr><th>Scenario</th><th>Strumento</th><th>Caratteristica linguistica</th><th>Tema</th><th>Tipologia testuale</th><th>Tempo stimato</th><th>Destinatari</th><th>BES/Difficoltà</th></tr></thead><tbody><tr><td>Oltre il testo</td><td>LINDA - Annotazione</td><td>Agentività</td><td>Linguaggi di genere</td><td>Testo narrativo</td><td>1h30-2h</td><td>Biennio/Triennio SS2</td><td>🟢</td></tr></tbody></table>
 
 ## Presentazione dell'attività
 
@@ -19,8 +21,14 @@ Negli ultimi anni è emersa in modo sempre più forte la necessità di adottare 
 Ma che cosa significa **comunicare in ottica di genere**? A partire dall’analisi di contenuti linguistici è possibile riflettere in maniera critica su fenomeni sociali quanto mai attuali e rilevanti.
 
 ### L'attività
-In questa attività si propone l’annotazione tramite lo strumento LINDA - Annotazione di una selezione di testi argomentativi (articoli di giornali online) 
-NB: Questa attività può essere svolta da sola ma è pensata per essere associata a <a href="activity/oltre-il-testo-i-malavoglia" target="_blank">"A donna alla finestra non far festa": Identità e genere nei testi letterari</a>!. 
+In questa attività si propone l’annotazione tramite lo strumento LINDA - Annotazione di una selezione di testi argomentativi (articoli di giornali online) secondo alcune categorie considerate fondamentali per osservare l'agenvitità e le caratteristiche di genere: 
+- **Sostantivi**: nome | cognome | nome e cognome | altro
+- **Aggettivi**: tratto caratteriale | tratto fisico
+- **Verbi**: attivi | passivi
+- 
+NB: Questa attività può essere svolta da sola ma è pensata per essere associata a <a href="activity/oltre-il-testo-i-malavoglia" target="_blank">"A donna alla finestra non far festa": Identità e genere nei testi letterari</a>. 
+
+I diritti dei testi utilizzati in questa attività sono attribuiti ai rispettivi autori e sono consultabili a <a href="https://docs.google.com/document/d/1jrNlFpo6AR_iGnRX2DD4suMXkiM8CUP7o_c2IcbjQH8/edit?usp=sharing" target="_blank">questo link</a>.
 
 <div class="accordion-panel">
 <h3 class="accordion-header">Perchè usare LINDA - Annotazione?</h3>
@@ -71,7 +79,7 @@ Fornire un pc per ciascuno studente o gruppo di studenti
 </div>
 
 
-## La lezione
+## Schede didattiche
 
 <div class="accordion-panel">
 <h3 class="accordion-header">Gli elementi dei generi</h3>
@@ -115,3 +123,4 @@ Ciascun* student* o gruppo è riuscito a...
 - Teorie di genere. Femminismi e semiotica di Cristina Demaria, Aura Tiralongo
 - Il sessismo nella lingua italiana. Trent'anni dopo Alma Sabatini di Anna Lisa Somma, Gabriele Maestri
 </div>
+<a href="https://forms.gle/DVAP21xb4D9Jc4ud7" class="form_button" target="_blank">Vuoi fare l'attività? Clicca qui per richiederla!</a>

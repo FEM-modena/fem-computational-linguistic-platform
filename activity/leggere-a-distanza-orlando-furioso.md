@@ -3,12 +3,14 @@ tags:
  - leggeredistanza
 title: "L'Orlando Furioso"
 summary: "Al centro di questa attività è il poema cavalleresco di Ludovico Ariosto, oggetto di studio durante il secondo biennio della scuola secondaria di secondo grado. Attraverso l'approccio quantitativo proposto (distant reading) è possibile scoprire aspetti nuovi rispetto a quelli consentiti dalla lettura ravvicinata o tradizionale."
+tool: "Voyant"
+toolurl: "https://voyant-tools.org/?corpus=fbea33ff7b5ab2276593fcd3d9fc2ec1&visible=25&panels=corpuscollocates,reader,trends,phrases,dreamscape"
 
 ---
 
 # Leggere a distanza... l'Orlando Furioso
 
-<table><thead><tr><th>Scenario</th><th>Caratteristica linguistica</th><th>Tema</th><th>Tipologia testuale</th><th>Tempo stimato</th><th>Destinatari</th><th>BES/Difficoltà</th></tr></thead><tbody><tr><td>Leggere a distanza</td><td>Analisi quantitativa, esplorazione</td><td>Letteratura</td><td>Testo narrativo</td><td>1h30-2h</td><td>Triennio SS2</td><td>🟡</td></tr></tbody></table>
+<table><thead><tr><th>Scenario</th><th>Strumento</th><th>Caratteristica linguistica</th><th>Tema</th><th>Tipologia testuale</th><th>Tempo stimato</th><th>Destinatari</th><th>BES/Difficoltà</th></tr></thead><tbody><tr><td>Leggere a distanza</td><td>Voyant</td><td>Analisi quantitativa, esplorazione</td><td>Letteratura</td><td>Testo narrativo</td><td>1h30-2h</td><td>Triennio SS2</td><td>🟡</td></tr></tbody></table>
 
 ## Presentazione dell'attività
 
@@ -21,6 +23,8 @@ La lettura a distanza ha come oggetto la letteratura, vista da lontano grazie ag
 Al centro di questa attività è il poema cavalleresco di Ludovico Ariosto, oggetto di studio durante il secondo biennio della scuola secondaria di secondo grado. Difficilmente i tempi della didattica consentono le lettura integrale dell’opera. Grazie a questa attività è possibile accostarsi all’opera nella sua interezza, che può essere attraversata da percorsi infiniti, suggeriti dal docente e/o scoperti liberamente dallo studente. L’analisi di parole chiave, temi, personaggi, stile di narrazione… può essere realizzata per tutto il testo o per singoli canti o episodi.
 
 Dopo una breve presentazione dell’opera, dell’autore e del contesto da parte del docente, anche secondo le modalità della *flipped classroom*, il docente suggerisce degli spunti di ricerca, favorendo una lettura del testo il più possibile autonoma da parte dello studente. Gli spunti di ricerca possono essere svolti individualmente o in gruppo dagli studenti. Inoltre il docente può adattare la complessità degli spunti di ricerca alle competenze degli studenti. Infine il docente, dopo una breve introduzione, può lasciare liberi gli studenti di formulare delle piste di ricerca.
+
+Il testo utilizzato è stato scaricato da <a href="https://www.liberliber.it/mediateca/libri/a/ariosto/orlando_furioso_edizione_segre/pdf/ariosto_orlando_furioso_edizione_segre.pdf" target="_blank">Liber Liber</a> e non è più protetto dal diritto d'autore (70 anni dalla morte dell'autore).
 
 <div class="accordion-panel">
 <h3 class="accordion-header">Perchè usare Voyant?</h3>
@@ -70,7 +74,7 @@ Fornire un pc per ciascuno studente o gruppo di studenti
 </div>
 
 
-## La lezione
+## Schede didattiche
 
 <div class="accordion-panel">
 <h3 class="accordion-header">Identikit dell’Orlando furioso</h3>
@@ -155,5 +159,7 @@ Avete osservato attentamente i picchi e le discese? Avete compreso correttamente
 <a href="http://galassiaariosto.sns.it/" target="_blank">Galassia Ariosto</a> è un progetto creato da CTL Scuola Normale Superiore di Pisa che raccoglie gli apparati iconografici delle principali edizioni cinquecentesche illustrate del Furioso, permettendo di navigare il testo attraverso le immagini. Sono inoltre presenti dei percorsi, attraverso i quali il gruppo di ricerca ha voluto mettere in luce le potenzialità interpretative che la consultazione di Galassia Ariosto è in grado di suscitare.
 
 L’<a href="http://www.furiosoatlas.com/atlas.html" target="_blank">Orlando Furioso Atlas</a> è un progetto in lingua inglese sviluppato dal Prof. Daniel Leisawitz (Muhlenberg College) con lo scopo di tradurre e rappresentare in modo digitale e interattivo la cartografia del mondo costruito da Ludovico Ariosto nell’Orlando Furioso, conosciuto in inglese come The Frenzy of Orlando.
+
+
 </div>
 

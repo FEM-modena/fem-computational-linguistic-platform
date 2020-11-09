@@ -88,24 +88,24 @@ Ecco un breve elenco di siti (legali!) dai quali scaricare opere complete in for
 ## Che cos’è LINDA - Annotazione? 
 LINDA - Annotazione è un’applicazione online per annotare testi e immagini. Il team di Linda ti fornirà l’accesso ai progetti che ti interessano, dopo di che potrai aggiungere la tua classe e annotare con loro. 
 
-## Come faccio a trovare il progetto che fa per me? 
-Cerca su linda.education l’attività che ti piacerebbe portare in classe: troverai un tag che identifica quelle che si svolgono su LINDA - Annotazione
-**Registrati** o **accedi** a LINDA - Annotazione: è velocissimo! Puoi farlo tramite Google o tramite la tua mail personale. 
-Manda una mail a info@linda.education e comunica al team su quale progetto vorresti lavorare: in max 1 giorno lavorativo ti daremo l’accesso. 
-Ti notificheremo con una mail, a quel punto troverai il tuo progetto nella sezione **Progetti** di LINDA - Annotazione! 
+## Come faccio a lavorare su progetto? 
+1. Anzitutto ti suggeriamo di cercare l'attività che fa per te consultanto la pagina <a href="https://linda.education/activity/" target="_blank">Tutte le attività</a> in questo sito: troverai un tag che identifica quelle che si svolgono su LINDA - Annotazione. 
+2. Apri la scheda dell'attività che ti interesa cliccando il pulsante "Scopri" 
+3. Ora sei su una nuova pagina in cui c'è la scheda completa dell'attività: scorri in fondo e clicca il bottone "Vuoi fare l'attività? Clicca qui per richiederla!"
+4. In max 1 giorno lavorativo riceverai una mail con le istruzioni per iscriverti alla piattaforma (se non sei già iscritta/o). 
+5. Nella mail troverai anche un link per visualizzare il tuo progetto: sei pronta/o per cominciare!
 
 ## Come funziona l’annotazione?
-Una volta che il team ti avrà assegnato il progetto, potrai vederlo nella pagina **Progetti**. Trovato? Clicca **Annota**: verrai reindirizzato su una nuova pagina. 
+1. Per prima cosa apri un progetto: puoi seguire il link che trovi nella mail che ti è stata recapitata oppure aprirlo dalla sezione <a href="https://app.linda.education/projects" target="_blank">Progetti</a>. 
+2. Clicca **Annota**: verrai reindirizzato su una nuova pagina. 
 
 <img src="/visual/strumenti/screenlinda-1.png" alt="drawing" width="100%"/>
 
-Sulla sinistra c’è la **lista** di testi o immagini presenti nel dataset dell’attività: clicca su uno di essi per annotarlo.  
-Nel riquadro che si è aperto troverai:
- le **categorie di annotazione** in formato di etichette colorate
-il testo o l’immagine da annotare
-Per annotare il testo basterà cliccare su una parola (o trascinare il mouse per selezionarne più di una) e poi cliccare sull’etichetta che vuoi applicare: a questo punto il testo verrà evidenziato in base al colore dell’etichetta.
-Per annotare un’immagine puoi seguire la stessa procedura: scegli l’etichetta (o le etichette) e applicala direttamente all’intera immagine da annotare.
-Quando sei soddisfatto dell’annotazione di un testo/immagine, puoi selezionarne un altro dalla lista sulla sinistra. 
+3. Sulla sinistra c’è la **lista** di testi o immagini presenti nel dataset dell’attività: clicca su uno di essi per annotarlo.  
+4. Nel riquadro che si è aperto troverai le **categorie di annotazione** in formato di etichette colorate; il testo o l’immagine da annotare
+5. Per annotare il testo basterà cliccare su una parola (o trascinare il mouse per selezionarne più di una) e poi cliccare sull’etichetta che vuoi applicare: a questo punto il testo verrà evidenziato in base al colore dell’etichetta.
+6. Per annotare un’immagine puoi seguire la stessa procedura: scegli l’etichetta (o le etichette) e applicala direttamente all’intera immagine da annotare.
+7. Quando sei soddisfatta/o dell’annotazione di un testo/immagine, puoi selezionarne un altro dalla lista sulla sinistra. 
 
 ## Una volta terminata l’annotazione, come faccio a salvare il lavoro?
 Non devi fare nulla: l’applicazione salva automaticamente ogni modifica, per cui puoi anche lasciare a metà il lavoro e riprenderlo in un secondo momento
