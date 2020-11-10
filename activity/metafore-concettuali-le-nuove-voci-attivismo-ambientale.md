@@ -55,6 +55,7 @@ Fornire un pc per ciascuno studente o gruppo di studenti
 
 
 ## La fase di **annotazione** | Domande di ricerca
+Qui sotto trovate le indicazioni e le tabelle da compilare per svolgere l'attività. Potete utilizzare <a href="https://docs.google.com/document/d/1H6V0VUamWVjabW7fdU-wA_EJKAdB1ZZmd96o4Ol4Qx4/edit?usp=sharing" target="_blank">questo documento</a> da distribuire ai vostri studenti.
 
 ### Alla ricerca di un nuovo lessico
 *Già nel maggio dello scorso anno, Greta Thunberg ha scritto: “È il 2019. Possiamo chiamare questa situazione con il suo nome: collasso climatico, crisi ecologica e crisi climatica?”. Eppure ancora oggi spesso sui media italiani si sente parlare di “cambiamento climatico”, non viene quasi mai nominata l’emergenza ecologica e si offre ampia copertura alle parole di personaggi definiti “scettici del cambiamento climatico”, mentre si usano immagini a corredo che sminuiscono la portata della crisi in atto. Ecco le riflessioni della redazione di XR Magazine per elaborare un “lessico ribelle” che veicoli la realtà della situazione che stiamo vivendo, e per accompagnarlo di immagini che siano parimenti efficaci.*
@@ -277,6 +278,7 @@ Avete tenuto conto di tutte le parole? Avete riflettuto e analizzato tutte le po
 
 
 ## La fase di **esplorazione** | Domande di ricerca
+Qui sotto trovate le indicazioni e le tabelle da compilare per svolgere l'attività. Potete utilizzare <a href="https://docs.google.com/document/d/1H6V0VUamWVjabW7fdU-wA_EJKAdB1ZZmd96o4Ol4Qx4/edit?usp=sharing" target="_blank">questo documento</a> da distribuire ai vostri studenti.
 
 Prima di procedere con l’attività, vi consigliamo di familiarizzare con *Voyant*; a questo <a href="https://voyant-tools.org/?corpus=a310bf86d6cbe6d4dec07a8c76809d56" target="_blank">link</a> trovate il corpus caricato.
 
