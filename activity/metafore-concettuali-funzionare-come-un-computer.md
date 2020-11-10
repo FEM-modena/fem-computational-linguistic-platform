@@ -53,6 +53,7 @@ Fornire un pc per ciascuno studente o gruppo di studenti
 </div>
 
 ## La fase di **annotazione** | Domande di ricerca
+Qui sotto trovate le indicazioni e le tabelle da compilare per svolgere l'attività. Potete utilizzare <a href="https://docs.google.com/document/d/1ezDXtbHGI-JGkUViGD1sZgZNY_9UZSUV3Lrk5I8xkV4/edit?usp=sharing" target="_blank">questo documento</a> da distribuire ai vostri studenti.
 
 <div class="accordion-panel">
 <h3 class="accordion-header">A. La metafora computazionale</h3>
@@ -271,6 +272,7 @@ Al termine delle due attività di analisi, chiedete agli studenti una restituzio
 </div>
 
 ## La fase di **esplorazione** | Domande di ricerca
+Qui sotto trovate le indicazioni e le tabelle da compilare per svolgere l'attività. Potete utilizzare <a href="https://docs.google.com/document/d/1ezDXtbHGI-JGkUViGD1sZgZNY_9UZSUV3Lrk5I8xkV4/edit?usp=sharing" target="_blank">questo documento</a> da distribuire ai vostri studenti.
 
 Prima di procedere con l’attività, vi consigliamo di familiarizzare con *Voyant*; a questo <a href="https://voyant-tools.org/?corpus=1fe2410f3fa27e122c8d39404ef97853" target="_blank">link</a> trovate il corpus caricato.
 
