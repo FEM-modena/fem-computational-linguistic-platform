@@ -117,7 +117,9 @@ L’attività è pensata per essere svolta in contemporanea su entrambi i datase
 
 Le seguenti domande sono pensate per svolgere l’attività su entrambi i dataset. Potete scegliere da quale dataset partire. Noi consigliamo di svolgere l’analisi su entrambi, anche in momenti diversi intervallati da una discussione *in plenaria*.
 
-Chiedete ad ogni studente/ssa di aprire un corpus a scelta tra **Climate Fiction** e **Articoli di attualità**. Prendetevi del tempo per familiarizzare insieme con lo strumento (trovi qui una guida rapida).
+Trovate <a href="https://docs.google.com/document/d/1RCIdDoA-V0Fsv29A8H9XuDtupw9PnClgm-V7hqCH3zQ/edit?usp=sharing" target="_blank">qui</a> un documento completo di tabelle per lo svolgimento dell'esercizio, che potete distribuire ai vostri studenti
+
+Chiedete ad ogni studente/ssa di aprire un corpus a scelta tra **Climate Fiction** e **Articoli di attualità**. Prendetevi del tempo per familiarizzare insieme con lo strumento (trovi <a href="https://linda.education/strumenti/#voyant" target="_blank">qui</a> una guida rapida).
 
 
 <div class="accordion-panel">
