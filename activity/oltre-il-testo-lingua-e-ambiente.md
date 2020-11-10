@@ -3,10 +3,12 @@ tags:
 - oltreiltesto
 title: "Lingua e ambiente: Climate Fiction e nuovi scenari distopici"
 summary: "Attività di analisi del discorso applicata a testi che affrontano la tematica ambientale in chiave distopica"
+tool: "Voyant"
+toolurl: "https://voyant-tools.org/?corpus=214f6cfc07d566e3f59b1c5decd3aac8"
 ---
 # Lingua e ambiente: *Climate Fiction* e nuovi scenari distopici
 
-<table><thead><tr><th>Scenario</th><th>Caratteristica linguistica</th><th>Tema</th><th>Tipologia testuale</th><th>Tempo stimato</th><th>Destinatari</th><th>BES/Difficoltà</th></tr></thead><tbody><tr><td>Oltre il testo</td><td>Agentività</td><td>Ambiente</td><td>Testi narrativi e argomentativi</td><td>1h30-2h</td><td>Triennio SS2</td><td>🟡</td></tr></tbody></table>
+<table><thead><tr><th>Scenario</th><th>Strumento</th><th>Caratteristica linguistica</th><th>Tema</th><th>Tipologia testuale</th><th>Tempo stimato</th><th>Destinatari</th><th>BES/Difficoltà</th></tr></thead><tbody><tr><td>Oltre il testo</td><td>Voyant</td><td>Agentività</td><td>Ambiente</td><td>Testi narrativi e argomentativi</td><td>1h30-2h</td><td>Triennio SS2</td><td>🟡</td></tr></tbody></table>
 
 ## Presentazione dell'attività
 
@@ -110,7 +112,7 @@ L’attività è pensata per essere svolta in contemporanea su entrambi i datase
 </div>
 
 
-## La lezione
+## Schede didattiche
 ### Pratica | Le domande di ricerca
 
 Le seguenti domande sono pensate per svolgere l’attività su entrambi i dataset. Potete scegliere da quale dataset partire. Noi consigliamo di svolgere l’analisi su entrambi, anche in momenti diversi intervallati da una discussione *in plenaria*.
@@ -352,7 +354,6 @@ Ad esempio, perché compaiono così spesso le parole *persone* e *individui*, e 
 La valutazione può essere ampiamente personalizzata e si basa principalmente sulle tabelle e sull’esposizione orale.
 Essendo richiesta alla classe la compilazione di diverse tabelle, l’insegnante può stabilire le risposte corrette/sbagliate facendo l’attività in anticipo e confrontandole poi con gli elaborati di ciascun* student* assegnando valori numerici. Gli errori possono riguardare: mancata identificazione di parole di interesse, mancato riconoscimento di una forma verbale etc.
 Si consiglia di tenere ampiamente in considerazione il momento di restituzione collettiva e se possibile valutarlo come interrogazione orale: sia che l’attività venga organizzata in gruppi, sia individualmente, si chiede a ciascun* student* di comprendere un testo a diversi livelli di profondità, rielaborare le informazioni, ascoltare attivamente il gruppo classe e dare la propria interpretazione critica su un argomento complesso e delicato.
-
 
 
 

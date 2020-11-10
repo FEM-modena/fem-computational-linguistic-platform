@@ -3,10 +3,12 @@ tags:
  - leggeredistanza
 title: "I Promessi Sposi"
 summary: "Al centro di questa attività è il romanzo di Alessandro Manzoni, oggetto di studio durante il primo biennio della scuola secondaria di secondo grado. Grazie a questa attività è possibile favorire un approccio diretto al testo nella sua interezza, che può essere attraversato da percorsi infiniti, suggeriti dal docente e/o scoperti liberamente dallo studente."
+tool: "Voyant"
+toolurl: "https://voyant-tools.org/?corpus=811d1b5a517bd18eace80ce5e4aa6034&panels=corpuscollocates,reader,trends,phrases,dreamscape"
 ---
 # Leggere a distanza... I Promessi Sposi
 
-<table><thead><tr><th>Scenario</th><th>Caratteristica linguistica</th><th>Tema</th><th>Tipologia testuale</th><th>Tempo stimato</th><th>Destinatari</th><th>BES/Difficoltà</th></tr></thead><tbody><tr><td>Leggere a distanza</td><td>Analisi quantitativa, esplorazione</td><td>Letteratura</td><td>Testo narrativo</td><td>1h30-2h</td><td>Triennio SS2</td><td>🟡</td></tr></tbody></table>
+<table><thead><tr><th>Scenario</th><th>Strumento</th><th>Caratteristica linguistica</th><th>Tema</th><th>Tipologia testuale</th><th>Tempo stimato</th><th>Destinatari</th><th>BES/Difficoltà</th></tr></thead><tbody><tr><td>Leggere a distanza</td><td>Voyant</td><td>Analisi quantitativa, esplorazione</td><td>Letteratura</td><td>Testo narrativo</td><td>1h30-2h</td><td>Triennio SS2</td><td>🟡</td></tr></tbody></table>
 
 ## Presentazione dell'attività
 
@@ -19,6 +21,8 @@ La lettura a distanza ha come oggetto la letteratura, vista da lontano grazie ag
 Al centro di questa attività è il romanzo di Alessandro Manzoni, oggetto di studio durante il primo biennio della scuola secondaria di secondo grado. Difficilmente gli studenti affrontano realmente la lettura integrale dell’opera, spesso sostituita da riassunti proposti dalle edizioni scolastiche o disponibili in rete. Grazie a questa attività è possibile favorire un approccio diretto al testo nella sua interezza, che può essere attraversato da percorsi infiniti, suggeriti dal docente e/o scoperti liberamente dallo studente. L’analisi di parole chiave, temi, personaggi, stile di narrazione… può essere realizzata per tutto il testo o per singoli capitoli. 
 
 Dopo una breve presentazione dell’opera, dell’autore e del contesto da parte del docente, anche secondo le modalità della flipped classroom, il docente suggerisce degli spunti di ricerca, favorendo una lettura del testo il più possibile autonoma da parte dello studente. Gli spunti di ricerca possono essere svolti individualmente o in gruppo dagli studenti. Inoltre il docente può adattare la complessità degli spunti di ricerca alle competenze degli studenti. Infine il docente, dopo una breve introduzione, può lasciare liberi gli studenti di formulare delle piste di ricerca.   
+
+Il testo utilizzato è stato scaricato da <a href="https://www.liberliber.it/mediateca/libri/m/manzoni/i_promessi_sposi/pdf/manzoni_i_promessi_sposi.pdf" target="_blank">Liber Liber</a> e non è più protetto dal diritto d'autore (70 anni dalla morte dell'autore). 
 
 <div class="accordion-panel">
 <h3 class="accordion-header">Perchè usare Voyant?</h3>
@@ -67,7 +71,7 @@ Fornire un pc per ciascuno studente o gruppo di studenti
 </div>
 
 
-## La lezione
+## Schede didattiche
 
 <div class="accordion-panel">
 <h3 class="accordion-header">Le avventure dei protagonisti</h3>
@@ -159,5 +163,7 @@ La ricerca può proseguire con <a href="https://voyant-tools.org/?corpus=811d1b5
 Hai osservato attentamente il grafico? Hai tenuto conto delle conoscenze pregresse? Hai compreso e analizzato il testo?
 
 </div>
+
+
 </div>
 

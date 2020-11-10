@@ -4,11 +4,13 @@ tags:
  - leggeredistanza
 title: "L'Inferno di Dante"
 summary: "L’attività è pensata per l'introduzione oppure per il ripasso e il consolidamento l’Inferno, creando un’occasione per ampliare le riflessioni sull’opera attraverso l'approccio quantitativo proposto (distant reading)."
+tool: "Voyant"
+toolurl: "https://voyant-tools.org/?corpus=994040b233e44d9437a3e485145882df"
 ---
 
 # Leggere a distanza... l'Inferno dantesco
 
-<table><thead><tr><th>Scenario</th><th>Caratteristica linguistica</th><th>Tema</th><th>Tipologia testuale</th><th>Tempo stimato</th><th>Destinatari</th><th>BES/Difficoltà</th></tr></thead><tbody><tr><td>Leggere a distanza</td><td>Analisi quantitativa, esplorazione</td><td>Letteratura</td><td>Testo narrativo</td><td>1h30-2h</td><td>Triennio SS2</td><td>🟡</td></tr></tbody></table>
+<table><thead><tr><th>Scenario</th><th>Strumento</th><th>Caratteristica linguistica</th><th>Tema</th><th>Tipologia testuale</th><th>Tempo stimato</th><th>Destinatari</th><th>BES/Difficoltà</th></tr></thead><tbody><tr><td>Leggere a distanza</td><td>Voyant</td><td>Analisi quantitativa, esplorazione</td><td>Letteratura</td><td>Testo narrativo</td><td>1h30-2h</td><td>Triennio SS2</td><td>🟡</td></tr></tbody></table>
 
 ## Presentazione dell'attività
 
@@ -24,6 +26,8 @@ Abbiamo quindi pensato di inserirci nel percorso che ciascun* docent* costruisce
 
 
 Dopo una breve presentazione dell’opera, dell’autore e del contesto da parte del docente, anche secondo le modalità della *flipped classroom*, il docente suggerisce degli spunti di ricerca, favorendo una lettura del testo il più possibile autonoma da parte dello studente. Gli spunti di ricerca possono essere svolti individualmente o in gruppo dagli studenti. Inoltre il docente può adattare la complessità degli spunti di ricerca alle competenze degli studenti. Infine il docente, dopo una breve introduzione, può lasciare liberi gli studenti di formulare delle piste di ricerca.
+
+Il testo utilizzato è stato scaricato da <a href="https://www.liberliber.it/online/autori/autori-a/dante-alighieri/la-divina-commedia-edizione-scartazzini-e-vandelli/" target="_blank">Liber Liber</a> e non è più protetto dal diritto d'autore (70 anni dalla morte dell'autore). 
 
 <div class="accordion-panel">
 <h3 class="accordion-header">Perchè usare Voyant?</h3>
@@ -73,7 +77,7 @@ Fornire un pc per ciascuno studente o gruppo di studenti
 </div>
 
 
-## La lezione
+## Schede didattiche
 
 <div class="accordion-panel">
 <h3 class="accordion-header">Ripasso consoliDante</h3>

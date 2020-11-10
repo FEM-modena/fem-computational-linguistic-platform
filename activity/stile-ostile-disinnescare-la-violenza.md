@@ -2,13 +2,14 @@
 tags: 
 - featured
 - stileostile
-
 title: Stile O_Stile | Disinnescare la violenza verbale nel mondo digitale
 summary: "Attraverso questa attività sarà possibile leggere in chiave sociolinguistica alcuni articoli di giornali online con particolare attenzione al discorso di genere."
+tool: "LINDA - Annotazione"
+toolurl: "https://app.linda.education/"
 ---
 # Stile O_Stile | Disinnescare la violenza verbale nel mondo digitale
 
-<table><thead><tr><th>Scenario</th><th>Caratteristica linguistica</th><th>Tema</th><th>Tipologia testuale</th><th>Tempo stimato</th><th>Destinatari</th><th>BES/Difficoltà</th></tr></thead><tbody><tr><td>Stile O_Stile</td><td>Hate speech</td><td>Violenza verbale</td><td>Contenuti da social network</td><td>1h30-2h</td><td>Triennio SS2</td><td>🟢</td></tr></tbody></table>
+<table><thead><tr><th>Scenario</th><th>Strumento</th><th>Caratteristica linguistica</th><th>Tema</th><th>Tipologia testuale</th><th>Tempo stimato</th><th>Destinatari</th><th>BES/Difficoltà</th></tr></thead><tbody><tr><td>Stile O_Stile</td><td>LINDA - Annotazione</td><td>Hate speech</td><td>Violenza verbale</td><td>Contenuti da social network</td><td>1h30-2h</td><td>Triennio SS2</td><td>🟢</td></tr></tbody></table>
 <div class="accordion">
 
 ### Lo scenario 
@@ -93,7 +94,7 @@ Fornire un pc per ciascuno studente o gruppo di studenti.
 </div>
 
 
-## La lezione
+## Schede didattiche
 
 <div class="accordion-panel">
 <h3 class="accordion-header">Violenza verbale: riconoscerla, valutarla, disinnescarla</h3>
@@ -143,3 +144,6 @@ Ciascun* student* o gruppo è riuscito a...
 - *#Odio. Manuale di resistenza alla violenza delle parole* di Federico Faloppa
 - Caselli, Tommaso, et. al. 2020. ‘I Feel Offended, Don’t Be Abusive! Implicit/Explicit Messages in Offensive and Abusive Language’. In Proceedings of The 12th Language Resources and Evaluation Conference, 6193–6202.
 </div>
+<a href="https://forms.gle/DVAP21xb4D9Jc4ud7" class="form_button" target="_blank">Vuoi fare l'attività? Clicca qui per richiederla!</a>
+
+
