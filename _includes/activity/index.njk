@@ -74,5 +74,15 @@ Affrontare la violenza verbale.
 <h1>Come si legge un'immagine</h1>
 Analizzare e comprendere la grammatica dei contenuti visuali, per migliorare la comprensione e il legame con i fenomeni sociali.
 
-TBD
+{%- for activity in collections.comesileggeunimmagine -%}
+    <h2>{{ activity.data.title }} 
+    <a href="{{ activity.data.toolurl | url }}" target="_blank" class="tool_button">{{ activity.data.tool }}
+    </a>
+    </h2>
+    <p>{{ activity.data.summary }}</p>
+    <p class="ending-link">
+        <a href="{{ activity.url | url }}" class="scenario_button">Scopri</a>
+    </p>
+    
+{%- endfor -%}
 </div>

@@ -100,7 +100,7 @@ Di seguito sono fornite 4 proposte con esempi pratici per affrontare le tematich
 ### Esempio
 
 Otterrete una rappresentazione simile (consultabile a questo <a href="https://voyant-tools.org/?corpus=cd04628b21b65568d5a462fea9e58720&view=Bubblelines&stopList=keywords-84cb956a2dfe65680cdf2ff5429350d8&query=bastianazzo&query=maruzza&query=luca&query=alessi&query=lia&query=li&query=mena&query=ntoni&query=%22padron%20%27ntoni%22&docId=4b7b8afc251ef99a6397bc3d8a534b1e" target="_blank">link</a>): 
-<img src="/visual/oltre-il-testo-i-malavoglia/oltre-il-testo-i-malavoglia-1.png" alt="drawing" width="100%"/>
+<img src="/visual/oltre-il-testo/i-malavoglia-1.png" alt="drawing" width="100%"/>
 
 ### Restituzione/riflessione guidata
 - Sommando le occorrenze, quanto spazio hanno i personaggi maschili e quanto quelli femminili?
