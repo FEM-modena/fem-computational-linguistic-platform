@@ -86,3 +86,20 @@ Analizzare e comprendere la grammatica dei contenuti visuali, per migliorare la 
     
 {%- endfor -%}
 </div>
+
+<div class="scenari_div">
+<h1>Alla fonte delle informazioni</h1>
+(Ri)conoscere i mezzi linguistici usati per segnalare la fonte di un'informazione all'interno di un testo    
+
+{%- for activity in collections.allafontedelleinformazioni -%}
+    <h2>{{ activity.data.title }} 
+    <a href="{{ activity.data.toolurl | url }}" target="_blank" class="tool_button">{{ activity.data.tool }}
+    </a>
+    </h2>
+    <p>{{ activity.data.summary }}</p>
+    <p class="ending-link">
+        <a href="{{ activity.url | url }}" class="scenario_button">Scopri</a>
+    </p>
+    
+{%- endfor -%}
+</div>
