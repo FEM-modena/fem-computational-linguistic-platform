@@ -69,16 +69,18 @@ Se nel testo che stai leggendo sono indicati dati e cifre (ad esempio, in una st
 Nel caso non sia presente alcun riferimento, è possibile che i dati siano inaffidabili oppure che siano mescolati - in quel particolare contesto - all’opinione di chi sta scrivendo. In questo caso, scegli l’etichetta **FONTE INCERTA**. Puoi usare questa etichetta sia nel caso in cui la fonte sia effettivamente assente, sia se reputi che l’informazione non sia presentata come dato oggettivo, ma come un’opinione dell’autore.
 
 Oltre all’effettiva presenza o assenza della fonte, ecco gli indicatori linguistici a cui prestare attenzione :
-Espressioni come *Secondo quanto riportato da*, *Come afferma/sostiene* seguite da un riferimento alla persona o istituzione che sostiene quanto scritto.
-La costruzione **dovere + infinito**: *deve essere stato*, *deve aver detto*, etc.
-L’uso del condizionale (*sarebbe*, *potrebbe*) al posto dell’indicativo e/o di avverbi come *presumibilmente*, *probabilmente* può essere sintomo della non sicurezza di quanto affermato.
-I predicati *sembrare* e *apparire* come indicatori di inferenza (*come appare da*, *sembra che*, etc.).
-Costruzioni **apodittiche** come *E’ ufficiale*, *E’ stato stabilito* allo scopo di convincere il lettore che ciò che sta leggendo è vero. In questi casi, soprattutto se manca un riferimento preciso alla fonte, è possibile si tratti di informazioni inaffidabili. 
-Lessico: uso di linguaggio **neutrale**, privo di termini fortemente connotati (sia in positivo che in negativo) vs uso di linguaggio **non oggettivo** (presenza di iperboli, esagerazioni, termini fortemente connotati, allo scopo di suscitare una reazione emotiva nel lettore)
-Uso improprio o scorretto di punteggiatura (ad es. presenza eccessiva di punti esclamativi)
-
+<ul>
+<li>Espressioni come <em>Secondo quanto riportato da</em>, <em>Come afferma/sostiene</em> seguite da un riferimento alla persona o istituzione che sostiene quanto scritto.</li><li>La costruzione <strong>dovere + infinito</strong>: <em>deve essere stato</em>, <em>deve aver detto</em>, etc.</li>
+<li>L’uso del condizionale (<em>sarebbe</em>, <em>potrebbe</em>) al posto dell’indicativo e/o di avverbi come <em>presumibilmente</em>, <em>probabilmente</em> può essere sintomo della non sicurezza di quanto affermato.</li>
+<li>I predicati <em>sembrare</em> e <em>apparire</em> come indicatori di inferenza (<em>come appare da</em>, <em>sembra che</em>, etc.).</li>
+<li>Costruzioni <strong>apodittiche</strong> come <em>E’ ufficiale</em>, <em>E’ stato stabilito</em> allo scopo di convincere il lettore che ciò che sta leggendo è vero. In questi casi, soprattutto se manca un riferimento preciso alla fonte, è possibile si tratti di informazioni inaffidabili.</li> 
+<li>Lessico: uso di linguaggio <strong>neutrale</strong>, privo di termini fortemente connotati (sia in positivo che in negativo) vs uso di linguaggio <strong>non oggettivo</strong> (presenza di iperboli, esagerazioni, termini fortemente connotati, allo scopo di suscitare una reazione emotiva nel lettore)</li>
+<li>Uso improprio o scorretto di punteggiatura (ad es. presenza eccessiva di punti esclamativi)</li>
+</ul>
 
 Anche la presenza di informazioni precise relative alle persone citate in un articolo può essere considerata indicatore dell’attendibilità di un testo. Se ad esempio una persona viene citata non con il proprio nome, cognome e - possibilmente - la propria mansione o ruolo (soprattutto se queste ultime sono rilevanti rispetto al tema trattato), l’autorevolezza dell’informazione veicolata dalla persona potrebbe risentirne. Pensate alla differenza tra le frasi “come sostengono alcuni medici” e “come sostiene il capo del Dipartimento di Epidemiologia dell’Università di Bologna Mario Rossi”. Mentre nel primo caso non sappiamo chi esattamente stia facendo una data affermazione, nel secondo caso sì, e possiamo quindi risalire alla fonte e al contesto di produzione dell’enunciato, e verificarne la veridicità.
+
+
 
 <div class="accordion-panel">
 <h3 class="accordion-header">Alcuni esempi di annotazione</h3>
