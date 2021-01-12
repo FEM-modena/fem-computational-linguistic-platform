@@ -3,7 +3,7 @@ layout: page.njk
 ---
 
 # Informativa Privacy
-Lo scopo del presente documento è di informare gli Utenti relativamente ai Dati Personali raccolti dal sito web e dall’applicazione http://linda.education (di seguito “Applicazione”).
+Lo scopo del presente documento è di informare gli Utenti relativamente ai Dati Personali raccolti dal sito web https://linda.education/ e dall’applicazione https://app.linda.education/ (di seguito “Applicazione”).
 
 Il Titolare del Trattamento, come successivamente identificato, potrà modificare o semplicemente aggiornare, in tutto o in parte, la presente Informativa dandone informazione agli Utenti. Le modifiche e gli aggiornamenti saranno vincolanti non appena pubblicati sull’Applicazione. L’Utente è pertanto invitato a leggere l’Informativa Privacy ad ogni accesso all’Applicazione.
 
