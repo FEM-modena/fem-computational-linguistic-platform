@@ -352,6 +352,30 @@ blockquote.document-quote {
     background-color: #e5f7f1;
     }
 
+ /* accordion in osservatorio */   
+ .accordion-header-osservatorio {
+    cursor: pointer;
+    padding: 0px 20px;
+    color:  #ee622f;
+    }
+
+    .accordion-panel-osservatorio {
+    border: 1px solid   #ee622f;
+    margin: 2px;
+    /*background-color: #00AF7C;*/
+    }
+
+    .accordion-panel-osservatorio > .accordion-body-osservatorio {
+    display: none;
+    }
+
+    .accordion-panel-osservatorio.accordion-expanded-osservatorio > .accordion-body-osservatorio {
+    display: block;
+    padding: 15px 20px;
+    background-color: transparent;
+    }
+
+
 @media only screen
  and (min-device-width: 360px)
  and (max-device-width: 667px) {
