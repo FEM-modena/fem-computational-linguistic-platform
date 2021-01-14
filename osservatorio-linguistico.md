@@ -89,6 +89,17 @@ Solo un computer e una connessione internet con cui accedere allo strumento di a
 </div>
 </div> 
 
+<div id='discourse-comments'></div>
 
+<script type="text/javascript">
+  DiscourseEmbed = { discourseUrl: 'https://discourse.fem.digital/',
+                     topicId: 28 };
+
+  (function() {
+    var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
+    d.src = DiscourseEmbed.discourseUrl + 'javascripts/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
+  })();
+</script>
 
 
