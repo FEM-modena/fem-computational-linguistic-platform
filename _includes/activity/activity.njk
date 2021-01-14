@@ -3,6 +3,9 @@
 <head>
     {% include 'head.njk' %}
     <title>{{ title }}</title>
+    <meta property="og:title" content="{{ title }}" />
+    <meta property="og:description" content="{{ summary }}" />
+	  <meta property="og:url" content="https://{{settings.site_host}}{{page.url}}" />    
     <script type='text/javascript'>
     document.addEventListener("DOMContentLoaded", () => {
       const accordions = document.querySelectorAll(".accordion");
@@ -27,6 +30,7 @@
     <div id="main">
     {% include 'top-menu.njk' %}
     <article class="activity">
+    <summary style="display: none">{{ summary }}</summary>
     {{ content | safe }}
     </article>
     <div id='discourse-comments'></div>
