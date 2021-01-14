@@ -36,4 +36,13 @@ module.exports = function(eleventyConfig) {
       return new Date(value).toLocaleString();
     }
   });
+
+  // Set https
+  eleventyConfig.browserSyncConfig = {
+    https: {
+      key: "ssl-key.pem",
+      cert: "ssl.pem"
+    }
+  }
+
 };
