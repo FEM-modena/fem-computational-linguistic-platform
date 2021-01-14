@@ -22,6 +22,25 @@
     }
     } )
     </script>
+    <script type='text/javascript'>
+    document.addEventListener("DOMContentLoaded", () => {
+      const accordions = document.querySelectorAll(".accordion-osservatorio");
+    for (const accordion of accordions) {
+      const panels = accordion.querySelectorAll(".accordion-panel-osservatorio");
+      for (const panel of panels) {
+        const head = panel.querySelector(".accordion-header-osservatorio");
+        head.addEventListener('click', () => {
+          for (const otherPanel of panels) {
+            if (otherPanel !== panel) {
+              otherPanel.classList.remove('accordion-expanded-osservatorio');
+            }
+          }
+          panel.classList.toggle('accordion-expanded-osservatorio');
+        });
+      }
+    }
+    } )
+    </script>
     <title>{{ title }}</title>
 </head>
 <body>
