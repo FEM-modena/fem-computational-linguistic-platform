@@ -1,8 +1,8 @@
 ---
 tags: 
-- featured
 - stileostile
-title: Stile O_Stile | Disinnescare la violenza verbale nel mondo digitale
+- featured
+title: Stile O_Stile
 summary: "Attraverso questa attività sarà possibile leggere in chiave sociolinguistica alcuni articoli di giornali online con particolare attenzione al discorso di genere."
 tool: "LINDA - Annotazione"
 toolurl: "https://app.linda.education/"

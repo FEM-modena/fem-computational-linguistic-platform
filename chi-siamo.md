@@ -12,7 +12,7 @@ layout: page.njk
 
 [**Matteo Di Cristofaro**](https://www.linkedin.com/in/matteo-di-cristofaro/) | ([FEM](https://www.fem.digital), [UniMoRe](http://personale.unimore.it/rubrica/dettaglio/mdicristofaro)) Linguista
 
-[**Francesca Mangialardo**](https://www.linkedin.com/in/francescamangialardo/) | ([FEM](https://www.fem.digital) Linguista
+[**Francesca Mangialardo**](https://www.linkedin.com/in/francescamangialardo/) | ([FEM](https://www.fem.digital)) Linguista
 
 [**Matilde Maresca**](http://www.linkedin.com/company/futureducationmodena/) | Docente
 
