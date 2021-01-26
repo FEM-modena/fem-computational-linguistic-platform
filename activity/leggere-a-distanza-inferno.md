@@ -1,6 +1,5 @@
 ---
 tags: 
- - featured
  - leggeredistanza
 title: "L'Inferno di Dante"
 summary: "L’attività è pensata per l'introduzione oppure per il ripasso e il consolidamento l’Inferno, creando un’occasione per ampliare le riflessioni sull’opera attraverso l'approccio quantitativo proposto (distant reading)."
