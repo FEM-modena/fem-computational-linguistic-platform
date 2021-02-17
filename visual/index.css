@@ -242,6 +242,13 @@ blockquote.document-quote {
     text-align: right;
     font-family: museo-sans-display;
 }
+figure > blockquote {
+    background-color:rgba(245, 245, 245);
+    border-radius: 1rem;
+    margin: 0;
+    padding: 1rem;
+    font-size: larger;
+}
 
 /* Sidekick section */
 #sidekick {
