@@ -27,8 +27,6 @@ Tutte le informazioni operative per svolgere la challenge verranno date dal team
 ## Calendario e tema delle challenge
 Il primo lunedì di ogni mese esce la nuova sfida. Abbiamo programmato i seguenti temi: Marzo - Tema ambiente, Aprile - Tema democrazia e partecipazione, Maggio - Tema lingua e genere.
 
-<a href="https://bit.ly/3nSuJhq" class="form_button" target="_blank">Clicca qui per iscriverti al percorso!</a>
-
 
 # Da dove partire: le giornate di formazione
 
@@ -51,6 +49,10 @@ L’analisi dell’evidenzialità (cioè di quelle modalità linguistiche con cu
 # Elaborato finale e dichiarazione della classe vincitrice
 Dopo aver completato l’annotazione, la classe scriverà un elaborato finale che riassuma le riflessioni derivate dalle loro scoperte, da consegnare tramite una cartella condivisa Google Drive. Il testo sarà poi trasformato da FEM in un poster paper e aggiunto all’Osservatorio. 
 Ogni mese comunicheremo sulla pagina dell'OL su questo sito [in costruzione] le classi vincitrici del mese precedente.
+
+<figure>
+  <blockquote>Se sei interessato/a a partecipare, scrivici una mail a <a href="mailto:info@linda.education">info@linda.education</a></blockquote>
+</figure>
 
 # FAQ
 
