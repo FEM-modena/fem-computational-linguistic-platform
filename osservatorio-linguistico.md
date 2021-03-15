@@ -14,6 +14,8 @@ All’interno del Curricolo per l’Innovazione di <a href="https://www.fem.digi
 
 # Introduzione al percorso 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dl3QWZPEFNg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Che cos’è Osservatorio Linguistico Digitale?
 L’Osservatorio Linguistico Digitale (OLD) è uno spazio digitale che raccoglie il punto di vista delle nuove generazioni su diversi temi di attualità, nella forma di un elaborato multimediale che sintetizza le loro riflessioni linguistiche su testi argomentativi tratti dalla stampa nazionale. Durante il percorso che porterà alla creazione del proprio contributo all’osservatorio, studenti e studentesse della scuola secondaria metteranno in pratica analisi linguistiche sofisticate al fine di comprendere il modo in cui lingua, società e mezzi di comunicazione si interconnettono per creare significati, sviluppare le competenze alfabetico-funzionali e migliorare la comprensione e produzione linguistica.
 
