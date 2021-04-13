@@ -51,15 +51,14 @@ Fornire un pc per ciascuno studente o gruppo di studenti.
 <div class="accordion-panel">
 <h3 class="accordion-header">Fase A</h3>
 <div class="accordion-body">
+  
 ### Il Doping nella società del like
 Il nostro primo modello di esercitazione è costruito su un articolo di M. Serra dal titolo “I dopati della Domenica”, pubblicato su Repubblica l’8 Agosto del 2012. 
 * Partiremo leggendo insieme il testo e raccogliendo un veloce giro di commenti da parte della classe: questa attività iniziale ci servirà per verificare insieme agli alunni cosa abbiano compreso del testo già ad una prima lettura.
 
 * Si passerà quindi a presentare alla lavagna **Voyant**, lo strumento e le sezioni di cui ci serviremo per l’**ESERCIZIO N. 1**. Avremo precaricato sullo strumento il testo che vogliamo leggere con loro. Lo trovate <a href="https://voyant-tools.org/?corpus=c1e2eb6b6230e1ee8c74f0688b800d4e&panels=cirrus,reader,trends,summary,contexts" target="_blank">a questo link</a>.
 
-
 *N.B. ogni docente potrà personalizzare questa sezione secondo la sua confidenza con Voyant, ma il lavoro che qui proponiamo è semplice e permette di familiarizzare, sia noi che i ragazzi, con lo strumento.*
-
 
 * Per prima cosa potremo verificare nel SOMMARIO, in basso a sinistra, se ci sono le parole che ridicono quello che la classe ha capito a caldo. Spostiamo la levetta “voci” sul valore massimo e diamo un rapido sguardo ai termini. Lasciamo che i ragazzi si incuriosiscano.
 * Leggeremo insieme alla classe la consegna dell’ESERCIZIO N.1 e avvieremo il lavoro a partire da un termine a nostra scelta, quindi faremo lavorare a gruppi gli studenti al completamento della tabella dell’esercizio. (Prevediamo per questa fase un’ora di lavoro a gruppi in laboratorio, oppure possiamo assegnare l’esplorazione per casa alla fine della presentazione dell’esercizio e usare l’ora successiva o una porzione dell’ora per la restituzione dei risultati).
