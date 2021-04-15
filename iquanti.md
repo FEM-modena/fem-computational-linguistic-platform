@@ -1,3 +1,10 @@
+---
+layout: page.njk
+title: Una parola, tante (in)comprensioni
+tags: 
+- featured
+---
+
 # Una parola, tante (in)comprensioni
 Attività associata al palinsesto [iQuanti](https://www.agomodena.it/it/programma/iquanti/) di AGO - Modena Fabbriche Culturali
 
