@@ -20,7 +20,7 @@ Nell’attività potrai “dire la tua” in merito a come percepisci l’uso di
 
 ## Istruzioni
 
-1. Prima di iniziare, compila questo questionario.
+1. Prima di iniziare, [compila questo questionario](https://survey.sogosurvey.com/r/U7FjqJ).
 2. Successivamente, **registrati** o **accedi** a [https://app.linda.education/](https://app.linda.education/). Puoi registrarti automaticamente ed accedere utilizzando il tuo account email Google (selezionando l’opzione *Login con Google* nella sezione *Accedi*). Ricordati però di **utilizzare lo stesso indirizzo mail** che hai utilizzato per compilare il questionario. 
 3. Una volta all’interno della piattaforma potrai accedere al dataset dell’esperimento - chiamato ***Una parola, tante (in)comprensioni***, che troverai nella sezione **Progetti**. 
 4. Clicca sul pulsante *Annota*.
