@@ -70,3 +70,32 @@ L’analisi dell’argomentazione condotta su Voyant attraverso l’esercitazion
 
 </div>
 </div>
+
+<div class="accordion-panel">
+<h3 class="accordion-header">Fase B</h3>
+<div class="accordion-body">
+  
+### Il Doping nella società del like
+A completamento della lettura e analisi dell’articolo di M. Serra dal titolo “I dopati della Domenica”, esploreremo ora un insieme di articoli incentrati sul tema *doping* e proponenti punti di vista diversi rispetto a quelli presentati nel precedente articolo. In questa fase, quanto emerso dall’esercitazione su “I dopati della Domenica” servirà da termine di confronto per stimolare una riflessione in merito a questo tema.
+Partiremo presentando alla lavagna **Voyant**, all’interno del quale abbiamo precaricato una selezione di 8 articoli. Trovate il corpus <a href="https://voyant-tools.org/?corpus=f328ce476e0130191827aa2ba39044fd" target="_blank">qui</a>.
+
+Contiene i seguenti articoli: 
+* <a href="https://ricerca.repubblica.it/repubblica/archivio/repubblica/2012/08/08" target="_blank">I dopati della domenica</a>. 08.08.2012 - Michele Serra, Repubblica.it.
+* <a href="https://www.repubblica.it/2008/07/sezioni/sport/doping-dilettanti/doping-dilettanti/doping-dilettanti.html" target="_blank">I dopati della domenica</a>. 22.07.2008 - Maurizio Crosetti, Repubblica.it/Sport.
+* <a href="https://www.corriere.it/sport/21_febbraio_18/schwazer-doping-gip-accoglie-richiesta-archiviazione-caso-chiuso-non-ci-sara-procedimento-penale-7850db80-71e5-11eb-893c-20b27ab3b588.shtml" target="_blank">Schwazer assolto</a>. 18.02.2021 - Giuseppe Toti, Corriere/Sport.
+* <a href="https://www.ilpost.it/2019/09/16/lintricato-caso-di-alex-schwazer/" target="_blank">L’intricato caso di Alex Schwazer</a>. 16.09.2019 - Il Post.
+* <a href="https://www.ilpost.it/2020/10/28/christian-coleman-100-metri-squalifica/" target="_blank">Christian Coleman, campione del mondo dei 100 metri, è stato sospeso due anni per aver violato le norme antidoping</a>. 28.10.2020 - Il Post.
+* <a href="https://www.repubblica.it/sport/vari/2019/12/09/news/doping_russia_esclusa_da_olimpiadi_per_quattro_anni-242990892/" target="_blank">Doping, Russia esclusa dalle Olimpiadi per quattro anni</a>. 09.12.2019 - Repubblica/Sport.
+* <a href="https://www.internazionale.it/opinione/gianluca-ciucci/2016/08/10/alex-schwazer-doping-olimpiadi" target="_blank">Alle Olimpiadi il doping è uno dei protagonisti peggiori</a>. 10.08.2016 - Gianluca Ciucci, Internazionale. 
+* <a href="https://www.internazionale.it/opinione/philippe-ridet/2014/07/28/nibali-e-il-fantasma-di-pantani" target="_blank">Nibali e il fantasma di Pantani</a>. 28.07.2014 - Philippe Ridet, Internazionale. 
+
+
+Si passerà quindi ad esplorare i testi attraverso **Voyant**, usando come linee guida per l’analisi le domande e le riflessioni utilizzate ed emerse durante la **fase A**.
+
+*N.B. ogni docente potrà personalizzare questa sezione secondo la sua confidenza con Voyant, ma il lavoro che qui proponiamo è semplice e permette di familiarizzare, sia noi che i ragazzi, con lo strumento.*
+
+Trovate in <a href="https://drive.google.com/drive/folders/1dAdmtEHY5cavulMaP1fqVtKKDPI5CK2D?usp=sharing">questa cartella</a> le schede didattiche per svolgere l’attività.
+
+
+</div>
+</div>
