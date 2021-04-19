@@ -1,6 +1,29 @@
 # Comprendere, analizzare, interpretare l’argomentazione
 
-<table><thead><tr><th>Scenario</th><th>Strumento</th><th>Caratteristica linguistica</th><th>Tema</th><th>Tipologia testuale</th><th>Tempo stimato</th><th>Destinatari</th><th>BES/Difficoltà</th></tr></thead><tbody><tr><td>Comprendere, analizzare, interpretare un testo argomentativo</td><td>Voyant</td><td>Struttura e lingua dell’argomentazione</td><td>Doping</td><td>Testi argomentativi</td><td>2h Fase A 2h Fase B</td><td>Fine biennio/Inizio triennio SS2</td><td>🟡</td></tr></tbody></table>
+<table>
+  <thead>
+    <tr>
+      <th>Scenario</th>
+      <th>Strumento</th>
+      <th>Caratteristica linguistica</th>
+      <th>Tema</th>
+      <th>Tipologia testuale</th>
+      <th>Tempo stimato</th>
+      <th>Destinatari</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Comprendere, analizzare, interpretare un testo argomentativo</td>
+      <td>Voyant</td>
+      <td>Struttura e lingua dell’argomentazione</td>
+      <td>Doping</td>
+      <td>Testi argomentativi</td>
+      <td>2h Fase A 2h Fase B</td>
+      <td>Fine biennio/Inizio triennio SS2</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Presentazione dell'attività
 
