@@ -1,6 +1,29 @@
 # Comprendere, analizzare, interpretare l’argomentazione
 
-<table><thead><tr><th>Scenario</th><th>Strumento</th><th>Caratteristica linguistica</th><th>Tema</th><th>Tipologia testuale</th><th>Tempo stimato</th><th>Destinatari</th><th>BES/Difficoltà</th></tr></thead><tbody><tr><td>Comprendere, analizzare, interpretare un testo argomentativo</td><td>Voyant</td><td>Struttura e lingua dell’argomentazione</td><td>Doping</td><td>Testi argomentativi</td><td>2h Fase A 2h Fase B</td><td>Fine biennio/Inizio triennio SS2</td><td>🟡</td></tr></tbody></table>
+<table>
+  <thead>
+    <tr>
+      <th>Scenario</th>
+      <th>Strumento</th>
+      <th>Caratteristica linguistica</th>
+      <th>Tema</th>
+      <th>Tipologia testuale</th>
+      <th>Tempo stimato</th>
+      <th>Destinatari</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Comprendere, analizzare, interpretare un testo argomentativo</td>
+      <td>Voyant</td>
+      <td>Struttura e lingua dell’argomentazione</td>
+      <td>Doping</td>
+      <td>Testi argomentativi</td>
+      <td>2h Fase A 2h Fase B</td>
+      <td>Fine biennio/Inizio triennio SS2</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Presentazione dell'attività
 
@@ -91,6 +114,9 @@ Contiene i seguenti articoli:
 
 
 Si passerà quindi ad esplorare i testi attraverso **Voyant**, usando come linee guida per l’analisi le domande e le riflessioni utilizzate ed emerse durante la **fase A**.
+
+L’analisi esplorativa con Voyant rappresenta una **sollecitazione dell'attenzione dei ragazzi su contenuti specifici, ed è un richiamo a leggere con estrema attenzione**: infatti, per quanto tutti i testi siano accomunati da un tema specifico (in questo caso, il *doping*), **ogni testo porta con sé un insieme di significati ed accezioni** che potrebbero essere uniche ad esso, o condivise solo con alcuni testi.  Questo approccio permette pertanto di **porre l’accento sul  confronto tra i testi** - in termini di significati/messaggi, oltre che di lingua -, favorendo una riflessione incentrata sulle distinte posizioni degli scriventi, sul loro tono, funzione e tipologia testuale. L’esplorazione diventa quindi metodo generativo per l’individuazione e la creazione di un confronto puntuale per investigare ciò che sta “al di sotto del testo”. Rafforzare le competenze di comprensione verte infatti sulla capacità di andare in profondità, riuscendo a cogliere quei segnali - spesso un po’ nascosti - che ci permettono di capire un testo appieno.
+
 
 *N.B. ogni docente potrà personalizzare questa sezione secondo la sua confidenza con Voyant, ma il lavoro che qui proponiamo è semplice e permette di familiarizzare, sia noi che i ragazzi, con lo strumento.*
 
