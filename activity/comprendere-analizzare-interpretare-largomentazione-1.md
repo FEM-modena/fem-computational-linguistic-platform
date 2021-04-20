@@ -1,3 +1,13 @@
+---
+tags: 
+- argomentazione
+title: "Comprendere, analizzare, interpretare l'argomentazione | Aprile 2021"
+summary: "Argomentare un pensiero: come migliorare la comprensione e la produzione di testi argomentativi? Lavoreremo su testi che raccontano notizie e dibattiti attuali e di interesse internazionale"
+tool: "LINDA - Annotazione"
+toolurl: "https://app.linda.education/"
+
+---
+
 # Comprendere, analizzare, interpretare l’argomentazione
 
 <table>
