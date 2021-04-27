@@ -1,5 +1,5 @@
 ---
-tags: 
+tags:
 - argomentazione
 title: "Comprendere, analizzare, interpretare l'argomentazione | Aprile 2021"
 summary: "Argomentare un pensiero: come migliorare la comprensione e la produzione di testi argomentativi? Lavoreremo su testi che raccontano notizie e dibattiti attuali e di interesse internazionale"
@@ -40,15 +40,15 @@ toolurl: "https://app.linda.education/"
 <div class="accordion">
 
 ## Lo scenario
-Ci accorgiamo spesso che i nostri alunni comprendono in modo solo e per così dire “globale” un testo, a volte anche in modo impreciso, e difficilmente si soffermano sul peso che singole espressioni possono avere per la piena comprensione di quello che stanno leggendo. 
+Ci accorgiamo spesso che i nostri alunni comprendono in modo solo e per così dire “globale” un testo, a volte anche in modo impreciso, e difficilmente si soffermano sul peso che singole espressioni possono avere per la piena comprensione di quello che stanno leggendo.
 Una comprensione così poco precisa espone al rischio di fraintendimenti o di perdita del focus centrale del testo, soprattutto quando il testo in questione è molto lungo.
-Le ricadute di un metodo così incerto sono gravi e tutti le osserviamo: vanno dall’inefficacia dello studio quotidiano, ai risultati fallimentari nelle prove standardizzate (compresi i test d’ingresso all’Università), fino ad una più generale competenza di cittadinanza imperfetta. Li dobbiamo preparare infatti perché lungo l’intero arco della vita sappiano *imparare ad imparare*, *comunicare* efficacemente, *individuare collegamenti e relazioni* ed *acquisire ed interpretare l’informazione*, per citare solo alcune competenze di cittadinanza. 
+Le ricadute di un metodo così incerto sono gravi e tutti le osserviamo: vanno dall’inefficacia dello studio quotidiano, ai risultati fallimentari nelle prove standardizzate (compresi i test d’ingresso all’Università), fino ad una più generale competenza di cittadinanza imperfetta. Li dobbiamo preparare infatti perché lungo l’intero arco della vita sappiano *imparare ad imparare*, *comunicare* efficacemente, *individuare collegamenti e relazioni* ed *acquisire ed interpretare l’informazione*, per citare solo alcune competenze di cittadinanza.
 **Lo scenario che proponiamo intende esercitare una comprensione approfondita dei testi non letterari e cerca di rendere più interessante per i ragazzi la nostra classica ANALISI DELL’ARGOMENTAZIONE, peraltro Tipologia B dell’Esame di Stato e metodo corrente di ogni prova Invalsi. Affiancheremo all’attività tradizionale l’uso di Voyant e di LINDA, che consentiranno di tornare sui testi a più riprese in modo agile e veloce.**
 L’uso autonomo da parte dei ragazzi sarà più giocoso di una lettura tradizionale e in questo modo proveremo ad attivare un metodo di lettura approfondita che insegnerà ai ragazzi a fermarsi sul testo un po’ più a lungo di quanto siano soliti fare.
 
 ## L'attività
-L’attività che proponiamo si articola in due fasi: 
-* una **fase A** di lettura e analisi approfondita di un singolo testo, che permetterà di osservare la struttura argomentativa del discorso e le risorse linguistiche utilizzate da chi scrive per convincere il suo lettore; 
+L’attività che proponiamo si articola in due fasi:
+* una **fase A** di lettura e analisi approfondita di un singolo testo, che permetterà di osservare la struttura argomentativa del discorso e le risorse linguistiche utilizzate da chi scrive per convincere il suo lettore;
 * una seconda **fase B** in cui il testo di partenza verrà fatto dialogare con altri documenti che ragionano sullo stesso tema: sarà così possibile confrontare diversi punti di vista, attraverso l’esplorazione consentita dagli strumenti della linguistica.
 Spesso infatti ai nostri alunni risulta difficile confrontare in modo efficace testi che parlino dello stesso argomento: fanno fatica a trovare tesi e argomentazioni proposte dai diversi scrittori e non sempre sono in grado di osservare efficacemente differenze di posizione rispetto ad uno stesso tema.
 Questa seconda fase dell’attività permetterà dunque di fare un passo in più nella maturazione di competenze linguistiche che serviranno per continuare ad apprendere.
@@ -80,13 +80,13 @@ Fornire un pc per ciascuno studente o gruppo di studenti.
 </div>
 </div>
 
-## Comprendere, analizzare, interpretare l’argomentazione 
+## Comprendere, analizzare, interpretare l’argomentazione 1
 <div class="accordion-panel">
 <h3 class="accordion-header">Fase A</h3>
 <div class="accordion-body">
 
 ### Il Doping nella società del like
-Il nostro primo modello di esercitazione è costruito su un articolo di M. Serra dal titolo “I dopati della Domenica”, pubblicato su Repubblica l’8 Agosto del 2012. 
+Il nostro primo modello di esercitazione è costruito su un articolo di M. Serra dal titolo “I dopati della Domenica”, pubblicato su Repubblica l’8 Agosto del 2012.
 * Partiremo leggendo insieme il testo e raccogliendo un veloce giro di commenti da parte della classe: questa attività iniziale ci servirà per verificare insieme agli alunni cosa abbiano compreso del testo già ad una prima lettura.
 
 * Si passerà quindi a presentare alla lavagna **Voyant**, lo strumento e le sezioni di cui ci serviremo per l’**ESERCIZIO N. 1**. Avremo precaricato sullo strumento il testo che vogliamo leggere con loro. Lo trovate <a href="https://voyant-tools.org/?corpus=c1e2eb6b6230e1ee8c74f0688b800d4e&panels=cirrus,reader,trends,summary,contexts" target="_blank">a questo link</a>.
@@ -107,20 +107,20 @@ L’analisi dell’argomentazione condotta su Voyant attraverso l’esercitazion
 <div class="accordion-panel">
 <h3 class="accordion-header">Fase B</h3>
 <div class="accordion-body">
-  
+
 ### Il Doping nella società del like
 A completamento della lettura e analisi dell’articolo di M. Serra dal titolo “I dopati della Domenica”, esploreremo ora un insieme di articoli incentrati sul tema *doping* e proponenti punti di vista diversi rispetto a quelli presentati nel precedente articolo. In questa fase, quanto emerso dall’esercitazione su “I dopati della Domenica” servirà da termine di confronto per stimolare una riflessione in merito a questo tema.
 Partiremo presentando alla lavagna **Voyant**, all’interno del quale abbiamo precaricato una selezione di 8 articoli. Trovate il corpus <a href="https://voyant-tools.org/?corpus=f328ce476e0130191827aa2ba39044fd" target="_blank">qui</a>.
 
-Contiene i seguenti articoli: 
+Contiene i seguenti articoli:
 * <a href="https://ricerca.repubblica.it/repubblica/archivio/repubblica/2012/08/08" target="_blank">I dopati della domenica</a>. 08.08.2012 - Michele Serra, Repubblica.it.
 * <a href="https://www.repubblica.it/2008/07/sezioni/sport/doping-dilettanti/doping-dilettanti/doping-dilettanti.html" target="_blank">I dopati della domenica</a>. 22.07.2008 - Maurizio Crosetti, Repubblica.it/Sport.
 * <a href="https://www.corriere.it/sport/21_febbraio_18/schwazer-doping-gip-accoglie-richiesta-archiviazione-caso-chiuso-non-ci-sara-procedimento-penale-7850db80-71e5-11eb-893c-20b27ab3b588.shtml" target="_blank">Schwazer assolto</a>. 18.02.2021 - Giuseppe Toti, Corriere/Sport.
 * <a href="https://www.ilpost.it/2019/09/16/lintricato-caso-di-alex-schwazer/" target="_blank">L’intricato caso di Alex Schwazer</a>. 16.09.2019 - Il Post.
 * <a href="https://www.ilpost.it/2020/10/28/christian-coleman-100-metri-squalifica/" target="_blank">Christian Coleman, campione del mondo dei 100 metri, è stato sospeso due anni per aver violato le norme antidoping</a>. 28.10.2020 - Il Post.
 * <a href="https://www.repubblica.it/sport/vari/2019/12/09/news/doping_russia_esclusa_da_olimpiadi_per_quattro_anni-242990892/" target="_blank">Doping, Russia esclusa dalle Olimpiadi per quattro anni</a>. 09.12.2019 - Repubblica/Sport.
-* <a href="https://www.internazionale.it/opinione/gianluca-ciucci/2016/08/10/alex-schwazer-doping-olimpiadi" target="_blank">Alle Olimpiadi il doping è uno dei protagonisti peggiori</a>. 10.08.2016 - Gianluca Ciucci, Internazionale. 
-* <a href="https://www.internazionale.it/opinione/philippe-ridet/2014/07/28/nibali-e-il-fantasma-di-pantani" target="_blank">Nibali e il fantasma di Pantani</a>. 28.07.2014 - Philippe Ridet, Internazionale. 
+* <a href="https://www.internazionale.it/opinione/gianluca-ciucci/2016/08/10/alex-schwazer-doping-olimpiadi" target="_blank">Alle Olimpiadi il doping è uno dei protagonisti peggiori</a>. 10.08.2016 - Gianluca Ciucci, Internazionale.
+* <a href="https://www.internazionale.it/opinione/philippe-ridet/2014/07/28/nibali-e-il-fantasma-di-pantani" target="_blank">Nibali e il fantasma di Pantani</a>. 28.07.2014 - Philippe Ridet, Internazionale.
 
 
 Si passerà quindi ad esplorare i testi attraverso **Voyant**, usando come linee guida per l’analisi le domande e le riflessioni utilizzate ed emerse durante la **fase A**.
@@ -132,6 +132,43 @@ L’analisi esplorativa con Voyant rappresenta una **sollecitazione dell'attenzi
 
 Trovate in <a href="https://drive.google.com/drive/folders/1dAdmtEHY5cavulMaP1fqVtKKDPI5CK2D?usp=sharing">questa cartella</a> le schede didattiche per svolgere l’attività.
 
+
+</div>
+</div>
+
+## Comprendere, analizzare, interpretare l’argomentazione 2
+<div class="accordion-panel">
+<h3 class="accordion-header">La politica dell’insulto</h3>
+<div class="accordion-body">
+Le attività che abbiamo pensato per questo lavoro sull’argomentazione prevedono tre diversi modelli di esercitazione.
+Il nostro primo modello di esercitazione è costruito su un articolo di C. Magris dal titolo “Se la volgarità non scandalizza più. La politica dell’insulto”, pubblicato sul Corriere della Sera il 20 Agosto del 2010.
+Partiremo leggendo insieme il testo e raccogliendo un veloce giro di commenti da parte della classe: questa attività iniziale ci servirà per verificare insieme agli alunni cosa abbiano compreso del testo già ad una prima lettura.
+L’articolo è disponibile per una lettura anche su **Voyant**; lo trovate <a href="https://voyant-tools.org/?corpus=60e5e1625e84dd3011cb83168d7a404e" target="_blank">a questo link</a>.
+Per avviare una prima esplorazione con lo strumento, potete riferirvi alle schede esercitazione presentate sopra (FASE A).
+
+A completamento della lettura e analisi dell’articolo “Se la volgarità non scandalizza più. La politica dell’insulto”, esploreremo ora un insieme di articoli incentrati sul tema della *violenza verbale* e proponenti punti di vista diversi rispetto a quelli presentati nel precedente articolo. In questa fase, quanto emerso dall’esercitazione sul testo di C. Magris servirà da termine di confronto per stimolare una riflessione in merito a questo tema.
+Partiremo presentando alla lavagna **Voyant**, all’interno del quale abbiamo precaricato una selezione di 6 articoli. Trovate il corpus <a href="https://voyant-tools.org/?corpus=55cafa283271388960d91a64b84f9508" target="_blank">qui</a>.
+
+Contiene i seguenti articoli:
+* <a href="https://www.corriere.it/editoriali/10_agosto_20/politica-insulto-editoriale-magris_237b01e0-ac1a-11df-9663-00144f02aabe.shtml" target="_blank">Se la volgarità non scandalizza più. La politica dell’insulto</a>. 20.08.2010 - Claudio Magris, Corriere.it.
+
+* <a href="https://www.iodonna.it/attualita/eventi-e-mostre/2018/06/12/michela-murgia-per-parole-ostili-il-linguaggio-dellodio-questi-tempi-di-violenza-2-0/" target="_blank">Michela Murgia con Parole Ostili. Il linguaggio dell’odio in questi tempi di violenza 2.0</a>. 12.06.2018 - Simona Regina, Iodonna.it.
+
+* <a href="https://www.corriere.it/tecnologia/20_aprile_27/parole-ostili-parole-che-scelgo-raccontano-persona-che-sono-combattono-ogni-virus-32938a92-8876-11ea-96e3-c7b28bb4a705.shtml" target="_blank">Parole Ostili, le parole che scelgo raccontano la persona che sono</a>. 27.04.2020 - Silvia Morosi, Corriere.it.
+
+* <a href="https://www.agendadigitale.eu/cultura-digitale/quando-la-lingua-separa-e-ferisce44241/" target="_blank">Tutti i modi dell’hate speech sui social media: quando la lingua separa e ferisce</a>. 03.05.2018 - Vera Gheno, Agendadigitale.eu.
+
+* <a href="https://www.instagram.com/p/CNr6Q3ZnJ40/" target="_blank">Post Instagram dal profilo dell’avvocato Cathy la Torre</a>.
+
+* <a href="https://espresso.repubblica.it/opinioni/2021/02/26/news/i_talk_show_italiani_sono_il_regno_del_razzismo_quello_che_qui_e_normale_altrove_sarebbe_considerato_barbaro-289202698/" target="_blank">I talk show italiani sono il regno del razzismo</a>. 26.02.2021 - Djarah Kan, Espresso.it.  
+
+Il corpus contiene inoltre un settimo testo, costituito da un commento lasciato all’articolo di D. Kan di cui sopra (in Voyant trovate i due testi come 6a e 6b).
+
+Si passerà quindi ad esplorare i testi attraverso **Voyant**, usando come linee guida per l’analisi le domande e le riflessioni che trovate nella scheda esercitazione 2.
+
+Infine, il terzo modello di esercitazione, che completa e chiude le due esercitazioni precedenti, è rappresentato da un’analisi comparata delle diverse strategie di argomentazione.
+
+Trovate in <a href="https://drive.google.com/drive/folders/1dzJ3Xysqbvnxg-uBZSUcnJgq5qkTROXa">questa cartella</a> le tre schede didattiche complete di correttore per svolgere l’attività, e la griglia per la valutazione.
 
 </div>
 </div>
